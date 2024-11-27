@@ -147,6 +147,7 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_ext
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
 urllib3==2.2.3
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
+webdriver-manager==4.0.2
 webencodings==0.5.1
 websocket-client==1.8.0
 websockets==13.0.1
