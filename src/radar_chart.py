@@ -103,7 +103,7 @@ def generate_custom_radar_chart(player_df, metrics, renamed_metrics, player_name
 
 # ---------------- EXECUTION EXAMPLE ----------------
 if __name__ == "__main__":
-    path = TRANSFORMED_DATA_DIR / 'df_training_unscaled_labeled.csv'
+    path = LABELED_DATA_DIR / 'df_training_unscaled_labeled.csv'
     df = pd.read_csv(path)
 
     # Drop unnecessary columns
@@ -154,7 +154,7 @@ if __name__ == "__main__":
     # Generate radar charts for midfielders
     for _, row in top_5_midfielders.iterrows():
         player_name = row['player']
-        output_path = RADARS_DIR / f"{player_name}_radar_chart.png"
+        output_path = ASSETS_DIR / f"{player_name}_radar_chart.png"
         fig = generate_custom_radar_chart(
             midfielders_percentiles,
             metrics_midfielders,
@@ -173,7 +173,7 @@ if __name__ == "__main__":
     # Generate radar charts for forwards
     for _, row in top_5_forwards.iterrows():
         player_name = row['player']
-        output_path = RADARS_DIR / f"{player_name}_radar_chart.png"
+        output_path = ASSETS_DIR / f"{player_name}_radar_chart.png"
         fig = generate_custom_radar_chart(
             forwards_percentiles,
             metrics_forwards,
@@ -190,6 +190,6 @@ if __name__ == "__main__":
         player_categories[player_name] = "Forward"
 
     # Save in JSON file
-    categories_path = RADARS_DIR / "categories.json"
+    categories_path = ASSETS_DIR / "categories.json"
     with open(categories_path, 'w') as f:
         json.dump(player_categories, f, indent=4)

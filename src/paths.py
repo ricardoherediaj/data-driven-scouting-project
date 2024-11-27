@@ -10,6 +10,8 @@ LABELED_DATA_DIR = DATA_DIR / 'labeled_results'
 
 MODELS_DIR = PARENT_DIR / 'models'
 
+ASSETS_DIR = PARENT_DIR / 'assets'
+
 if not Path(DATA_DIR).exists():
     os.mkdir(DATA_DIR)
 
@@ -24,3 +26,6 @@ if not Path(MODELS_DIR).exists():
 
 if not Path(DATA_CACHE_DIR).exists():
     os.mkdir(DATA_CACHE_DIR)
+
+if not Path(ASSETS_DIR).exists():
+    os.mkdir(ASSETS_DIR)

@@ -8,7 +8,7 @@ st.set_page_config(page_title="Football Radar Charts", layout="wide")
 st.title("Scouted Players Radar Charts - Season 2024/2025")
 
 # Load categories from the JSON file
-categories_path = RADARS_DIR / "categories.json"
+categories_path = ASSETS_DIR / "categories.json"
 if categories_path.exists():
     with open(categories_path, 'r') as f:
         player_categories = json.load(f)
@@ -36,7 +36,7 @@ else:
 st.subheader(f"Radar Chart for {player}")
 
 # Build the path for the radar chart image
-image_path = RADARS_DIR / f"{player}_radar_chart.png"
+image_path = ASSETS_DIR / f"{player}_radar_chart.png"
 
 if image_path.exists():
     st.image(image_path.as_posix(), caption=f"{player}'s Radar Chart", use_container_width=True)
