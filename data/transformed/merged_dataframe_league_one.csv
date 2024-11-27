@@ -1,696 +1,693 @@
 player,nation_stats_standard,squad,age_stats_standard,born_stats_standard,playing_time_90s_stats_standard,position_2_stats_standard,position_stats_standard,standard_gls_stats_shooting,standard_sh_stats_shooting,standard_sot_stats_shooting,standard_sot%_stats_shooting,standard_sh_90_stats_shooting,standard_sot_90_stats_shooting,playing_time_90s_stats_playing_time,playing_time_mp_stats_playing_time,playing_time_min_stats_playing_time,performance_off_stats_misc,performance_crs_stats_misc,performance_int_stats_misc,performance_tklw_stats_misc
-Thelo Aasgaard,NOR,Wigan Athletic,22,2002,13.9,,Midfielder,5,42,18,42.9,3.02,1.29,13.9,16,1253,1,6,11,9
+Thelo Aasgaard,NOR,Wigan Athletic,22,2002,12.1,,Midfielder,3,32,12,37.5,2.63,0.99,12.1,14,1093,1,6,8,9
 Ken Aboh,ENG,Stevenage,20,2004,0.5,,Midfielder,0,2,1,50.0,3.83,1.91,0.5,2,47,0,0,0,0
 Kelvin Abrefa,ENG,Reading,20,2003,2.9,,Defender,0,2,0,0.0,0.69,0.00,2.9,9,259,0,2,4,6
 Tayo Adaramola,IRL,Stockport,21,2003,2.7,Midfielder,Defender,0,2,2,100.0,0.74,0.74,2.7,5,242,0,9,0,7
 Corey Addai,JAM,Stockport,27,1997,13.5,,Goalkeeper,0,0,0,0,0.00,0.00,13.5,14,1215,0,0,0,0
-Victor Adeboyejo,ENG,Bolton,26,1998,7.7,,Forward,2,13,6,46.2,1.69,0.78,7.7,16,691,4,4,3,1
-Babajide Adeeko,IRL,Wigan Athletic,21,2003,7.9,,Midfielder,0,3,1,33.3,0.38,0.13,7.9,12,709,1,10,6,7
-Ade Adeyemo,ENG,Crawley Town,26,1998,4.0,Forward,Midfielder,1,9,4,44.4,2.24,0.99,4.0,11,362,0,10,1,3
-Dan Agyei,ENG,Leyton Orient,27,1997,13.1,Forward,Midfielder,2,18,5,27.8,1.38,0.38,13.1,16,1176,8,24,0,2
-Ashqar Ahmed,,Reading,0,0,0.3,,Defender,0,0,0,0,0.00,0.00,0.3,2,28,0,1,0,0
-Will Aimson,ENG,Wigan Athletic,28,1995,15.8,,Defender,0,5,2,40.0,0.32,0.13,15.8,16,1422,0,0,20,20
-Jack Aitchison,SCO,Exeter City,24,2000,12.5,,Midfielder,0,19,3,15.8,1.51,0.24,12.5,15,1129,2,22,12,6
+Victor Adeboyejo,ENG,Bolton,26,1998,7.4,,Forward,2,13,6,46.2,1.77,0.82,7.4,14,662,2,4,3,1
+Babajide Adeeko,IRL,Wigan Athletic,21,2003,6.9,,Midfielder,0,3,1,33.3,0.44,0.15,6.9,11,619,1,10,5,6
+Ade Adeyemo,ENG,Crawley Town,26,1998,3.2,Forward,Midfielder,1,8,4,50.0,2.48,1.24,3.2,10,290,0,7,0,3
+Dan Agyei,ENG,Leyton Orient,27,1997,11.1,Forward,Midfielder,2,18,5,27.8,1.63,0.45,11.1,14,996,6,21,0,1
+Ashqar Ahmed,,Reading,0,0,0.2,,Defender,0,0,0,0,0.00,0.00,0.2,1,16,0,1,0,0
+Will Aimson,ENG,Wigan Athletic,28,1995,13.8,,Defender,0,5,2,40.0,0.36,0.14,13.8,14,1242,0,0,19,18
+Jack Aitchison,SCO,Exeter City,24,2000,10.7,,Midfielder,0,18,2,11.1,1.68,0.19,10.7,13,966,1,22,9,5
 David Ajiboye,ENG,P'borough Utd,26,1998,2.3,Defender,Midfielder,0,0,0,0,0.00,0.00,2.3,6,208,0,8,3,4
 Adrian Akande,NGA,Reading,21,2003,4.3,,Forward,0,4,1,25.0,0.93,0.23,4.3,10,388,5,13,2,2
-Lucas Akins,GRN,Mansfield Town,35,1989,7.3,Defender,Forward,0,3,2,66.7,0.41,0.27,7.3,10,656,2,10,10,9
+Lucas Akins,GRN,Mansfield Town,35,1989,5.6,Midfielder,Defender,0,2,1,50.0,0.36,0.18,5.6,8,505,2,7,10,8
 Nicholas Akoto,USA,Burton Albion,26,1998,5.1,Defender,Midfielder,0,4,1,25.0,0.79,0.20,5.1,12,457,3,9,1,11
 Millenic Alli,IRL,Exeter City,24,2000,10.0,Midfielder,Forward,1,21,6,28.6,2.10,0.60,10.0,14,902,8,20,5,9
-Ryan Allsop,ENG,Birmingham City,32,1992,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,8.0,8,720,0,0,0,0
-Karoy Anderson,JAM,Charlton Ath,20,2004,8.3,,Midfielder,0,5,2,40.0,0.60,0.24,8.3,12,751,2,7,5,11
-Keshi Anderson,ENG,Birmingham City,29,1995,9.1,,Midfielder,3,20,5,25.0,2.20,0.55,9.1,14,819,6,23,4,9
-Max Anderson,SCO,Crawley Town,23,2001,10.7,,Midfielder,1,7,2,28.6,0.65,0.19,10.7,15,962,0,5,12,15
-Danny Andrew,ENG,Cambridge Utd,33,1990,13.3,,Defender,1,11,4,36.4,0.83,0.30,13.3,15,1197,0,63,16,9
+Ryan Allsop,ENG,Birmingham City,32,1992,6.0,,Goalkeeper,0,0,0,0,0.00,0.00,6.0,6,540,0,0,0,0
+Karoy Anderson,JAM,Charlton Ath,20,2004,6.8,,Midfielder,0,3,1,33.3,0.44,0.15,6.8,10,613,2,6,5,7
+Keshi Anderson,ENG,Birmingham City,29,1995,7.7,,Midfielder,3,16,4,25.0,2.07,0.52,7.7,12,696,4,22,4,7
+Max Anderson,SCO,Crawley Town,23,2001,9.7,,Midfielder,1,6,1,16.7,0.62,0.10,9.7,14,872,0,4,12,13
+Danny Andrew,ENG,Cambridge Utd,33,1990,11.3,,Defender,1,9,4,44.4,0.80,0.35,11.3,13,1017,0,48,12,8
 Chuks Aneke,ENG,Charlton Ath,31,1993,2.5,Midfielder,Forward,1,14,3,21.4,5.70,1.22,2.5,9,221,2,2,1,1
 Louis Appere,SCO,Stevenage,25,1999,0.9,Midfielder,Forward,0,2,2,100.0,2.20,2.20,0.9,3,82,0,0,0,1
-Robert Apter,SCO,Blackpool,21,2003,14.0,,Midfielder,1,31,10,32.3,2.22,0.72,14.0,17,1256,0,56,7,17
+Robert Apter,SCO,Blackpool,21,2003,12.1,,Midfielder,1,29,8,27.6,2.39,0.66,12.1,15,1093,0,51,7,16
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
 Scott Arfield,CAN,Bolton,36,1988,2.8,,Midfielder,0,5,2,40.0,1.81,0.73,2.8,11,248,0,4,1,1
-Jack Armer,SCO,Burton Albion,23,2001,11.0,,Defender,0,2,0,0.0,0.18,0.00,11.0,13,987,0,31,5,14
-Maleace Asamoah,ENG,Wigan Athletic,22,2002,0.3,,Forward,0,0,0,0,0.00,0.00,0.3,3,25,1,0,0,0
+Jack Armer,SCO,Burton Albion,23,2001,9.0,,Defender,0,1,0,0.0,0.11,0.00,9.0,11,807,0,25,5,11
+Maleace Asamoah,ENG,Wigan Athletic,22,2002,0.3,,Forward,0,0,0,0,0.00,0.00,0.3,2,24,1,0,0,0
 Taye Ashby-Hammond,ENG,Stevenage,25,1999,2.0,,Goalkeeper,0,0,0,0,0.00,0.00,2.0,2,180,0,0,0,0
-Zachary Ashworth,WAL,Blackpool,22,2002,1.0,Midfielder,Defender,0,0,0,0,0.00,0.00,1.0,4,91,0,3,3,2
+Zachary Ashworth,WAL,Blackpool,22,2002,0.8,Midfielder,Defender,0,0,0,0,0.00,0.00,0.8,3,76,0,2,3,2
 Femi Azeez,ENG,Reading,23,2001,0.3,,Midfielder,0,3,2,66.7,9.31,6.21,0.3,1,29,0,0,1,0
-Keanu Baccus,AUS,Mansfield Town,26,1998,9.6,,Midfielder,1,19,5,26.3,1.97,0.52,9.6,14,866,1,30,13,16
+Keanu Baccus,AUS,Mansfield Town,26,1998,8.6,,Midfielder,1,16,5,31.3,1.87,0.58,8.6,12,770,0,21,11,15
 Elkan Baggott,IDN,Blackpool,22,2002,2.0,,Defender,0,1,0,0.0,0.50,0.00,2.0,2,180,0,0,2,3
-Odin Bailey,ENG,Stockport,24,1999,3.8,,Midfielder,1,7,3,42.9,1.85,0.79,3.8,13,341,0,12,1,5
+Odin Bailey,ENG,Stockport,24,1999,3.6,,Midfielder,1,7,3,42.9,1.96,0.84,3.6,12,322,0,11,1,5
 Geraldo Bajrami,ALB,Burton Albion,25,1999,0.2,,Defender,0,0,0,0,0.00,0.00,0.2,1,15,0,0,0,0
 Tyreeq Bakinson,ENG,Wycombe,26,1998,3.2,,Midfielder,0,5,1,20.0,1.57,0.31,3.2,10,286,0,2,2,2
 Jack Baldwin,ENG,Northampton,31,1993,11.4,,Defender,1,5,3,60.0,0.44,0.26,11.4,13,1029,0,3,17,6
-Dominic Ball,ENG,Leyton Orient,29,1995,5.6,Defender,Midfielder,0,2,0,0.0,0.36,0.00,5.6,11,507,0,2,5,8
-Dominic Ballard,ENG,Blackpool,19,2005,7.0,Midfielder,Forward,1,19,7,36.8,2.71,1.00,7.0,12,631,1,5,1,2
-Alex Bannon,SCO,Burton Albion,21,2003,8.1,Midfielder,Defender,0,2,2,100.0,0.25,0.25,8.1,9,732,0,3,12,17
-Charlie Barker,ENG,Crawley Town,21,2003,8.4,,Defender,0,3,1,33.3,0.36,0.12,8.4,10,755,0,3,13,9
-Ryan Barnett,ENG,Wrexham,25,1999,15.6,Midfielder,Defender,1,11,5,45.5,0.70,0.32,15.6,16,1405,1,108,10,19
-Louie Barry,ENG,Stockport,21,2003,14.2,Forward,Midfielder,13,53,28,52.8,3.74,1.98,14.2,17,1275,3,27,6,8
+Dominic Ball,ENG,Leyton Orient,29,1995,4.8,Defender,Midfielder,0,1,0,0.0,0.21,0.00,4.8,9,431,0,2,5,6
+Dominic Ballard,ENG,Blackpool,19,2005,5.9,Midfielder,Forward,1,17,7,41.2,2.87,1.18,5.9,10,534,1,3,1,1
+Alex Bannon,SCO,Burton Albion,21,2003,6.6,,Defender,0,2,2,100.0,0.30,0.30,6.6,7,597,0,1,10,15
+Charlie Barker,ENG,Crawley Town,21,2003,7.4,,Defender,0,3,1,33.3,0.41,0.14,7.4,9,665,0,2,12,8
+Ryan Barnett,ENG,Wrexham,25,1999,13.6,,Defender,1,10,5,50.0,0.73,0.37,13.6,14,1225,1,98,7,18
+Louie Barry,ENG,Stockport,21,2003,13.4,Forward,Midfielder,11,47,23,48.9,3.51,1.72,13.4,16,1204,3,26,6,7
 Jaiden Bartolo,GIB,Wycombe,18,2006,0.4,,Forward,0,0,0,0,0.00,0.00,0.4,2,35,0,3,0,0
 Daniel Barton,ENG,Cambridge Utd,19,2005,3.4,Forward,Midfielder,0,4,1,25.0,1.19,0.30,3.4,7,303,0,5,4,1
-Lewis Bate,ENG,Stockport,22,2002,12.6,,Midfielder,1,10,2,20.0,0.79,0.16,12.6,14,1135,0,24,14,19
-Nathan Baxter,ENG,Bolton,26,1998,11.0,,Goalkeeper,0,0,0,0,0.00,0.00,11.0,11,990,0,0,0,0
+Lewis Bate,ENG,Stockport,22,2002,11.6,,Midfielder,0,9,1,11.1,0.78,0.09,11.6,13,1045,0,24,13,19
+Nathan Baxter,ENG,Bolton,26,1998,9.0,,Goalkeeper,0,0,0,0,0.00,0.00,9.0,9,810,0,0,0,0
 Tom Bayliss,ENG,Lincoln City,25,1999,6.4,,Midfielder,0,9,3,33.3,1.41,0.47,6.4,9,574,0,28,3,4
-Omar Beckles,GRN,Leyton Orient,33,1991,13.7,,Defender,0,4,0,0.0,0.29,0.00,0,0,0,0,0,7,13
-Jake Beesley,ENG,Blackpool,27,1996,2.4,Forward,Midfielder,1,4,2,50.0,1.69,0.85,13.7,15,1231,0,1,3,3
+Omar Beckles,GRN,Leyton Orient,33,1991,11.7,,Defender,0,4,0,0.0,0.34,0.00,0,0,0,0,0,6,8
+Jake Beesley,ENG,Blackpool,27,1996,2.4,Forward,Midfielder,1,4,2,50.0,1.69,0.85,11.7,13,1051,0,1,3,3
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Liam Bennett,ENG,Cambridge Utd,22,2001,11.4,,Midfielder,0,5,3,60.0,0.44,0.26,2.4,8,213,2,79,18,12
-Mason Bennett,ENG,Burton Albion,28,1996,4.5,,Midfielder,0,8,2,25.0,1.76,0.44,0,0,0,1,3,2,4
-Malvind Benning,ENG,Shrewsbury,31,1993,13.8,Midfielder,Defender,0,11,3,27.3,0.80,0.22,11.4,13,1023,2,96,17,16
-Josh Benson,ENG,Barnsley,24,1999,1.7,,Midfielder,0,4,2,50.0,2.29,1.15,4.5,10,409,0,11,3,4
-Luke Berry,ENG,Charlton Ath,32,1992,7.9,,Midfielder,4,20,10,50.0,2.52,1.26,13.8,15,1242,1,22,3,7
-Krystian Bielik,POL,Birmingham City,26,1998,10.4,,Defender,1,5,1,20.0,0.48,0.10,1.7,6,157,0,1,23,11
-Harrison Biggins,ENG,Shrewsbury,28,1996,1.1,,Midfielder,0,2,0,0.0,1.87,0.00,7.9,16,713,0,1,1,1
-Nicholas Bilokapic,AUS,P'borough Utd,22,2002,4.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.4,11,935,0,0,0,1
-Bryant Bilongo,ENG,Bristol Rovers,23,2001,9.3,Defender,Midfielder,1,6,2,33.3,0.64,0.21,1.1,3,96,1,20,21,7
-Tyler Bindon,NZL,Reading,19,2005,15.8,,Defender,0,9,2,22.2,0.57,0.13,4.0,4,360,1,0,14,10
-Jay Bird,ENG,Exeter City,23,2001,1.7,,Forward,0,2,1,50.0,1.20,0.60,9.3,14,839,0,2,0,1
-Nathan Bishop,ENG,Wycombe,25,1999,2.0,,Goalkeeper,0,0,0,0,0.00,0.00,15.8,16,1422,0,0,0,0
-Frazer Blake-Tracy,ENG,Mansfield Town,29,1995,5.4,Defender,Midfielder,0,3,0,0.0,0.56,0.00,1.7,7,150,1,9,6,2
-Tom Bloxham,ENG,Shrewsbury,21,2003,8.2,Forward,Midfielder,3,12,5,41.7,1.46,0.61,2.0,2,180,1,42,5,9
-Hiram Boateng,ENG,Mansfield Town,28,1996,8.9,,Midfielder,1,6,2,33.3,0.68,0.23,0,0,0,0,36,4,7
-Billy Bodin,WAL,Burton Albion,32,1992,5.4,Forward,Midfielder,3,16,5,31.3,2.99,0.93,5.4,8,485,4,10,3,5
-Terry Bondo,ENG,Blackpool,17,2007,0.6,,Forward,0,4,1,25.0,6.92,1.73,8.2,14,741,1,1,0,0
-Pedro Borges,POR,Exeter City,19,2005,0.1,,Midfielder,0,0,0,0,0.00,0.00,8.9,14,799,0,0,1,0
-Jordan Bowery,ENG,Mansfield Town,33,1991,8.8,,Defender,0,0,0,0,0.00,0.00,5.4,8,482,0,4,9,9
+Liam Bennett,ENG,Cambridge Utd,22,2001,9.4,,Midfielder,0,5,3,60.0,0.53,0.32,2.4,8,213,2,73,13,9
+Mason Bennett,ENG,Burton Albion,28,1996,3.9,,Midfielder,0,8,2,25.0,2.06,0.52,0,0,0,1,2,2,4
+Malvind Benning,ENG,Shrewsbury,31,1993,12.8,Midfielder,Defender,0,11,3,27.3,0.86,0.23,9.4,11,843,2,93,15,16
+Josh Benson,ENG,Barnsley,24,1999,1.7,,Midfielder,0,4,2,50.0,2.29,1.15,3.9,8,349,0,11,3,4
+Luke Berry,ENG,Charlton Ath,32,1992,6.8,,Midfielder,4,18,9,50.0,2.65,1.32,12.8,14,1152,1,20,3,4
+Krystian Bielik,POL,Birmingham City,26,1998,8.4,,Defender,1,5,1,20.0,0.59,0.12,1.7,6,157,0,0,20,6
+Harrison Biggins,ENG,Shrewsbury,28,1996,1.1,,Midfielder,0,2,0,0.0,1.87,0.00,6.8,14,612,0,1,1,1
+Nicholas Bilokapic,AUS,P'borough Utd,22,2002,3.0,,Goalkeeper,0,0,0,0,0.00,0.00,8.4,9,757,0,0,0,1
+Bryant Bilongo,ENG,Bristol Rovers,23,2001,8.7,Defender,Midfielder,1,6,2,33.3,0.69,0.23,1.1,3,96,1,19,19,7
+Tyler Bindon,NZL,Reading,19,2005,13.8,,Defender,0,9,2,22.2,0.65,0.14,3.0,3,270,1,0,14,10
+Jay Bird,ENG,Exeter City,23,2001,0.9,,Forward,0,0,0,0,0.00,0.00,8.7,13,779,0,2,0,1
+Nathan Bishop,ENG,Wycombe,25,1999,2.0,,Goalkeeper,0,0,0,0,0.00,0.00,13.8,14,1242,0,0,0,0
+Frazer Blake-Tracy,ENG,Mansfield Town,29,1995,3.7,Defender,Midfielder,0,2,0,0.0,0.55,0.00,0.9,5,78,1,6,4,1
+Tom Bloxham,ENG,Shrewsbury,21,2003,7.2,Forward,Midfielder,2,11,4,36.4,1.52,0.55,2.0,2,180,1,37,4,8
+Hiram Boateng,ENG,Mansfield Town,28,1996,7.6,,Midfielder,1,5,2,40.0,0.66,0.26,0,0,0,0,33,2,5
+Billy Bodin,WAL,Burton Albion,32,1992,4.9,Forward,Midfielder,3,15,5,33.3,3.09,1.03,3.7,6,329,3,10,3,5
+Terry Bondo,ENG,Blackpool,17,2007,0.5,,Forward,0,3,1,33.3,6.43,2.14,7.2,13,652,1,1,0,0
+Pedro Borges,POR,Exeter City,19,2005,0.1,,Midfielder,0,0,0,0,0.00,0.00,7.6,12,680,0,0,1,0
+Jordan Bowery,ENG,Mansfield Town,33,1991,8.2,,Defender,0,0,0,0,0.00,0.00,4.9,7,437,0,3,9,9
 Coniah Boyce-Clarke,JAM,Reading,21,2003,1.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Cameron Bragg,ENG,Crawley Town,19,2005,2.4,,Midfielder,0,1,0,0.0,0.41,0.00,0.6,2,52,0,4,5,4
-Cohen Bramall,ENG,Rotherham Utd,28,1996,6.6,Defender,Midfielder,0,5,1,20.0,0.75,0.15,0.1,1,11,2,26,2,11
+Cameron Bragg,ENG,Crawley Town,19,2005,2.4,,Midfielder,0,1,0,0.0,0.41,0.00,0.5,1,42,0,4,5,4
+Cohen Bramall,ENG,Rotherham Utd,28,1996,5.6,Defender,Midfielder,0,5,1,20.0,0.89,0.18,0.1,1,11,2,21,2,9
 Alejandro Bran,CRC,Burton Albion,23,2001,0.1,,Midfielder,0,2,1,50.0,30.00,15.00,0,0,0,0,0,0,1
-James Brophy,ENG,Cambridge Utd,30,1994,12.7,,Midfielder,0,9,4,44.4,0.71,0.31,8.8,15,794,1,19,13,19
+James Brophy,ENG,Cambridge Utd,30,1994,10.7,,Midfielder,0,7,4,57.1,0.65,0.37,8.2,13,734,1,16,12,18
 Patrick Brough,ENG,Northampton,28,1996,0.9,,Defender,0,1,1,100.0,1.07,1.07,1.0,1,90,0,2,1,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Jordan Brown,ENG,Leyton Orient,23,2001,11.5,,Midfielder,0,9,2,22.2,0.79,0.17,0,0,0,0,13,15,10
-Lewis Brunt,ENG,Wrexham,24,2000,2.2,,Defender,0,1,0,0.0,0.45,0.00,2.4,6,220,0,0,2,7
-Lee Burge,ENG,Northampton,31,1993,16.8,,Goalkeeper,0,0,0,0,0.00,0.00,6.6,10,597,0,0,1,0
-Rumarn Burrell,ENG,Burton Albion,23,2000,0.2,,Forward,0,0,0,0,0.00,0.00,0.1,1,6,1,1,0,0
-Callum Burton,ENG,Wrexham,28,1996,3.0,,Goalkeeper,0,0,0,0,0.00,0.00,12.7,16,1143,0,0,0,0
+Jordan Brown,ENG,Leyton Orient,23,2001,10.7,,Midfielder,0,9,2,22.2,0.84,0.19,0,0,0,0,12,14,10
+Lewis Brunt,ENG,Wrexham,24,2000,0.2,Midfielder,Defender,0,0,0,0,0.00,0.00,2.4,6,220,0,0,0,1
+Lee Burge,ENG,Northampton,31,1993,14.8,,Goalkeeper,0,0,0,0,0.00,0.00,5.6,9,507,0,0,1,0
+Rumarn Burrell,ENG,Burton Albion,23,2000,0.1,,Forward,0,0,0,0,0.00,0.00,0.1,1,6,1,1,0,0
+Callum Burton,ENG,Wrexham,28,1996,1.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.7,14,964,0,0,0,0
 Matt Butcher,ENG,Wycombe,27,1997,2.4,,Midfielder,0,2,2,100.0,0.84,0.84,0.9,3,84,0,1,0,1
-Dan Butler,ENG,Stevenage,30,1994,12.5,,Defender,0,3,2,66.7,0.24,0.16,11.5,14,1031,1,39,7,12
-David Button,ENG,Reading,35,1989,5.0,,Goalkeeper,0,0,0,0,0.00,0.00,2.2,3,202,0,0,1,0
-Bailey-Tye Cadamarteri,JAM,Lincoln City,19,2005,7.3,,Forward,3,14,7,50.0,1.93,0.96,16.8,17,1511,4,2,2,1
-Mamadi Camará,GNB,Reading,20,2003,3.7,,Forward,0,3,1,33.3,0.80,0.27,0.2,3,18,2,2,2,4
-Panutche Camará,GNB,Crawley Town,27,1997,9.2,Forward,Midfielder,0,11,3,27.3,1.19,0.33,3.0,3,270,1,13,6,7
-Allan Campbell,SCO,Charlton Ath,26,1998,4.8,,Midfielder,0,3,0,0.0,0.63,0.00,2.4,10,215,1,0,1,4
-Chem Campbell,WAL,Reading,21,2002,9.2,,Forward,3,17,7,41.2,1.85,0.76,12.5,14,1129,3,15,8,6
-Tyreece Campbell,ENG,Charlton Ath,21,2003,10.0,Midfielder,Forward,0,15,7,46.7,1.50,0.70,5.0,5,450,7,38,4,6
-Callum Camps,NIR,Stockport,28,1995,8.0,,Midfielder,0,7,0,0.0,0.87,0.00,7.3,14,654,0,5,9,12
-Andy Cannon,ENG,Wrexham,28,1996,9.7,,Midfielder,2,10,2,20.0,1.03,0.21,3.7,7,336,0,16,7,16
-Mustapha Carayol,GAM,Exeter City,36,1988,1.2,,Midfielder,0,0,0,0,0.00,0.00,9.2,16,830,1,11,1,3
+Dan Butler,ENG,Stevenage,30,1994,11.5,,Defender,0,3,2,66.7,0.26,0.17,10.7,13,964,0,38,7,12
+David Button,ENG,Reading,35,1989,5.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.2,1,22,0,0,1,0
+Bailey-Tye Cadamarteri,JAM,Lincoln City,19,2005,6.4,,Forward,3,9,5,55.6,1.40,0.78,14.8,15,1331,2,2,1,1
+Mamadi Camará,GNB,Reading,20,2003,3.6,,Forward,0,3,1,33.3,0.83,0.28,0.1,2,11,2,2,2,4
+Panutche Camará,GNB,Crawley Town,27,1997,8.3,Forward,Midfielder,0,11,3,27.3,1.32,0.36,1.0,1,90,1,11,6,7
+Allan Campbell,SCO,Charlton Ath,26,1998,4.8,,Midfielder,0,3,0,0.0,0.63,0.00,2.4,9,214,1,0,1,4
+Chem Campbell,WAL,Reading,21,2002,7.2,,Forward,3,13,6,46.2,1.80,0.83,11.5,13,1039,1,13,5,5
+Tyreece Campbell,ENG,Charlton Ath,21,2003,9.4,Midfielder,Forward,0,11,4,36.4,1.17,0.43,5.0,5,450,7,36,3,6
+Callum Camps,NIR,Stockport,28,1995,7.8,,Midfielder,0,7,0,0.0,0.90,0.00,6.4,12,577,0,5,9,12
+Andy Cannon,ENG,Wrexham,28,1996,9.6,,Midfielder,2,10,2,20.0,1.05,0.21,3.6,6,324,0,15,7,16
+Mustapha Carayol,GAM,Exeter City,36,1988,1.2,,Midfielder,0,0,0,0,0.00,0.00,8.3,15,751,1,11,1,3
 Sonny Carey,ENG,Blackpool,23,2001,4.4,,Midfielder,0,7,1,14.3,1.59,0.23,4.8,8,428,0,6,1,8
-Baily Cargill,ENG,Mansfield Town,29,1995,8.0,,Defender,0,3,0,0.0,0.37,0.00,9.2,12,829,0,9,14,11
-James Carragher,ENG,Wigan Athletic,22,2002,7.0,,Defender,0,1,0,0.0,0.14,0.00,10.0,15,903,0,10,12,4
-Oliver Casey,ENG,Blackpool,24,2000,15.0,,Defender,1,9,4,44.4,0.60,0.27,8.0,10,721,0,1,28,29
-Leo Castledine,ENG,Shrewsbury,19,2005,9.5,,Midfielder,2,30,7,23.3,3.15,0.74,9.7,15,874,1,9,5,8
-Joel Castro Pereira,POR,Reading,28,1996,10.0,,Goalkeeper,0,0,0,0,0.00,0.00,1.2,6,106,0,0,0,0
+Baily Cargill,ENG,Mansfield Town,29,1995,7.5,,Defender,0,3,0,0.0,0.40,0.00,7.2,10,649,0,8,12,9
+James Carragher,ENG,Wigan Athletic,22,2002,6.7,,Defender,0,1,0,0.0,0.15,0.00,9.4,13,847,0,10,12,4
+Oliver Casey,ENG,Blackpool,24,2000,13.0,,Defender,1,8,4,50.0,0.62,0.31,7.8,9,702,0,1,25,26
+Leo Castledine,ENG,Shrewsbury,19,2005,8.5,Forward,Midfielder,2,29,7,24.1,3.40,0.82,9.6,14,860,0,8,4,7
+Joel Castro Pereira,POR,Reading,28,1996,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,1.2,6,106,0,0,0,0
 Luke Chambers,ENG,Wigan Athletic,20,2004,9.5,,Defender,1,2,1,50.0,0.21,0.11,4.4,11,397,0,47,8,4
-Jacob Chapman,AUS,Huddersfield,24,2000,9.0,,Goalkeeper,0,0,0,0,0.00,0.00,8.0,10,720,0,0,0,0
+Jacob Chapman,AUS,Huddersfield,24,2000,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.5,9,675,0,0,0,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Dion Charles,NIR,Bolton,29,1995,10.9,,Forward,6,39,18,46.2,3.58,1.65,7.0,12,631,8,4,1,12
-Kgagelo Chauke,ENG,Burton Albion,21,2003,8.9,,Midfielder,0,4,2,50.0,0.45,0.23,15.0,15,1350,0,5,12,18
-Samy Chouchane,TUN,Northampton,21,2003,9.3,,Midfielder,0,4,2,50.0,0.43,0.21,9.5,13,857,1,29,14,16
-Sean Clare,ENG,Leyton Orient,28,1996,8.2,Defender,Midfielder,1,5,1,20.0,0.61,0.12,10.0,10,900,0,7,17,16
-Jonson Clarke-Harris,JAM,Rotherham Utd,30,1994,8.9,Midfielder,Forward,4,22,10,45.5,2.46,1.12,0,0,0,10,7,2,5
-Max Cleworth,WAL,Wrexham,22,2002,13.0,,Defender,4,12,4,33.3,0.93,0.31,9.5,10,855,1,4,11,12
-Alex Cochrane,ENG,Birmingham City,24,2000,15.0,,Defender,0,9,0,0.0,0.60,0.00,9.0,9,810,0,90,9,11
-Josh Cogley,ENG,Bolton,28,1996,14.6,Defender,Midfielder,0,3,0,0.0,0.21,0.00,0,0,0,3,31,17,18
-Reece Cole,ENG,Exeter City,26,1998,3.2,,Midfielder,1,11,5,45.5,3.44,1.56,10.9,16,980,0,34,0,2
-Will Collar,ENG,Stockport,27,1997,10.9,Forward,Midfielder,2,17,9,52.9,1.55,0.82,8.9,12,798,4,12,4,15
-Aaron Collins,WAL,Bolton,27,1997,10.6,Forward,Midfielder,3,25,9,36.0,2.37,0.85,9.3,14,840,8,34,1,4
-Archie Collins,ENG,P'borough Utd,25,1999,14.7,,Midfielder,0,10,4,40.0,0.68,0.27,0,0,0,0,6,23,23
-Chris Conn-Clarke,NIR,P'borough Utd,23,2001,1.8,Forward,Midfielder,0,9,3,33.3,5.13,1.71,8.2,10,735,0,6,0,1
-Luca Connell,IRL,Barnsley,23,2001,15.4,,Midfielder,2,29,5,17.2,1.89,0.33,8.9,12,804,0,87,18,22
-Callum Connolly,ENG,Stockport,27,1997,9.7,Midfielder,Defender,0,8,3,37.5,0.82,0.31,13.0,13,1167,0,13,5,11
-Kamil Conteh,SLE,Bristol Rovers,21,2002,14.9,,Midfielder,0,8,3,37.5,0.54,0.20,15.0,15,1350,0,5,26,27
-Brandon Cooper,WAL,Leyton Orient,24,2000,5.6,,Defender,0,9,5,55.6,1.61,0.89,14.6,16,1315,0,1,9,7
-Jack Cooper Love,SWE,Burton Albion,22,2001,7.6,Forward,Midfielder,2,9,3,33.3,1.18,0.39,3.2,6,288,0,2,2,7
-Murphy Cooper,ENG,Stevenage,22,2001,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.9,12,984,0,0,0,0
-Sam Cosgrove,ENG,Barnsley,27,1996,8.2,,Forward,1,21,6,28.6,2.55,0.73,10.6,16,951,8,2,0,0
-Barry Cotter,IRL,Barnsley,25,1998,8.3,Defender,Midfielder,0,9,3,33.3,1.08,0.36,14.7,15,1323,3,27,11,13
-Hayden Coulson,ENG,Blackpool,26,1998,10.1,Midfielder,Defender,0,5,0,0.0,0.50,0.00,1.8,6,158,2,15,15,19
-Jordan Cousins,ENG,Cambridge Utd,30,1994,4.3,,Midfielder,1,3,1,33.3,0.70,0.23,15.4,16,1383,0,1,3,8
-Conor Coventry,IRL,Charlton Ath,24,2000,14.6,,Midfielder,1,16,5,31.3,1.10,0.34,9.7,13,875,0,76,25,33
-Sonny Cox,ENG,Exeter City,20,2004,3.0,,Forward,0,3,1,33.3,1.01,0.34,14.9,16,1337,1,2,0,1
+Dion Charles,NIR,Bolton,29,1995,9.0,,Forward,6,32,17,53.1,3.55,1.88,6.7,10,605,5,2,1,11
+Kgagelo Chauke,ENG,Burton Albion,21,2003,8.9,,Midfielder,0,4,2,50.0,0.45,0.23,13.0,13,1170,0,5,12,18
+Samy Chouchane,TUN,Northampton,21,2003,7.9,,Midfielder,0,4,2,50.0,0.50,0.25,8.5,12,767,1,27,12,12
+Sean Clare,ENG,Leyton Orient,28,1996,8.2,Defender,Midfielder,1,5,1,20.0,0.61,0.12,8.0,8,720,0,7,17,16
+Jonson Clarke-Harris,JAM,Rotherham Utd,30,1994,8.1,Midfielder,Forward,4,20,9,45.0,2.46,1.11,0,0,0,9,5,2,5
+Max Cleworth,WAL,Wrexham,22,2002,11.0,,Defender,3,8,3,37.5,0.73,0.27,9.5,10,855,1,3,9,10
+Alex Cochrane,ENG,Birmingham City,24,2000,13.0,,Defender,0,8,0,0.0,0.62,0.00,7.0,7,630,0,68,5,10
+Josh Cogley,ENG,Bolton,28,1996,13.0,Defender,Midfielder,0,2,0,0.0,0.15,0.00,0,0,0,2,27,17,16
+Reece Cole,ENG,Exeter City,26,1998,3.2,,Midfielder,1,11,5,45.5,3.44,1.56,9.0,14,812,0,34,0,2
+Will Collar,ENG,Stockport,27,1997,10.1,Forward,Midfielder,2,17,9,52.9,1.68,0.89,8.9,12,798,3,12,4,12
+Aaron Collins,WAL,Bolton,27,1997,8.7,Forward,Midfielder,1,17,6,35.3,1.95,0.69,7.9,12,714,7,29,1,4
+Archie Collins,ENG,P'borough Utd,25,1999,13.7,,Midfielder,0,10,4,40.0,0.73,0.29,0,0,0,0,6,20,23
+Chris Conn-Clarke,NIR,P'borough Utd,22,2001,1.7,Forward,Midfielder,0,5,2,40.0,2.98,1.19,8.2,10,735,0,6,0,1
+Luca Connell,IRL,Barnsley,23,2001,13.4,,Midfielder,2,25,5,20.0,1.86,0.37,8.1,11,732,0,71,17,18
+Callum Connolly,ENG,Stockport,27,1997,8.7,Midfielder,Defender,0,6,2,33.3,0.69,0.23,11.0,11,987,0,12,3,11
+Kamil Conteh,SLE,Bristol Rovers,21,2002,12.9,,Midfielder,0,6,3,50.0,0.47,0.23,13.0,13,1170,0,5,22,21
+Brandon Cooper,WAL,Leyton Orient,24,2000,5.3,,Defender,0,6,3,50.0,1.12,0.56,13.0,14,1166,0,0,9,6
+Jack Cooper Love,SWE,Burton Albion,22,2001,7.4,Forward,Midfielder,2,8,3,37.5,1.08,0.41,3.2,6,288,0,2,2,7
+Murphy Cooper,ENG,Stevenage,22,2001,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.1,11,913,0,0,0,0
+Sam Cosgrove,ENG,Barnsley,27,1996,7.7,,Forward,1,18,5,27.8,2.34,0.65,8.7,14,783,8,2,0,0
+Barry Cotter,IRL,Barnsley,25,1998,8.3,Defender,Midfielder,0,9,3,33.3,1.08,0.36,13.7,14,1233,3,27,11,13
+Hayden Coulson,ENG,Blackpool,26,1998,9.2,Midfielder,Defender,0,5,0,0.0,0.54,0.00,1.7,5,151,2,14,13,17
+Jordan Cousins,ENG,Cambridge Utd,30,1994,2.4,,Midfielder,1,2,1,50.0,0.83,0.41,13.4,14,1207,0,1,1,5
+Conor Coventry,IRL,Charlton Ath,24,2000,12.6,,Midfielder,0,13,3,23.1,1.03,0.24,8.7,12,785,0,67,20,27
+Sonny Cox,ENG,Exeter City,20,2004,2.1,,Forward,0,2,1,50.0,0.95,0.47,12.9,14,1157,1,2,0,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Matthew Craig,SCO,Barnsley,21,2003,8.4,,Midfielder,0,2,0,0.0,0.24,0.00,5.6,11,504,0,3,12,17
-Michael Craig,SCO,Reading,21,2003,15.3,,Defender,1,7,1,14.3,0.46,0.07,7.6,13,685,0,29,15,16
-Tristan Crama,FRA,Exeter City,23,2001,15.0,,Defender,2,11,2,18.2,0.73,0.13,14.0,14,1260,0,2,18,10
-Max Crocombe,NZL,Burton Albion,31,1993,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,8.2,12,740,0,0,0,0
-Jack Currie,ENG,Leyton Orient,22,2002,12.0,,Defender,0,2,0,0.0,0.17,0.00,8.3,11,748,0,38,17,26
-Sam Curtis,IRL,P'borough Utd,18,2005,8.5,,Defender,0,1,0,0.0,0.12,0.00,10.1,14,906,2,24,9,17
-Sam Dalby,ENG,Wrexham,24,2000,0.2,,Forward,0,0,0,0,0.00,0.00,4.3,8,388,0,0,0,0
-Ronan Darcy,ENG,Crawley Town,24,2000,15.9,Forward,Midfielder,1,41,12,29.3,2.58,0.76,14.6,15,1312,4,41,4,3
-Tendayi Darikwa,ZIM,Lincoln City,32,1991,16.9,Defender,Midfielder,3,15,6,40.0,0.89,0.36,3.0,11,267,0,28,22,23
-Ben Davies,ENG,Birmingham City,29,1995,5.5,,Defender,0,0,0,0,0.00,0.00,8.4,13,758,0,0,5,5
-Cameron Dawson,ENG,Rotherham Utd,29,1995,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,15.3,16,1377,0,0,0,0
-Jón Daði Böðvarsson,ISL,Wrexham,32,1992,1.0,,Forward,0,2,0,0.0,2.00,0.00,15.0,15,1350,0,1,0,1
-Ryan De Havilland,ENG,P'borough Utd,23,2001,5.0,,Midfielder,1,4,2,50.0,0.80,0.40,0,0,0,0,0,6,4
-Harlee Dean,ENG,Reading,33,1991,0.9,Midfielder,Defender,0,1,1,100.0,1.06,1.06,13.0,13,1170,0,1,0,1
-Siriki Dembélé,CIV,Birmingham City,28,1996,0.5,,Midfielder,0,1,0,0.0,2.00,0.00,12.0,12,1080,0,1,0,0
-Kyle Dempsey,ENG,Bolton,29,1995,6.0,,Midfielder,3,15,4,26.7,2.50,0.67,8.5,14,762,1,15,9,2
+Matthew Craig,SCO,Barnsley,21,2003,8.4,,Midfielder,0,2,0,0.0,0.24,0.00,5.3,10,481,0,3,12,17
+Michael Craig,SCO,Reading,21,2003,13.4,,Defender,1,7,1,14.3,0.52,0.07,7.4,12,665,0,25,14,13
+Tristan Crama,FRA,Exeter City,23,2001,13.0,,Defender,2,11,2,18.2,0.85,0.15,13.0,13,1170,0,2,15,8
+Max Crocombe,NZL,Burton Albion,31,1993,11.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.7,10,692,0,0,0,0
+Jack Currie,ENG,Leyton Orient,22,2002,10.0,Midfielder,Defender,0,2,0,0.0,0.20,0.00,8.3,11,748,0,34,15,24
+Sam Curtis,IRL,P'borough Utd,18,2005,8.1,,Defender,0,1,0,0.0,0.12,0.00,9.2,13,831,2,23,7,17
+Sam Dalby,ENG,Wrexham,24,2000,0.2,,Forward,0,0,0,0,0.00,0.00,2.4,6,218,0,0,0,0
+Ronan Darcy,ENG,Crawley Town,24,2000,15.0,Forward,Midfielder,1,39,12,30.8,2.60,0.80,12.6,13,1132,3,35,4,3
+Tendayi Darikwa,ZIM,Lincoln City,32,1991,14.9,,Midfielder,1,12,3,25.0,0.81,0.20,2.1,9,190,0,25,21,14
+Ben Davies,ENG,Birmingham City,29,1995,4.5,,Defender,0,0,0,0,0.00,0.00,8.4,13,758,0,0,5,5
+Cameron Dawson,ENG,Rotherham Utd,29,1995,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,13.4,14,1209,0,0,0,0
+Jón Daði Böðvarsson,ISL,Wrexham,32,1992,0.9,,Forward,0,2,0,0.0,2.31,0.00,13.0,13,1170,0,1,0,1
+Ryan De Havilland,ENG,P'borough Utd,23,2001,4.2,,Midfielder,1,2,1,50.0,0.48,0.24,0,0,0,0,0,4,4
+Harlee Dean,ENG,Reading,33,1991,0.9,Midfielder,Defender,0,1,1,100.0,1.06,1.06,11.0,11,990,0,1,0,1
+Siriki Dembélé,CIV,Birmingham City,28,1996,0.5,,Midfielder,0,1,0,0.0,2.00,0.00,10.0,10,900,0,1,0,0
+Kyle Dempsey,ENG,Bolton,29,1995,6.0,,Midfielder,3,15,4,26.7,2.50,0.67,8.1,13,731,1,15,9,2
 Jack Diamond,ENG,Stockport,24,2000,6.8,,Midfielder,1,13,6,46.2,1.90,0.88,0,0,0,0,26,2,5
 Matt Dibley-Dias,NZL,Northampton,20,2004,0.6,,Midfielder,0,1,0,0.0,1.61,0.00,0.2,1,15,0,1,1,0
-Paul Digby,ENG,Cambridge Utd,29,1995,11.4,Defender,Midfielder,0,3,0,0.0,0.26,0.00,15.9,17,1428,0,3,9,12
-Kaheim Dixon,JAM,Charlton Ath,20,2004,0.0,,Forward,0,0,0,0,0.00,0.00,16.9,17,1518,0,0,0,0
-George Dobson,ENG,Wrexham,27,1997,16.9,,Midfielder,0,4,0,0.0,0.24,0.00,5.5,7,498,0,8,25,28
+Paul Digby,ENG,Cambridge Utd,29,1995,11.4,Defender,Midfielder,0,3,0,0.0,0.26,0.00,15.0,16,1349,0,3,9,12
+Kaheim Dixon,JAM,Charlton Ath,20,2004,0.0,,Forward,0,0,0,0,0.00,0.00,14.9,15,1338,0,0,0,0
+George Dobson,ENG,Wrexham,27,1997,14.9,,Midfielder,0,2,0,0.0,0.13,0.00,4.5,6,408,0,6,23,26
 Neo Dobson,,Northampton,0,0,0.2,,Forward,0,0,0,0,0.00,0.00,8.0,8,720,0,0,0,0
-Greg Docherty,SCO,Charlton Ath,28,1996,10.6,,Midfielder,1,11,5,45.5,1.04,0.47,1.0,3,90,1,11,5,11
-Jamie Donley,ENG,Leyton Orient,19,2005,5.1,Forward,Midfielder,0,6,0,0.0,1.18,0.00,5.0,7,449,2,22,1,1
+Greg Docherty,SCO,Charlton Ath,28,1996,10.2,,Midfielder,1,11,5,45.5,1.08,0.49,0.9,2,78,0,10,5,10
+Jamie Donley,ENG,Leyton Orient,19,2005,5.1,Forward,Midfielder,0,6,0,0.0,1.18,0.00,4.2,6,375,2,22,1,1
 Romelle Donovan,ENG,Burton Albion,17,2006,2.0,,Midfielder,0,5,0,0.0,2.50,0.00,0.9,7,85,0,5,0,4
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-James Dornelly,ENG,P'borough Utd,19,2005,6.4,,Defender,1,2,1,50.0,0.31,0.16,0,0,0,3,8,4,4
-Jeriel Dorsett,MSR,Reading,22,2002,6.4,,Defender,0,4,2,50.0,0.62,0.31,0.5,1,45,0,10,6,6
-Kamari Doyle,ENG,Exeter City,19,2005,7.1,Forward,Midfielder,3,13,8,61.5,1.83,1.12,6.0,10,540,1,48,5,10
-Freddie Draper,ENG,Lincoln City,20,2004,5.2,,Forward,2,6,3,50.0,1.15,0.57,0,0,0,3,2,3,4
-Dylan Duffy,IRL,Lincoln City,21,2002,2.9,,Midfielder,0,2,0,0.0,0.70,0.00,6.8,12,616,1,13,3,4
+James Dornelly,ENG,P'borough Utd,19,2005,5.7,,Defender,1,2,1,50.0,0.35,0.17,0,0,0,2,7,4,3
+Jeriel Dorsett,MSR,Reading,22,2002,4.9,,Defender,0,3,2,66.7,0.61,0.41,0.5,1,45,0,7,4,5
+Kamari Doyle,ENG,Exeter City,19,2005,6.1,Forward,Midfielder,3,13,8,61.5,2.14,1.32,6.0,10,540,1,42,4,10
+Freddie Draper,ENG,Lincoln City,20,2004,4.9,,Forward,2,6,3,50.0,1.22,0.61,0,0,0,3,1,3,4
+Dylan Duffy,IRL,Lincoln City,21,2002,2.1,,Midfielder,0,1,0,0.0,0.47,0.00,6.8,12,616,1,11,2,4
 Paul Dummett,WAL,Wigan Athletic,33,1991,0.1,,Defender,0,0,0,0,0.00,0.00,0.6,1,56,0,0,0,0
-Lyndon Dykes,SCO,Birmingham City,29,1995,4.0,Midfielder,Forward,0,12,3,25.0,3.01,0.75,11.4,12,1025,0,2,0,3
-Josh Earl,ENG,Barnsley,26,1998,16.0,,Defender,1,12,5,41.7,0.75,0.31,0.0,1,1,1,16,22,21
-Tom Eaves,ENG,Northampton,32,1992,3.8,,Forward,2,11,5,45.5,2.93,1.33,16.9,17,1524,0,2,0,1
-Rarmani Edmonds-Green,ENG,Charlton Ath,25,1999,5.2,,Defender,1,2,1,50.0,0.39,0.19,0.2,1,20,0,8,12,9
-Joshua Edwards,ENG,Charlton Ath,24,2000,9.6,Midfielder,Defender,0,2,1,50.0,0.21,0.10,10.6,14,953,0,66,10,16
+Lyndon Dykes,SCO,Birmingham City,29,1995,3.2,Midfielder,Forward,0,9,2,22.2,2.82,0.63,11.4,12,1025,0,2,0,2
+Josh Earl,ENG,Barnsley,26,1998,14.0,,Defender,0,8,3,37.5,0.57,0.21,0.0,1,1,1,13,17,16
+Tom Eaves,ENG,Northampton,32,1992,3.1,,Forward,1,8,3,37.5,2.61,0.98,14.9,15,1344,0,1,0,1
+Rarmani Edmonds-Green,ENG,Charlton Ath,25,1999,3.6,,Defender,1,1,1,100.0,0.28,0.28,0.2,1,20,0,5,10,5
+Joshua Edwards,ENG,Charlton Ath,24,2000,7.6,Midfielder,Defender,0,1,1,100.0,0.13,0.13,10.2,13,918,0,47,6,15
 Kelvin Ehibhatiomhan,ENG,Reading,21,2003,10.2,,Forward,2,18,7,38.9,1.77,0.69,0,0,0,5,17,2,9
-Ben Elliott,CMR,Reading,22,2002,13.7,,Midfielder,2,20,6,30.0,1.46,0.44,5.1,9,458,0,4,5,22
-Elliot Embleton,ENG,Blackpool,25,1999,5.3,,Midfielder,0,12,1,8.3,2.25,0.19,2.0,6,180,1,32,0,5
-Ethan Erhahon,SCO,Lincoln City,23,2001,13.6,,Midfielder,0,1,0,0.0,0.07,0.00,6.4,9,575,0,4,32,18
-Antony Evans,ENG,Huddersfield,26,1998,7.3,,Midfielder,2,19,6,31.6,2.61,0.82,6.4,9,577,1,37,7,13
-George Evans,ENG,Wrexham,29,1994,1.2,,Midfielder,0,0,0,0,0.00,0.00,7.1,14,641,0,0,0,0
-Lee Evans,WAL,Blackpool,30,1994,16.0,,Midfielder,2,24,4,16.7,1.50,0.25,5.2,14,471,0,121,13,20
-Will Evans,WAL,Mansfield Town,27,1997,13.4,,Forward,5,32,13,40.6,2.39,0.97,2.9,4,258,7,10,7,17
-Timothy Eyoma,ENG,Northampton,24,2000,2.6,,Defender,0,0,0,0,0.00,0.00,0.1,1,8,0,1,2,2
-Mo Faal,ENG,Wrexham,21,2003,0.4,,Forward,0,1,0,0.0,2.81,0.00,4.0,12,359,0,0,0,1
-Josh Feeney,ENG,Shrewsbury,19,2005,8.3,,Defender,1,3,1,33.3,0.36,0.12,16.0,16,1440,0,0,16,5
-Morgan Feeney,ENG,Shrewsbury,25,1999,11.3,,Defender,0,8,2,25.0,0.71,0.18,3.8,8,338,0,6,16,10
-Emmanuel Fernandez,ENG,P'borough Utd,23,2001,14.1,,Defender,4,13,5,38.5,0.92,0.35,5.2,6,467,1,1,14,12
+Ben Elliott,CMR,Reading,22,2002,11.7,,Midfielder,2,17,5,29.4,1.46,0.43,5.1,9,458,0,4,2,19
+Elliot Embleton,ENG,Blackpool,25,1999,3.7,,Midfielder,0,8,1,12.5,2.18,0.27,2.0,6,180,1,23,0,4
+Ethan Erhahon,SCO,Lincoln City,23,2001,11.6,,Midfielder,0,1,0,0.0,0.09,0.00,5.7,8,516,0,3,25,14
+Antony Evans,ENG,Huddersfield,26,1998,7.3,,Midfielder,2,19,6,31.6,2.61,0.82,4.9,7,442,1,37,7,13
+George Evans,ENG,Wrexham,29,1994,1.2,,Midfielder,0,0,0,0,0.00,0.00,6.1,12,546,0,0,0,0
+Lee Evans,WAL,Blackpool,30,1994,14.0,,Midfielder,1,22,3,13.6,1.57,0.21,4.9,13,444,0,113,12,19
+Will Evans,WAL,Mansfield Town,27,1997,11.5,,Forward,5,29,12,41.4,2.52,1.04,2.1,3,192,5,9,7,14
+Timothy Eyoma,ENG,Northampton,24,2000,1.5,,Defender,0,0,0,0,0.00,0.00,0.1,1,8,0,0,2,1
+Mo Faal,ENG,Wrexham,21,2003,0.4,,Forward,0,1,0,0.0,2.81,0.00,3.2,10,287,0,0,0,1
+Josh Feeney,ENG,Shrewsbury,19,2005,8.3,,Defender,1,3,1,33.3,0.36,0.12,14.0,14,1260,0,0,16,5
+Morgan Feeney,ENG,Shrewsbury,25,1999,11.3,,Defender,0,8,2,25.0,0.71,0.18,3.1,6,276,0,6,16,10
+Emmanuel Fernandez,ENG,P'borough Utd,22,2001,13.1,,Defender,3,10,4,40.0,0.76,0.31,3.6,4,321,1,1,14,12
 Jayden Fevrier,ENG,Stockport,21,2003,5.2,,Midfielder,1,14,5,35.7,2.72,0.97,0,0,0,1,16,2,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Ryan Finnigan,ENG,Blackpool,21,2003,2.1,,Midfielder,0,4,1,25.0,1.91,0.48,9.6,11,866,0,1,3,7
+Ryan Finnigan,ENG,Blackpool,21,2003,1.9,,Midfielder,0,4,1,25.0,2.06,0.51,7.6,9,686,0,1,3,6
 Lewis Fiorini,SCO,Stockport,22,2002,3.1,,Midfielder,0,5,1,20.0,1.61,0.32,10.2,12,914,2,17,2,3
-Sonny Fish,ENG,Crawley Town,20,2004,0.2,,Forward,0,0,0,0,0.00,0.00,13.7,16,1231,0,0,0,0
-Jack Fitzwater,ENG,Exeter City,27,1997,1.1,,Defender,0,0,0,0,0.00,0.00,5.3,15,481,0,1,1,1
-Ashley Fletcher,ENG,Blackpool,29,1995,5.5,,Forward,1,18,7,38.9,3.26,1.27,13.6,15,1228,3,2,3,4
+Sonny Fish,ENG,Crawley Town,20,2004,0.2,,Forward,0,0,0,0,0.00,0.00,11.7,14,1051,0,0,0,0
+Jack Fitzwater,ENG,Exeter City,27,1997,1.1,,Defender,0,0,0,0,0.00,0.00,3.7,13,331,0,1,1,1
+Ashley Fletcher,ENG,Blackpool,29,1995,5.3,,Forward,1,17,7,41.2,3.18,1.31,11.6,13,1048,3,2,2,3
 Steven Fletcher,SCO,Wrexham,37,1987,3.3,,Forward,1,10,5,50.0,3.04,1.52,7.3,12,655,2,0,1,3
 Scott Flinders,ENG,Mansfield Town,38,1986,0.7,,Goalkeeper,0,0,0,0,0.00,0.00,1.2,5,107,0,0,0,0
-Aden Flint,ENG,Mansfield Town,35,1989,6.2,,Defender,0,4,2,50.0,0.65,0.32,16.0,16,1440,2,0,7,4
-Josh Flint,ENG,Crawley Town,24,2000,11.1,,Defender,0,14,2,14.3,1.26,0.18,13.4,15,1206,0,10,15,16
-Michael Forbes,NIR,Bristol Rovers,20,2004,0.6,,Defender,0,0,0,0,0.00,0.00,2.6,4,237,0,0,3,0
-Shaqai Forde,ENG,Bristol Rovers,20,2004,7.2,,Midfielder,2,10,6,60.0,1.38,0.83,0.4,3,32,5,24,1,9
+Aden Flint,ENG,Mansfield Town,35,1989,4.2,,Defender,0,0,0,0,0.00,0.00,14.0,14,1260,2,0,2,2
+Josh Flint,ENG,Crawley Town,24,2000,11.1,,Defender,0,14,2,14.3,1.26,0.18,11.5,13,1035,0,10,15,16
+Michael Forbes,NIR,Bristol Rovers,20,2004,0.6,,Defender,0,0,0,0,0.00,0.00,1.5,2,131,0,0,3,0
+Shaqai Forde,ENG,Bristol Rovers,20,2004,5.3,,Midfielder,2,10,6,60.0,1.90,1.14,0.4,3,32,3,19,0,8
 William Forrester,ENG,Bolton,23,2001,1.9,,Defender,0,1,0,0.0,0.52,0.00,8.3,10,746,0,2,5,3
 Harry Forster,ENG,Crawley Town,24,2000,7.0,Defender,Midfielder,1,7,3,42.9,1.00,0.43,11.3,12,1016,5,29,7,9
-Tariqe Fosu,GHA,Northampton,29,1995,7.9,,Midfielder,3,15,8,53.3,1.90,1.01,14.1,15,1269,4,19,6,14
-Ben Fox,ENG,Northampton,26,1998,7.7,,Midfielder,0,5,3,60.0,0.65,0.39,5.2,14,464,0,5,8,9
-Ed Francis,ENG,Exeter City,25,1999,11.5,,Midfielder,2,10,2,20.0,0.87,0.17,2.1,6,188,0,41,20,12
-Tyrese Francois,AUS,Wigan Athletic,24,2000,3.4,,Midfielder,0,3,0,0.0,0.87,0.00,3.1,8,280,0,5,6,8
-Nick Freeman,ENG,Stevenage,29,1995,4.7,,Midfielder,0,1,0,0.0,0.21,0.00,0.2,1,19,0,8,3,3
+Tariqe Fosu,GHA,Northampton,29,1995,6.7,,Midfielder,3,14,8,57.1,2.10,1.20,13.1,14,1179,3,13,4,13
+Ben Fox,ENG,Northampton,26,1998,6.9,,Midfielder,0,5,3,60.0,0.73,0.44,5.2,14,464,0,3,8,7
+Ed Francis,ENG,Exeter City,25,1999,9.5,,Midfielder,2,10,2,20.0,1.06,0.21,1.9,4,175,0,40,16,8
+Tyrese Francois,AUS,Wigan Athletic,24,2000,2.9,,Midfielder,0,3,0,0.0,1.02,0.00,3.1,8,280,0,4,6,6
+Nick Freeman,ENG,Stevenage,29,1995,3.8,,Midfielder,0,1,0,0.0,0.26,0.00,0.2,1,19,0,7,2,3
 Lewis Freestone,ENG,Stevenage,25,1999,7.1,,Defender,0,4,2,50.0,0.56,0.28,1.1,3,98,0,5,3,10
-Jordan Gabriel,ENG,Blackpool,26,1998,11.3,,Defender,0,8,4,50.0,0.71,0.35,5.5,12,497,1,13,12,4
-Ethan Galbraith,NIR,Leyton Orient,23,2001,13.9,,Midfielder,3,13,6,46.2,0.93,0.43,3.3,11,296,5,15,9,12
-Andre Garcia,,Reading,0,0,6.7,,Defender,0,2,0,0.0,0.30,0.00,0.7,1,60,0,2,9,14
-Che Gardner,,Stockport,0,0,0.0,,Midfielder,0,0,0,0,0.00,0.00,6.2,8,557,0,0,0,1
+Jordan Gabriel,ENG,Blackpool,26,1998,10.3,,Defender,0,7,3,42.9,0.68,0.29,5.3,11,481,0,12,11,4
+Ethan Galbraith,NIR,Leyton Orient,23,2001,11.9,,Midfielder,3,12,5,41.7,1.01,0.42,3.3,11,296,5,9,9,11
+Andre Garcia,,Reading,0,0,6.2,,Defender,0,2,0,0.0,0.32,0.00,0.7,1,60,0,2,9,14
+Che Gardner,,Stockport,0,0,0.0,,Midfielder,0,0,0,0,0.00,0.00,4.2,6,377,0,0,0,1
 Taylor Gardner-Hickman,ENG,Birmingham City,22,2001,5.9,Midfielder,Defender,0,1,0,0.0,0.17,0.00,11.1,12,1003,0,31,7,4
-Jake Garrett,ENG,Bristol Rovers,21,2003,3.3,,Midfielder,0,4,1,25.0,1.21,0.30,0.6,4,55,0,9,4,8
+Jake Garrett,ENG,Bristol Rovers,21,2003,3.3,,Midfielder,0,4,1,25.0,1.21,0.30,0.6,3,54,0,9,4,8
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Georgie Gent,ENG,Barnsley,21,2003,7.7,,Midfielder,0,6,1,16.7,0.78,0.13,7.2,13,652,0,39,10,16
-Maël Durand de Gevigney,FRA,Barnsley,25,1999,17.0,,Defender,0,7,0,0.0,0.41,0.00,1.9,3,172,0,4,36,26
+Georgie Gent,ENG,Barnsley,21,2003,6.2,,Midfielder,0,5,1,20.0,0.81,0.16,5.3,11,473,0,32,9,13
+Maël Durand de Gevigney,FRA,Barnsley,25,1999,15.0,,Defender,0,4,0,0.0,0.27,0.00,1.9,3,172,0,4,33,24
 James Gibbons,ENG,Cambridge Utd,26,1998,8.2,Defender,Midfielder,0,6,1,16.7,0.74,0.12,7.0,10,627,0,10,16,9
-Macaulay Gillesphey,ENG,Charlton Ath,29,1995,14.2,,Defender,1,2,1,50.0,0.14,0.07,7.9,14,711,1,13,15,20
-Alex Gilliead,ENG,Shrewsbury,28,1996,12.8,,Midfielder,0,7,0,0.0,0.55,0.00,7.7,10,691,0,20,8,25
-Ciaran Gilligan,ENG,Burton Albion,22,2002,2.7,,Midfielder,0,0,0,0,0.00,0.00,11.5,15,1031,0,1,1,3
-Brodie Gilmore,NIR,Huddersfield,20,2004,9.5,Midfielder,Defender,0,6,1,16.7,0.63,0.11,3.4,5,309,0,31,17,22
-Matthew Godden,ENG,Charlton Ath,33,1991,9.3,Midfielder,Forward,5,24,9,37.5,2.58,0.97,4.7,11,419,1,4,0,1
+Macaulay Gillesphey,ENG,Charlton Ath,28,1995,12.2,,Defender,1,1,1,100.0,0.08,0.08,6.7,12,601,1,12,13,18
+Alex Gilliead,ENG,Shrewsbury,28,1996,11.8,,Midfielder,0,7,0,0.0,0.59,0.00,6.9,9,618,0,18,8,20
+Ciaran Gilligan,ENG,Burton Albion,22,2002,2.5,,Midfielder,0,0,0,0,0.00,0.00,9.5,13,851,0,1,1,2
+Brodie Gilmore,NIR,Huddersfield,20,2004,8.6,Midfielder,Defender,0,5,1,20.0,0.58,0.12,2.9,4,265,0,23,17,21
+Matthew Godden,ENG,Charlton Ath,33,1991,7.5,,Forward,4,19,8,42.1,2.53,1.06,3.8,10,345,1,3,0,0
 Charlie Goode,ENG,Stevenage,29,1995,2.7,Midfielder,Defender,0,1,0,0.0,0.36,0.00,7.1,8,643,0,1,2,2
-Jordan Graham,ENG,Leyton Orient,29,1995,1.9,Forward,Defender,0,0,0,0,0.00,0.00,11.3,13,1018,0,25,3,0
-Lee Gregory,ENG,Mansfield Town,36,1988,10.2,,Forward,7,27,13,48.1,2.64,1.27,13.9,14,1253,5,5,7,11
-Joshua Griffiths,ENG,Bristol Rovers,23,2001,17.0,,Goalkeeper,0,1,0,0.0,0.06,0.00,6.7,12,603,0,0,0,0
+Jordan Graham,ENG,Leyton Orient,29,1995,1.7,Forward,Defender,0,0,0,0,0.00,0.00,10.3,12,928,0,24,2,0
+Lee Gregory,ENG,Mansfield Town,36,1988,10.2,,Forward,7,27,13,48.1,2.64,1.27,11.9,12,1073,5,5,7,11
+Joshua Griffiths,ENG,Bristol Rovers,23,2001,15.0,,Goalkeeper,0,1,0,0.0,0.07,0.00,6.2,11,558,0,0,0,0
 Jack Grimmer,SCO,Wycombe,30,1994,10.6,,Defender,0,4,0,0.0,0.38,0.00,0.0,1,1,1,12,15,18
 Daniel Grimshaw,ENG,Blackpool,26,1998,2.0,,Goalkeeper,0,0,0,0,0.00,0.00,5.9,10,534,0,0,0,0
-Nesta Guinness-Walker,ENG,Northampton,24,1999,8.3,,Defender,0,4,0,0.0,0.48,0.00,3.3,6,298,0,16,12,9
-Jon Guthrie,ENG,Northampton,32,1992,17.0,,Defender,1,8,5,62.5,0.47,0.29,7.7,11,696,0,1,32,13
+Nesta Guinness-Walker,ENG,Northampton,24,1999,6.3,,Defender,0,3,0,0.0,0.48,0.00,3.3,6,298,0,10,7,7
+Jon Guthrie,ENG,Northampton,32,1992,15.0,,Defender,1,5,4,80.0,0.33,0.27,6.2,9,554,0,1,30,11
 Reeco Hackett-Fairchild,LCA,Lincoln City,26,1998,3.3,,Midfielder,0,5,2,40.0,1.50,0.60,0,0,0,2,24,2,5
-Tom Hamer,ENG,Lincoln City,25,1999,5.8,,Defender,2,4,3,75.0,0.69,0.52,17.0,17,1530,1,7,4,3
+Tom Hamer,ENG,Lincoln City,25,1999,5.8,,Defender,2,4,3,75.0,0.69,0.52,15.0,15,1350,1,7,4,3
 CJ Hamilton,IRL,Blackpool,29,1995,10.3,,Midfielder,2,11,6,54.5,1.06,0.58,8.2,12,734,2,22,12,14
-Ethan Hamilton,SCO,Lincoln City,26,1998,5.3,,Midfielder,0,7,2,28.6,1.31,0.37,0,0,0,0,3,3,7
-Brandon Hanlan,ENG,Wycombe,27,1997,0.3,,Forward,0,1,0,0.0,2.90,0.00,14.2,15,1276,1,0,0,0
-Emil Hansson,SWE,Birmingham City,26,1998,6.2,,Midfielder,0,11,7,63.6,1.76,1.12,12.8,13,1152,0,28,0,4
-Dan Happe,ENG,Leyton Orient,26,1998,11.7,,Defender,1,9,3,33.3,0.77,0.26,2.7,6,245,1,2,13,7
-Vincent Harper,KEN,Exeter City,24,2000,2.2,,Midfielder,0,2,1,50.0,0.90,0.45,9.5,13,852,2,11,1,6
-Kian Harratt,ENG,Huddersfield,22,2002,0.2,,Forward,0,0,0,0,0.00,0.00,9.3,15,836,0,0,0,0
+Ethan Hamilton,SCO,Lincoln City,26,1998,5.0,,Midfielder,0,6,2,33.3,1.20,0.40,0,0,0,0,3,3,6
+Brandon Hanlan,ENG,Wycombe,27,1997,0.2,,Forward,0,0,0,0,0.00,0.00,12.2,13,1096,1,0,0,0
+Emil Hansson,SWE,Birmingham City,26,1998,6.2,,Midfielder,0,11,7,63.6,1.76,1.12,11.8,12,1062,0,28,0,4
+Dan Happe,ENG,Leyton Orient,26,1998,10.2,,Defender,1,9,3,33.3,0.88,0.29,2.5,5,224,1,2,12,6
+Vincent Harper,KEN,Exeter City,24,2000,1.4,,Midfielder,0,2,1,50.0,1.48,0.74,8.6,11,775,2,5,0,3
+Kian Harratt,ENG,Huddersfield,22,2002,0.2,,Forward,0,0,0,0,0.00,0.00,7.5,13,677,0,0,0,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Luke Harris,WAL,Birmingham City,19,2005,3.8,,Midfielder,1,4,3,75.0,1.05,0.78,2.7,4,247,0,3,0,3
-Alex Hartridge,ENG,Wycombe,25,1999,3.0,,Defender,0,1,0,0.0,0.33,0.00,1.9,8,172,0,1,1,5
-Daniel Harvie,SCO,Wycombe,26,1998,15.9,,Defender,1,11,2,18.2,0.69,0.13,10.2,12,921,0,58,15,22
-Cian Hayes,IRL,P'borough Utd,21,2003,2.2,,Midfielder,0,1,0,0.0,0.45,0.00,17.0,17,1530,0,4,4,4
-Jack Hazlehurst,ENG,Burton Albion,25,1999,1.3,,Midfielder,0,1,0,0.0,0.79,0.00,10.6,14,953,0,2,0,3
-Jaheim Headley,ENG,Huddersfield,23,2001,3.3,,Midfielder,0,3,0,0.0,0.91,0.00,2.0,2,180,0,27,1,4
-Rhys Healey,WAL,Huddersfield,29,1994,2.6,,Forward,1,9,4,44.4,3.48,1.55,8.3,9,743,4,1,0,1
-Michał Helik,POL,Huddersfield,29,1995,7.9,,Defender,1,4,2,50.0,0.50,0.25,17.0,17,1530,0,0,11,9
-Zachary Hemming,ENG,Leyton Orient,24,2000,10.0,,Goalkeeper,0,0,0,0,0.00,0.00,3.3,5,300,0,0,0,0
-Rushian Hepburn-Murphy,ENG,Crawley Town,26,1998,8.7,Midfielder,Forward,3,13,5,38.5,1.50,0.58,0,0,0,2,7,5,7
-Elliott Hewitt,WAL,Mansfield Town,30,1994,10.1,Defender,Midfielder,0,5,0,0.0,0.50,0.00,5.8,11,521,1,44,7,10
-Ben Hinchliffe,ENG,Stockport,36,1988,3.5,,Goalkeeper,0,0,0,0,0.00,0.00,10.3,12,931,0,0,0,0
-Joseph Hodge,IRL,Huddersfield,22,2002,3.0,,Midfielder,1,6,3,50.0,1.97,0.99,5.3,9,481,0,10,3,3
-Jonathan Hogg,ENG,Huddersfield,35,1988,6.8,,Midfielder,0,1,0,0.0,0.15,0.00,0.3,3,31,0,1,8,16
-Jack Holmes,ENG,Rotherham Utd,23,2001,2.4,,Midfielder,0,2,1,50.0,0.82,0.41,6.2,11,562,0,3,3,1
-Gavan Holohan,IRL,Crawley Town,32,1991,1.5,,Midfielder,0,3,0,0.0,1.94,0.00,11.7,13,1053,0,5,1,0
-Louie Holzman,ENG,Reading,21,2003,1.0,,Defender,0,0,0,0,0.00,0.00,2.2,4,199,0,0,0,1
-William Hondermarck,CGO,Northampton,24,2000,5.3,,Midfielder,0,5,4,80.0,0.94,0.75,0.2,2,14,1,0,4,13
-Luca Hoole,WAL,Shrewsbury,22,2002,9.1,,Defender,0,2,0,0.0,0.22,0.00,3.8,8,344,0,17,21,23
-Fraser Horsfall,ENG,Stockport,28,1996,15.5,,Defender,1,18,7,38.9,1.16,0.45,3.0,4,274,2,1,10,16
-Sam Hoskins,ENG,Northampton,31,1993,10.9,Forward,Midfielder,1,25,9,36.0,2.29,0.82,15.9,16,1433,2,20,15,7
-Conor Hourihane,IRL,Barnsley,33,1991,0.9,,Midfielder,0,0,0,0,0.00,0.00,2.2,9,202,0,2,0,1
-Ben House,ENG,Lincoln City,25,1999,11.1,,Forward,4,23,10,43.5,2.07,0.90,1.3,2,114,5,4,5,13
-Charlie Hughes,ENG,Wigan Athletic,21,2003,0.2,,Defender,0,0,0,0,0.00,0.00,3.3,6,298,0,0,0,0
-Sam Hughes,ENG,Stockport,27,1997,2.4,,Defender,0,1,0,0.0,0.41,0.00,2.6,6,233,0,1,4,1
+Luke Harris,WAL,Birmingham City,19,2005,3.2,,Midfielder,1,3,2,66.7,0.93,0.62,2.7,4,247,0,3,0,3
+Alex Hartridge,ENG,Wycombe,25,1999,3.0,,Defender,0,1,0,0.0,0.33,0.00,1.7,7,149,0,1,1,5
+Daniel Harvie,SCO,Wycombe,26,1998,13.9,,Defender,1,9,1,11.1,0.65,0.07,10.2,12,921,0,55,11,22
+Cian Hayes,IRL,P'borough Utd,21,2003,2.2,,Midfielder,0,1,0,0.0,0.46,0.00,15.0,15,1350,0,4,3,3
+Jaheim Headley,ENG,Huddersfield,23,2001,3.3,,Midfielder,0,3,0,0.0,0.91,0.00,10.6,13,952,0,27,1,4
+Rhys Healey,WAL,Huddersfield,29,1994,2.1,,Forward,1,8,4,50.0,3.81,1.90,2.0,2,180,4,1,0,1
+Michał Helik,POL,Huddersfield,29,1995,6.3,,Defender,0,3,1,33.3,0.48,0.16,6.3,7,563,0,0,9,5
+Zachary Hemming,ENG,Leyton Orient,24,2000,10.0,,Goalkeeper,0,0,0,0,0.00,0.00,15.0,15,1350,0,0,0,0
+Rushian Hepburn-Murphy,ENG,Crawley Town,26,1998,8.7,Midfielder,Forward,3,13,5,38.5,1.50,0.58,3.3,5,300,2,7,5,7
+Elliott Hewitt,WAL,Mansfield Town,30,1994,8.1,Defender,Midfielder,0,4,0,0.0,0.50,0.00,0,0,0,1,33,7,6
+Ben Hinchliffe,ENG,Stockport,36,1988,2.5,,Goalkeeper,0,0,0,0,0.00,0.00,5.8,11,521,0,0,0,0
+Joseph Hodge,IRL,Huddersfield,22,2002,3.0,,Midfielder,1,6,3,50.0,1.97,0.99,10.3,12,931,0,10,3,3
+Jonathan Hogg,ENG,Huddersfield,35,1988,6.6,,Midfielder,0,1,0,0.0,0.15,0.00,5.0,7,449,0,1,8,15
+Jack Holmes,ENG,Rotherham Utd,23,2001,2.1,,Midfielder,0,2,1,50.0,0.94,0.47,0.2,1,19,0,2,3,1
+Gavan Holohan,IRL,Crawley Town,32,1991,1.4,,Midfielder,0,2,0,0.0,1.41,0.00,6.2,11,562,0,5,1,0
+William Hondermarck,CGO,Northampton,23,2000,4.1,,Midfielder,0,4,4,100.0,0.97,0.97,10.2,11,918,1,0,4,10
+Luca Hoole,WAL,Shrewsbury,22,2002,8.1,,Defender,0,2,0,0.0,0.25,0.00,1.4,2,122,0,17,16,19
+Fraser Horsfall,ENG,Stockport,28,1996,14.5,,Defender,1,16,6,37.5,1.11,0.42,0.2,2,14,2,1,9,16
+Sam Hoskins,ENG,Northampton,31,1993,10.0,Forward,Midfielder,1,22,7,31.8,2.20,0.70,3.2,6,289,2,20,13,7
+Conor Hourihane,IRL,Barnsley,33,1991,0.9,,Midfielder,0,0,0,0,0.00,0.00,3.0,4,274,0,2,0,1
+Ben House,ENG,Lincoln City,25,1999,10.1,,Forward,4,22,9,40.9,2.17,0.89,13.9,14,1253,5,2,5,13
+Charlie Hughes,ENG,Wigan Athletic,21,2003,0.2,,Defender,0,0,0,0,0.00,0.00,2.2,8,196,0,0,0,0
+Sam Hughes,ENG,Stockport,27,1997,2.3,,Defender,0,1,0,0.0,0.43,0.00,3.3,6,298,0,0,4,1
+Joe Hugill,ENG,Wigan Athletic,21,2003,6.0,,Forward,2,10,5,50.0,1.65,0.83,2.1,5,189,4,0,1,2
+Jordan Hugill,ENG,Rotherham Utd,32,1992,5.0,,Forward,1,12,2,16.7,2.39,0.40,6.3,8,565,3,5,2,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Joe Hugill,ENG,Wigan Athletic,21,2003,6.0,,Forward,2,10,5,50.0,1.65,0.83,7.9,10,714,4,0,1,2
-Jordan Hugill,ENG,Rotherham Utd,32,1992,5.2,,Forward,1,12,2,16.7,2.30,0.38,10.0,10,900,3,5,2,0
-Cameron Humphreys,ENG,Rotherham Utd,26,1998,14.0,,Defender,1,10,4,40.0,0.71,0.29,8.7,16,779,0,2,17,8
-Cameron Humphreys,ENG,Wycombe,21,2003,10.2,,Midfielder,3,27,9,33.3,2.64,0.88,10.1,13,907,1,17,6,12
-Stephen Humphrys,ENG,Barnsley,27,1997,8.4,Midfielder,Forward,4,28,13,46.4,3.33,1.55,3.5,4,315,3,8,0,3
-Joseph Hungbo,ENG,Rotherham Utd,24,2000,4.5,Forward,Midfielder,0,2,1,50.0,0.45,0.22,3.0,7,274,1,26,2,4
-Jack Hunt,ENG,Bristol Rovers,33,1990,2.6,,Midfielder,0,0,0,0,0.00,0.00,6.8,11,608,0,6,4,2
-James Husband,ENG,Blackpool,30,1994,10.4,,Defender,3,5,3,60.0,0.48,0.29,2.4,11,220,0,17,13,12
-Isaac Hutchinson,ENG,Bristol Rovers,24,2000,7.0,,Midfielder,1,15,3,20.0,2.15,0.43,1.5,7,139,0,40,8,10
-Danny Hylton,ENG,Charlton Ath,35,1989,0.3,,Forward,0,1,0,0.0,3.60,0.00,1.0,1,90,1,0,0,0
-Bradley Ibrahim,ENG,Crawley Town,20,2004,8.6,,Midfielder,0,1,1,100.0,0.12,0.12,5.3,11,477,0,5,11,18
-Zeno Ibsen Rossi,ENG,Cambridge Utd,24,2000,6.9,,Defender,0,3,0,0.0,0.43,0.00,9.1,10,819,1,2,15,8
-Bradley Ihionvien,ENG,P'borough Utd,20,2003,0.9,,Forward,0,1,1,100.0,1.17,1.17,15.5,16,1391,1,0,0,0
-Tom Iorpenda,ENG,Huddersfield,19,2005,0.3,,Midfielder,0,0,0,0,0.00,0.00,10.9,15,984,0,1,1,0
-Jack Iredale,SCO,Bolton,28,1996,0.8,,Defender,0,0,0,0,0.00,0.00,0.9,2,84,0,1,1,0
-Harvey Isted,ENG,Burton Albion,27,1997,3.0,,Goalkeeper,0,0,0,0,0.00,0.00,11.1,14,998,0,0,0,0
-Tomoki Iwata,JPN,Birmingham City,27,1997,10.7,,Midfielder,5,12,5,41.7,1.12,0.47,0,0,0,0,11,8,9
+Cameron Humphreys,ENG,Rotherham Utd,26,1998,13.5,,Defender,1,10,4,40.0,0.74,0.30,10.0,10,900,0,2,17,6
+Cameron Humphreys,ENG,Wycombe,21,2003,8.5,,Midfielder,3,23,9,39.1,2.71,1.06,8.7,16,779,1,14,6,10
+Stephen Humphrys,ENG,Barnsley,27,1997,6.4,Midfielder,Forward,4,21,11,52.4,3.28,1.72,8.1,11,727,2,6,0,2
+Joseph Hungbo,ENG,Rotherham Utd,24,2000,4.0,Forward,Midfielder,0,2,1,50.0,0.50,0.25,2.5,3,225,1,25,2,3
+Jack Hunt,ENG,Bristol Rovers,33,1990,2.6,,Midfielder,0,0,0,0,0.00,0.00,3.0,7,274,0,6,4,2
+James Husband,ENG,Blackpool,30,1994,8.4,,Defender,3,4,3,75.0,0.48,0.36,6.6,10,593,0,15,10,10
+Isaac Hutchinson,ENG,Bristol Rovers,24,2000,5.3,,Midfielder,1,11,3,27.3,2.06,0.56,2.1,10,191,0,33,7,6
+Danny Hylton,ENG,Charlton Ath,35,1989,0.1,,Forward,0,0,0,0,0.00,0.00,1.4,6,128,0,0,0,0
+Bradley Ibrahim,ENG,Crawley Town,20,2004,8.6,,Midfielder,0,1,1,100.0,0.12,0.12,0,0,0,0,5,11,18
+Zeno Ibsen Rossi,ENG,Cambridge Utd,24,2000,6.5,,Defender,0,2,0,0.0,0.31,0.00,4.1,9,370,1,1,15,8
+Bradley Ihionvien,ENG,P'borough Utd,20,2003,0.9,,Forward,0,1,1,100.0,1.17,1.17,8.1,9,729,1,0,0,0
+Tom Iorpenda,ENG,Huddersfield,19,2005,0.3,,Midfielder,0,0,0,0,0.00,0.00,14.5,15,1301,0,1,1,0
+Jack Iredale,SCO,Bolton,28,1996,0.8,,Defender,0,0,0,0,0.00,0.00,10.0,13,899,0,1,1,0
+Harvey Isted,ENG,Burton Albion,27,1997,3.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.9,2,84,0,0,0,0
+Tomoki Iwata,JPN,Birmingham City,27,1997,8.7,,Midfielder,3,8,3,37.5,0.92,0.34,10.1,13,913,0,10,8,5
 Adam Jackson,ENG,Lincoln City,30,1994,7.6,,Defender,2,4,2,50.0,0.53,0.26,0,0,0,0,5,16,8
-Ricky Jade-Jones,ENG,P'borough Utd,23,2001,12.1,,Forward,4,20,10,50.0,1.66,0.83,0.2,1,18,11,12,2,4
-Diallang Jaiyesimi,ENG,Leyton Orient,26,1998,1.6,Midfielder,Forward,0,3,1,33.3,1.87,0.62,2.4,5,218,0,1,0,3
-Fabio Jalo,POR,Barnsley,19,2005,1.9,,Midfielder,0,8,3,37.5,4.31,1.62,6.0,8,544,0,10,0,1
-Matty James,ENG,Wrexham,33,1991,1.9,,Midfielder,0,0,0,0,0.00,0.00,5.2,16,469,0,0,6,5
-Reece James,ENG,Rotherham Utd,31,1993,11.6,,Defender,0,2,0,0.0,0.17,0.00,14.0,15,1260,0,37,17,12
-Tom James,WAL,Leyton Orient,28,1996,10.0,,Defender,2,7,4,57.1,0.70,0.40,10.2,13,920,0,84,10,15
-Zach Jeacock,ENG,Lincoln City,23,2001,1.2,,Goalkeeper,0,0,0,0,0.00,0.00,8.4,12,756,0,0,0,0
+Ricky Jade-Jones,ENG,P'borough Utd,23,2001,11.1,,Forward,4,18,9,50.0,1.62,0.81,0,0,0,10,12,2,2
+Diallang Jaiyesimi,ENG,Leyton Orient,26,1998,1.1,Midfielder,Forward,0,2,1,50.0,1.82,0.91,0.2,1,18,0,1,0,3
+Fabio Jalo,POR,Barnsley,19,2005,1.5,,Midfielder,0,6,2,33.3,4.06,1.35,2.3,4,209,0,6,0,1
+Matty James,ENG,Wrexham,33,1991,0.1,,Midfielder,0,0,0,0,0.00,0.00,6.0,8,544,0,0,0,2
+Reece James,ENG,Rotherham Utd,31,1993,11.6,,Defender,0,2,0,0.0,0.17,0.00,5.0,15,451,0,37,17,12
+Tom James,WAL,Leyton Orient,28,1996,8.3,Midfielder,Defender,2,6,3,50.0,0.73,0.36,13.5,14,1215,0,73,8,14
+Zach Jeacock,ENG,Lincoln City,23,2001,1.2,,Goalkeeper,0,0,0,0,0.00,0.00,8.5,11,765,0,0,0,0
+Dominic Jefferies,WAL,Lincoln City,22,2002,9.5,,Midfielder,0,9,2,22.2,0.95,0.21,6.4,10,576,0,26,9,14
+Tyreece John-Jules,ENG,Crawley Town,23,2001,0.2,,Forward,0,0,0,0,0.00,0.00,4.0,9,358,0,0,0,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Dominic Jefferies,WAL,Lincoln City,22,2002,10.5,,Midfielder,0,9,2,22.2,0.86,0.19,4.5,10,403,0,29,11,14
-Tyreece John-Jules,ENG,Crawley Town,23,2001,0.5,,Forward,0,1,1,100.0,2.20,2.20,2.6,5,236,0,0,0,1
-George Johnston,SCO,Bolton,26,1998,14.0,,Defender,0,9,0,0.0,0.64,0.00,0,0,0,1,11,17,13
-Gethin Jones,AUS,Bolton,29,1995,2.4,,Defender,0,0,0,0,0.00,0.00,10.4,11,937,0,1,3,3
-James Jones,SCO,Wrexham,28,1996,0.3,Midfielder,Defender,0,0,0,0,0.00,0.00,7.0,10,629,0,0,0,2
-Jordan Jones,NIR,Wigan Athletic,30,1994,0.7,Midfielder,Forward,0,1,1,100.0,1.50,1.50,0,0,0,0,14,0,0
-Lloyd Jones,ENG,Charlton Ath,29,1995,10.0,,Defender,1,8,5,62.5,0.80,0.50,0.3,3,25,0,1,23,7
-Christian Joseph,LCA,Bolton,0,0,1.8,,Defender,0,4,0,0.0,2.26,0.00,8.6,11,773,0,0,4,2
-Kyle Joseph,SCO,Blackpool,23,2001,15.5,,Forward,6,30,14,46.7,1.93,0.90,6.9,8,621,11,5,9,5
-Zak Jules,SCO,Rotherham Utd,27,1997,3.8,,Defender,0,1,1,100.0,0.26,0.26,0.9,4,77,0,0,3,3
-Lukas Jutkiewicz,ENG,Birmingham City,35,1989,0.2,,Forward,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Elias Kachunga,COD,Cambridge Utd,32,1992,8.2,Midfielder,Forward,1,11,5,45.5,1.35,0.61,0.3,3,31,0,8,8,9
-Sullay Kaikai,SLE,Cambridge Utd,29,1995,6.7,Forward,Midfielder,3,11,5,45.5,1.64,0.74,0.8,1,70,0,16,2,3
-Tomas Kalinauskas,LTU,Burton Albion,24,2000,11.6,,Midfielder,1,22,11,50.0,1.89,0.95,3.0,3,270,4,37,9,18
-Herbie Kane,ENG,Huddersfield,26,1998,7.2,,Midfielder,1,6,3,50.0,0.83,0.42,10.7,11,966,0,11,10,4
-Abraham Kanu,ENG,Reading,19,2005,0.3,,Midfielder,0,0,0,0,0.00,0.00,7.6,8,683,0,0,0,1
-Daniel Kanu,SLE,Charlton Ath,20,2004,3.0,Midfielder,Forward,0,4,0,0.0,1.35,0.00,12.1,16,1087,2,5,1,1
-David Kasumu,ENG,Huddersfield,25,1999,8.8,,Midfielder,2,9,6,66.7,1.02,0.68,1.6,7,144,1,2,7,20
-Jadel Katongo,ZAM,P'borough Utd,20,2004,3.5,,Defender,0,0,0,0,0.00,0.00,1.9,8,167,0,3,6,1
-Joshua Kayode,NGA,Shrewsbury,32,1992,0.5,,Forward,0,0,0,0,0.00,0.00,1.9,3,171,0,0,0,2
-Josh Keeley,IRL,Leyton Orient,21,2003,6.0,,Goalkeeper,0,0,0,0,0.00,0.00,11.6,14,1047,0,0,0,0
-Davis Keillor-Dunn,ENG,Mansfield Town,27,1997,2.7,,Midfielder,0,10,2,20.0,3.77,0.75,10.0,12,901,0,14,0,0
-Davis Keillor-Dunn,ENG,Barnsley,27,1997,11.4,Midfielder,Forward,4,27,9,33.3,2.36,0.79,1.2,2,106,1,20,3,8
-Jeremy Kelly,USA,Crawley Town,27,1997,14.5,,Midfielder,1,9,3,33.3,0.62,0.21,10.5,13,944,2,39,9,14
-Liam Kelly,SCO,Rotherham Utd,34,1990,5.3,,Midfielder,1,6,1,16.7,1.13,0.19,0.5,2,41,0,11,5,6
+George Johnston,SCO,Bolton,26,1998,12.0,,Defender,0,9,0,0.0,0.75,0.00,2.6,5,236,1,10,15,12
+Gethin Jones,AUS,Bolton,29,1995,0.4,Midfielder,Defender,0,0,0,0,0.00,0.00,0,0,0,0,1,0,0
+James Jones,SCO,Wrexham,28,1996,0.3,Midfielder,Defender,0,0,0,0,0.00,0.00,8.4,9,757,0,0,0,2
+Jordan Jones,NIR,Wigan Athletic,30,1994,0.7,Midfielder,Forward,0,1,1,100.0,1.50,1.50,5.3,8,480,0,14,0,0
+Lloyd Jones,ENG,Charlton Ath,29,1995,10.0,,Defender,1,8,5,62.5,0.80,0.50,0,0,0,0,1,23,7
+Christian Joseph,LCA,Bolton,0,0,1.8,,Defender,0,4,0,0.0,2.26,0.00,0.1,1,10,0,0,4,2
+Kyle Joseph,SCO,Blackpool,23,2001,13.7,,Forward,5,29,13,44.8,2.12,0.95,8.6,11,773,10,4,9,5
+Zak Jules,SCO,Rotherham Utd,27,1997,2.8,,Defender,0,1,1,100.0,0.35,0.35,6.5,7,583,0,0,1,2
+Lukas Jutkiewicz,ENG,Birmingham City,35,1989,0.2,,Forward,0,0,0,0,0.00,0.00,0.9,4,77,0,0,0,0
+Elias Kachunga,COD,Cambridge Utd,32,1992,7.1,Midfielder,Forward,1,8,4,50.0,1.13,0.57,0,0,0,0,8,7,8
+Sullay Kaikai,SLE,Cambridge Utd,29,1995,5.7,Forward,Midfielder,2,9,3,33.3,1.57,0.52,0.3,3,31,0,14,1,3
+Tomas Kalinauskas,LTU,Burton Albion,24,2000,9.6,,Midfielder,1,20,10,50.0,2.08,1.04,0.8,1,70,2,30,7,16
+Herbie Kane,ENG,Huddersfield,25,1998,5.2,,Midfielder,1,5,3,60.0,0.96,0.57,3.0,3,270,0,10,7,4
+Daniel Kanu,SLE,Charlton Ath,20,2004,3.0,Midfielder,Forward,0,4,0,0.0,1.35,0.00,8.7,9,786,2,5,1,1
+David Kasumu,ENG,Huddersfield,25,1999,6.8,,Midfielder,1,6,4,66.7,0.88,0.59,7.6,8,683,1,2,6,16
+Jadel Katongo,ZAM,P'borough Utd,20,2004,3.5,,Defender,0,0,0,0,0.00,0.00,11.1,15,997,0,3,6,1
+Joshua Kayode,NGA,Shrewsbury,32,1992,0.5,,Forward,0,0,0,0,0.00,0.00,1.1,6,99,0,0,0,2
+Josh Keeley,IRL,Leyton Orient,21,2003,4.0,,Goalkeeper,0,0,0,0,0.00,0.00,1.5,7,133,0,0,0,0
+Davis Keillor-Dunn,ENG,Mansfield Town,27,1997,2.7,,Midfielder,0,10,2,20.0,3.77,0.75,0.1,1,6,0,14,0,0
+Davis Keillor-Dunn,ENG,Barnsley,27,1997,9.6,Forward,Midfielder,3,22,8,36.4,2.29,0.83,11.6,14,1047,1,17,3,7
+Jeremy Kelly,USA,Crawley Town,27,1997,13.5,,Midfielder,1,9,3,33.3,0.67,0.22,8.3,10,744,2,39,9,14
+Liam Kelly,SCO,Rotherham Utd,34,1990,5.3,,Midfielder,1,6,1,16.7,1.13,0.19,1.2,2,106,0,11,5,6
+Charlie Kelman,USA,Leyton Orient,23,2001,12.9,Midfielder,Forward,4,31,17,54.8,2.39,1.31,9.5,12,854,7,12,0,1
+Daniel Kemp,ENG,Stevenage,25,1999,8.9,,Midfielder,2,23,8,34.8,2.60,0.90,0.2,1,14,9,30,4,7
+Jason Kerr,SCO,Wigan Athletic,27,1997,14.0,,Defender,0,8,0,0.0,0.57,0.00,12.0,12,1078,0,2,22,6
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Charlie Kelman,USA,Leyton Orient,23,2001,14.2,Midfielder,Forward,4,33,17,51.5,2.32,1.19,14.0,14,1258,7,13,0,1
-Daniel Kemp,ENG,Stevenage,25,1999,9.9,,Midfielder,2,23,8,34.8,2.33,0.81,2.4,3,214,9,31,4,7
-Jason Kerr,SCO,Wigan Athletic,27,1997,16.0,,Defender,0,8,0,0.0,0.50,0.00,0.3,2,29,0,2,26,7
-Rafiq Khaleel,ENG,Crawley Town,21,2003,0.1,,Midfielder,0,1,0,0.0,8.18,0.00,0.7,2,60,0,0,0,0
-Brandon Khela,ENG,Birmingham City,19,2005,0.2,,Midfielder,0,0,0,0,0.00,0.00,10.0,10,900,0,0,0,0
-Alfie Kilgour,ENG,Mansfield Town,26,1998,0.0,,Defender,0,0,0,0,0.00,0.00,1.8,2,159,0,0,0,0
-Ben Killip,ENG,Barnsley,29,1995,6.0,,Goalkeeper,0,0,0,0,0.00,0.00,15.5,17,1398,0,0,0,0
-Eli King,WAL,Stevenage,21,2002,5.6,,Midfielder,0,3,1,33.3,0.53,0.18,3.8,4,346,0,16,5,12
-Christoph Klarer,AUT,Birmingham City,24,2000,14.0,,Defender,0,7,1,14.3,0.50,0.07,0.2,3,21,0,10,18,9
-Harvey Knibbs,ENG,Reading,25,1999,11.9,Forward,Midfielder,4,18,7,38.9,1.51,0.59,8.2,13,735,0,11,21,13
-Gideon Kodua,ENG,Wycombe,20,2004,1.0,,Midfielder,1,1,1,100.0,1.02,1.02,6.7,13,605,0,3,0,1
-Ali Koiki,ENG,Northampton,25,1999,1.8,,Defender,0,0,0,0,0.00,0.00,11.6,16,1047,0,6,1,3
-Richard Kone,CIV,Wycombe,21,2003,10.8,,Forward,9,37,17,45.9,3.44,1.58,0,0,0,13,9,2,5
-Josh Koroma,SLE,Huddersfield,26,1998,8.8,,Forward,4,33,10,30.3,3.73,1.13,7.2,11,650,7,13,1,4
-Hector Kyprianou,CYP,P'borough Utd,23,2001,6.3,,Midfielder,0,4,1,25.0,0.63,0.16,0.3,1,23,0,2,13,12
-Freddie Ladapo,ENG,Huddersfield,31,1993,2.6,,Forward,0,6,0,0.0,2.29,0.00,3.0,6,266,0,1,0,1
-Ethan Laird,ENG,Birmingham City,23,2001,6.6,,Defender,0,4,1,25.0,0.60,0.15,8.8,12,795,3,21,3,8
-Joshua Laqeretabua,FIJ,Charlton Ath,19,2005,0.0,,Defender,0,0,0,0,0.00,0.00,3.5,4,319,0,0,0,0
-Shayne Lavery,NIR,Cambridge Utd,25,1998,5.7,,Forward,2,17,9,52.9,2.99,1.58,0,0,0,5,4,0,5
-Miles Leaburn,ENG,Charlton Ath,20,2003,4.8,Midfielder,Forward,0,16,3,18.8,3.36,0.63,0.5,2,46,2,4,1,2
-Luke Leahy,ENG,Wycombe,32,1992,5.7,,Midfielder,2,13,5,38.5,2.27,0.87,6.0,6,540,1,31,3,4
-Elliot Lee,ENG,Wrexham,29,1994,15.7,Forward,Midfielder,4,29,11,37.9,1.85,0.70,2.7,3,239,1,43,7,13
-Tom Lees,ENG,Huddersfield,33,1990,14.8,,Defender,0,9,3,33.3,0.61,0.20,11.4,13,1029,3,3,21,7
-Marc Leonard,SCO,Birmingham City,22,2001,4.4,,Midfielder,0,7,1,14.3,1.60,0.23,14.5,17,1305,1,20,4,3
-Aaron Lewis,WAL,Mansfield Town,26,1998,6.2,,Midfielder,2,9,3,33.3,1.45,0.48,5.3,6,476,0,31,2,10
+Brandon Khela,ENG,Birmingham City,19,2005,0.2,,Midfielder,0,0,0,0,0.00,0.00,0.4,1,34,0,0,0,0
+Alfie Kilgour,ENG,Mansfield Town,26,1998,0.0,,Defender,0,0,0,0,0.00,0.00,0.3,2,29,0,0,0,0
+Ben Killip,ENG,Barnsley,28,1995,4.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.7,2,60,0,0,0,0
+Eli King,WAL,Stevenage,21,2002,5.6,,Midfielder,0,3,1,33.3,0.53,0.18,10.0,10,900,0,16,5,12
+Christoph Klarer,AUT,Birmingham City,24,2000,12.0,,Defender,0,7,1,14.3,0.58,0.08,1.8,2,159,0,9,15,8
+Harvey Knibbs,ENG,Reading,25,1999,9.9,Forward,Midfielder,2,14,5,35.7,1.41,0.50,13.7,15,1234,0,7,20,13
+Gideon Kodua,ENG,Wycombe,20,2004,1.0,,Midfielder,1,1,1,100.0,1.02,1.02,2.8,3,256,0,3,0,1
+Ali Koiki,ENG,Northampton,25,1999,1.8,,Defender,0,0,0,0,0.00,0.00,0.2,3,21,0,6,1,3
+Richard Kone,CIV,Wycombe,21,2003,8.9,,Forward,8,32,15,46.9,3.60,1.69,7.1,11,635,11,8,2,5
+Josh Koroma,SLE,Huddersfield,26,1998,7.3,,Forward,4,30,9,30.0,4.10,1.23,5.7,12,515,7,12,1,4
+Hector Kyprianou,CYP,P'borough Utd,23,2001,6.3,,Midfielder,0,4,1,25.0,0.63,0.16,9.6,14,867,0,2,13,12
+Freddie Ladapo,ENG,Huddersfield,31,1993,2.2,,Forward,0,3,0,0.0,1.34,0.00,0,0,0,0,1,0,0
+Ethan Laird,ENG,Birmingham City,23,2001,6.0,,Defender,0,4,1,25.0,0.66,0.17,5.2,9,470,3,18,3,8
+Shayne Lavery,NIR,Cambridge Utd,25,1998,4.9,,Forward,2,13,7,53.8,2.67,1.44,0,0,0,5,4,0,4
+Miles Leaburn,ENG,Charlton Ath,20,2003,2.9,Forward,Midfielder,0,8,2,25.0,2.73,0.68,3.0,6,266,0,1,1,1
+Luke Leahy,ENG,Wycombe,32,1992,3.7,,Midfielder,1,9,3,33.3,2.41,0.80,6.8,10,615,1,24,3,3
+Elliot Lee,ENG,Wrexham,29,1994,14.1,,Midfielder,4,28,10,35.7,1.98,0.71,3.5,4,319,1,38,7,13
+Tom Lees,ENG,Huddersfield,33,1990,12.8,,Defender,0,9,3,33.3,0.70,0.23,0,0,0,3,2,17,6
+Marc Leonard,SCO,Birmingham City,22,2001,3.9,,Midfielder,0,5,1,20.0,1.28,0.26,0.5,2,46,1,18,4,3
+Aaron Lewis,WAL,Mansfield Town,26,1998,5.0,,Midfielder,2,5,2,40.0,1.00,0.40,4.0,4,360,0,27,2,8
+Jamie Lindsay,SCO,Bristol Rovers,29,1995,7.7,,Midfielder,2,9,2,22.2,1.17,0.26,2.7,3,239,0,16,15,4
+Elliott List,ENG,Stevenage,27,1997,6.0,Forward,Midfielder,3,13,5,38.5,2.18,0.84,9.6,11,863,0,4,5,5
+George Lloyd,ENG,Shrewsbury,24,2000,11.7,,Forward,3,10,5,50.0,0.85,0.43,13.5,16,1215,10,6,4,9
+Ryan Loft,ENG,Cambridge Utd,27,1997,2.2,,Forward,0,4,1,25.0,1.83,0.46,5.3,6,476,1,0,0,3
+Kyran Lofthouse,ENG,Barnsley,24,2000,2.4,Forward,Midfielder,0,3,1,33.3,1.24,0.41,12.9,14,1165,2,7,2,4
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Jamie Lindsay,SCO,Bristol Rovers,29,1995,9.5,,Midfielder,2,12,2,16.7,1.27,0.21,14.2,16,1282,0,16,15,5
-Elliott List,ENG,Stevenage,27,1997,6.1,Forward,Midfielder,3,14,5,35.7,2.28,0.81,9.9,15,887,0,4,5,5
-George Lloyd,ENG,Shrewsbury,24,2000,11.8,,Forward,3,10,5,50.0,0.85,0.43,16.0,16,1440,10,6,4,9
-Ryan Loft,ENG,Cambridge Utd,27,1997,2.8,,Forward,0,5,1,20.0,1.81,0.36,0.1,1,11,1,0,0,3
-Kyran Lofthouse,ENG,Barnsley,24,2000,2.5,Forward,Midfielder,0,3,1,33.3,1.19,0.40,0.2,2,14,2,7,2,4
-Klaidi Lolos,GRE,Bolton,23,2001,0.8,,Midfielder,1,2,2,100.0,2.65,2.65,0.0,2,4,0,0,0,0
-Emmanuel Longelo,ENG,Cambridge Utd,23,2000,3.3,Forward,Midfielder,1,7,1,14.3,2.12,0.30,6.0,6,540,1,14,2,2
-Nigel Lonwijk,NED,Huddersfield,22,2002,11.9,,Defender,0,4,1,25.0,0.33,0.08,5.6,10,505,0,10,23,15
-Joseph Low,WAL,Wycombe,22,2002,16.0,,Defender,3,9,5,55.6,0.56,0.31,14.0,14,1260,1,0,12,2
-Beryly Lubala,COD,Wycombe,26,1998,3.1,,Midfielder,1,11,4,36.4,3.59,1.30,11.9,13,1074,1,2,2,5
-Alex MacDonald,SCO,Rotherham Utd,34,1990,2.6,Defender,Midfielder,0,1,0,0.0,0.38,0.00,1.0,5,88,1,23,2,1
-Calum MacDonald,ENG,Mansfield Town,26,1997,0.2,Midfielder,Defender,0,0,0,0,0.00,0.00,1.8,2,162,0,0,0,0
-Josh Magennis,NIR,Exeter City,34,1990,12.4,,Forward,1,16,5,31.3,1.29,0.40,10.8,16,968,5,15,2,1
-Tyler Magloire,ENG,Northampton,25,1998,1.6,,Defender,1,1,1,100.0,0.62,0.62,8.8,12,796,0,0,3,3
-Jovon Makama,ENG,Lincoln City,20,2004,9.2,,Forward,1,15,6,40.0,1.62,0.65,6.3,7,567,2,9,2,3
-Udoka Malife,ENG,Burton Albion,24,2000,9.0,Defender,Midfielder,1,9,3,33.3,1.00,0.33,2.6,8,236,8,14,8,8
-Scott Malone,ENG,Crawley Town,33,1991,1.7,,Midfielder,0,2,0,0.0,1.18,0.00,6.6,9,598,1,0,2,2
-William Mannion,ENG,Charlton Ath,26,1998,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.0,1,4,0,0,0,1
-George Maris,ENG,Mansfield Town,28,1996,1.7,,Midfielder,0,2,1,50.0,1.18,0.59,0,0,0,0,0,2,1
-John Marquis,ENG,Shrewsbury,32,1992,8.9,,Forward,3,20,8,40.0,2.25,0.90,5.7,8,512,12,8,3,3
-Jack Marriott,ENG,Wrexham,30,1994,7.4,,Forward,5,17,11,64.7,2.28,1.48,4.8,7,429,11,4,2,2
-Aiden Marsh,ENG,Barnsley,21,2003,2.0,,Forward,0,2,2,100.0,0.98,0.98,5.7,10,516,1,2,0,1
-Callum Marshall,NIR,Huddersfield,19,2004,9.1,,Forward,3,24,13,54.2,2.65,1.44,15.7,17,1414,4,14,7,9
-Chris Martin,SCO,Bristol Rovers,36,1988,4.1,,Forward,0,2,0,0.0,0.49,0.00,14.8,16,1329,1,0,0,0
-Jay Matete,ENG,Bolton,23,2001,8.5,,Midfielder,0,9,1,11.1,1.06,0.12,4.4,12,393,0,7,7,16
+Klaidi Lolos,GRE,Bolton,23,2001,0.5,,Midfielder,1,1,1,100.0,1.96,1.96,8.9,14,797,0,0,0,0
+Emmanuel Longelo,ENG,Cambridge Utd,23,2000,3.3,Forward,Midfielder,1,7,1,14.3,2.12,0.30,14.0,14,1260,1,14,2,2
+Nigel Lonwijk,NED,Huddersfield,22,2002,9.9,,Defender,0,4,1,25.0,0.40,0.10,0,0,0,0,10,22,10
+Joseph Low,WAL,Wycombe,22,2002,14.0,,Defender,2,8,4,50.0,0.57,0.29,0.2,2,14,1,0,11,1
+Beryly Lubala,COD,Wycombe,26,1998,2.9,,Midfielder,1,10,4,40.0,3.49,1.40,0.0,1,3,1,2,1,4
+Alex MacDonald,SCO,Rotherham Utd,34,1990,2.1,Defender,Midfielder,0,1,0,0.0,0.47,0.00,4.0,4,360,1,20,2,1
+Calum MacDonald,ENG,Mansfield Town,26,1997,0.2,Midfielder,Defender,0,0,0,0,0.00,0.00,5.6,10,505,0,0,0,0
+Josh Magennis,NIR,Exeter City,34,1990,10.4,,Forward,1,13,3,23.1,1.25,0.29,12.0,12,1080,5,15,2,1
+Tyler Magloire,ENG,Northampton,25,1998,1.6,,Defender,1,1,1,100.0,0.62,0.62,9.9,11,894,0,0,3,3
+Jovon Makama,ENG,Lincoln City,20,2004,7.5,,Forward,1,12,6,50.0,1.60,0.80,1.0,5,88,2,7,1,3
+Udoka Malife,ENG,Burton Albion,24,2000,7.3,Defender,Midfielder,1,9,3,33.3,1.24,0.41,1.8,2,162,8,12,7,6
+Scott Malone,ENG,Crawley Town,33,1991,1.7,,Midfielder,0,2,0,0.0,1.18,0.00,8.9,14,800,1,0,2,2
+William Mannion,ENG,Charlton Ath,26,1998,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.3,10,658,0,0,0,1
+George Maris,ENG,Mansfield Town,28,1996,0.8,,Midfielder,0,1,1,100.0,1.30,1.30,6.3,7,567,0,0,1,1
+John Marquis,ENG,Shrewsbury,32,1992,7.9,,Forward,2,17,6,35.3,2.16,0.76,2.2,7,201,9,8,2,3
+Jack Marriott,ENG,Wrexham,30,1994,7.4,,Forward,5,17,11,64.7,2.28,1.48,6.0,8,544,11,4,2,2
+Aiden Marsh,ENG,Barnsley,21,2003,2.0,,Forward,0,2,2,100.0,0.98,0.98,0,0,0,1,2,0,1
+Callum Marshall,NIR,Huddersfield,19,2004,8.6,,Forward,2,21,11,52.4,2.45,1.28,4.9,6,439,4,14,7,9
+Chris Martin,SCO,Bristol Rovers,36,1988,2.5,,Forward,0,0,0,0,0.00,0.00,2.9,5,264,0,0,0,0
+Jay Matete,ENG,Bolton,23,2001,7.3,,Midfielder,0,7,1,14.3,0.96,0.14,3.7,8,336,0,5,7,13
+Alfie May,ENG,Birmingham City,31,1993,8.3,Midfielder,Forward,5,21,10,47.6,2.52,1.20,14.1,15,1272,4,9,3,3
+Ashley Maynard-Brewer,AUS,Charlton Ath,25,1999,1.0,,Goalkeeper,0,0,0,0,0.00,0.00,12.8,14,1149,0,0,0,0
+Amadou Mbengue,SEN,Reading,22,2002,13.9,,Defender,1,6,2,33.3,0.43,0.14,3.9,10,351,0,9,15,18
+Luke Mbete-Tatu,ENG,Northampton,21,2003,5.4,,Defender,0,5,1,20.0,0.93,0.19,5.0,13,452,0,6,10,6
+John Mcatee,ENG,Bolton,25,1999,8.2,Forward,Midfielder,3,20,9,45.0,2.45,1.10,7.7,12,694,3,13,6,10
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Alfie May,ENG,Birmingham City,31,1993,9.6,Midfielder,Forward,5,22,10,45.5,2.30,1.04,6.2,15,558,5,10,3,4
-Ashley Maynard-Brewer,AUS,Charlton Ath,25,1999,3.0,,Goalkeeper,0,0,0,0,0.00,0.00,9.5,14,852,0,0,0,0
-Amadou Mbengue,SEN,Reading,22,2002,14.7,,Defender,1,6,2,33.3,0.41,0.14,6.1,13,553,0,9,16,20
-Luke Mbete-Tatu,ENG,Northampton,21,2003,5.4,,Defender,0,5,1,20.0,0.93,0.19,11.8,16,1058,0,6,10,6
-John Mcatee,ENG,Bolton,25,1999,9.1,Forward,Midfielder,3,20,9,45.0,2.19,0.99,2.8,7,249,3,13,6,10
-Liam McCarron,SCO,Northampton,23,2001,2.6,,Midfielder,1,4,2,50.0,1.53,0.77,2.5,11,226,0,4,2,2
-Jamie McCart,SCO,Rotherham Utd,27,1997,11.8,,Defender,0,13,5,38.5,1.11,0.43,0.8,4,68,4,2,18,14
-Jason McCarthy,ENG,Wycombe,29,1995,0.5,Midfielder,Defender,0,0,0,0,0.00,0.00,0,0,0,1,0,0,0
-James McClean,IRL,Wrexham,35,1989,16.3,Midfielder,Defender,2,18,3,16.7,1.10,0.18,3.3,8,297,6,74,14,25
-Garath McCleary,JAM,Wycombe,37,1987,10.7,Forward,Midfielder,2,9,3,33.3,0.84,0.28,11.9,12,1075,6,37,5,6
-Luke McCormick,ENG,Bristol Rovers,25,1999,6.3,,Midfielder,2,13,3,23.1,2.08,0.48,16.0,16,1440,3,9,3,1
-Kevin McDonald,SCO,Exeter City,36,1988,0.2,,Midfielder,0,0,0,0,0.00,0.00,3.1,9,276,0,0,0,0
-Cameron McGeehan,NIR,Northampton,29,1995,16.0,Forward,Midfielder,4,18,7,38.9,1.13,0.44,2.6,7,235,2,7,8,15
-Aaron McGowan,ENG,Northampton,28,1996,6.9,,Defender,0,0,0,0,0.00,0.00,0.2,1,14,0,14,6,13
-Conor McGrandles,SCO,Lincoln City,29,1995,11.7,,Midfielder,0,2,0,0.0,0.17,0.00,0,0,0,0,8,19,23
-Ciaran McGuckin,NIR,Rotherham Utd,20,2003,0.7,,Forward,0,1,0,0.0,1.43,0.00,12.4,15,1112,1,1,0,1
-JJ McKiernan,NIR,Lincoln City,22,2002,2.7,,Midfielder,0,3,0,0.0,1.10,0.00,1.6,7,145,1,7,0,2
-Stephen McLaughlin,IRL,Mansfield Town,34,1990,9.2,Defender,Midfielder,0,10,3,30.0,1.09,0.33,9.2,14,831,1,39,7,6
-Callum McManaman,ENG,Wigan Athletic,33,1991,2.9,,Midfielder,1,5,1,20.0,1.74,0.35,9.0,12,814,1,7,3,6
-Jack McMillan,SCO,Exeter City,26,1997,15.8,Defender,Midfielder,0,6,2,33.3,0.38,0.13,1.7,2,152,2,12,9,13
-Shaun McWilliams,ENG,Rotherham Utd,26,1998,2.9,,Midfielder,0,4,0,0.0,1.40,0.00,13.0,13,1170,0,2,2,5
-Michael Mellon,SCO,Stockport,20,2003,0.4,,Forward,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Jacob Mendy,GAM,Wrexham,27,1996,0.3,Midfielder,Defender,0,1,0,0.0,3.91,0.00,1.7,6,153,1,1,0,1
-K'Marni Miller,ENG,Wigan Athletic,19,2005,0.5,,Defender,0,0,0,0,0.00,0.00,8.9,13,799,0,1,0,0
-Mickel Miller,ENG,Huddersfield,28,1995,11.9,,Midfielder,0,10,3,30.0,0.84,0.25,7.4,10,670,1,107,15,14
+Liam McCarron,SCO,Northampton,23,2001,2.5,,Midfielder,1,3,1,33.3,1.22,0.41,6.0,12,537,0,4,2,2
+Jamie McCart,SCO,Rotherham Utd,27,1997,11.8,,Defender,0,13,5,38.5,1.11,0.43,11.7,15,1057,4,2,18,14
+Jason McCarthy,ENG,Wycombe,29,1995,0.5,Midfielder,Defender,0,0,0,0,0.00,0.00,2.2,6,197,1,0,0,0
+James McClean,IRL,Wrexham,35,1989,14.3,,Defender,2,16,3,18.8,1.12,0.21,2.4,9,217,1,56,11,22
+Garath McCleary,JAM,Wycombe,37,1987,9.6,Forward,Midfielder,2,8,3,37.5,0.83,0.31,0.5,3,46,4,35,5,5
+Luke McCormick,ENG,Bristol Rovers,25,1999,4.6,,Midfielder,1,8,2,25.0,1.75,0.44,0,0,0,3,7,3,1
+Cameron McGeehan,NIR,Northampton,29,1995,14.0,Forward,Midfielder,4,17,7,41.2,1.21,0.50,3.3,8,297,2,6,6,14
+Aaron McGowan,ENG,Northampton,28,1996,6.1,,Defender,0,0,0,0,0.00,0.00,9.9,10,895,0,12,6,12
+Conor McGrandles,SCO,Lincoln City,29,1995,10.0,,Midfielder,0,1,0,0.0,0.10,0.00,14.0,14,1260,0,4,17,23
+Ciaran McGuckin,NIR,Rotherham Utd,20,2003,0.5,,Forward,0,0,0,0,0.00,0.00,2.9,8,258,1,1,0,1
+JJ McKiernan,NIR,Lincoln City,22,2002,2.6,,Midfielder,0,3,0,0.0,1.17,0.00,2.1,6,190,1,5,0,2
+Stephen McLaughlin,IRL,Mansfield Town,34,1990,8.3,Defender,Midfielder,0,8,3,37.5,0.97,0.36,0.2,1,14,1,34,6,6
+Callum McManaman,ENG,Wigan Athletic,33,1991,2.9,,Midfielder,1,5,1,20.0,1.74,0.35,0,0,0,1,7,3,6
+Jack McMillan,SCO,Exeter City,26,1997,13.8,Defender,Midfielder,0,5,2,40.0,0.36,0.15,10.4,13,938,2,11,9,10
+Shaun McWilliams,ENG,Rotherham Utd,26,1998,2.2,,Midfielder,0,3,0,0.0,1.38,0.00,1.6,7,145,0,2,2,5
+Michael Mellon,SCO,Stockport,20,2003,0.4,,Forward,0,0,0,0,0.00,0.00,7.5,12,674,0,0,0,0
+Jacob Mendy,GAM,Wrexham,27,1996,0.3,Midfielder,Defender,0,1,0,0.0,3.91,0.00,7.3,10,654,1,1,0,1
+K'Marni Miller,ENG,Wigan Athletic,19,2005,0.5,,Defender,0,0,0,0,0.00,0.00,1.7,2,152,0,1,0,0
+Mickel Miller,ENG,Huddersfield,28,1995,10.4,,Midfielder,0,8,2,25.0,0.77,0.19,13.0,13,1170,1,95,13,13
+Jade Mingi,ENG,Stockport,24,2000,4.1,,Defender,0,2,0,0.0,0.49,0.00,0,0,0,0,3,6,5
+Alex Mitchell,ENG,Charlton Ath,23,2001,13.0,,Defender,1,6,3,50.0,0.46,0.23,0.8,4,69,0,2,21,11
+Demetri Mitchell,ENG,Exeter City,27,1997,0.6,Midfielder,Defender,0,2,0,0.0,3.40,0.00,7.9,12,709,0,3,0,0
+Zach Mitchell,ENG,Charlton Ath,19,2005,1.0,,Defender,0,0,0,0,0.00,0.00,7.4,10,670,0,2,0,2
+Koji Miyoshi,JPN,Birmingham City,27,1997,1.1,,Midfielder,0,2,1,50.0,1.80,0.90,2.0,6,184,1,1,0,1
+Clinton Mola,ENG,Bristol Rovers,23,2001,14.4,,Defender,0,5,3,60.0,0.35,0.21,8.6,13,773,0,15,52,21
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Jade Mingi,ENG,Stockport,24,2000,4.1,,Defender,0,2,0,0.0,0.49,0.00,2.0,6,184,0,3,6,5
-Alex Mitchell,ENG,Charlton Ath,23,2001,15.0,,Defender,1,6,3,50.0,0.40,0.20,9.1,15,815,0,2,24,13
-Demetri Mitchell,ENG,Exeter City,27,1997,0.9,Midfielder,Defender,0,2,0,0.0,2.12,0.00,4.1,6,366,0,8,0,0
-Zach Mitchell,ENG,Charlton Ath,19,2005,1.0,,Defender,0,0,0,0,0.00,0.00,8.5,16,766,0,2,0,2
-Koji Miyoshi,JPN,Birmingham City,27,1997,1.1,,Midfielder,0,2,1,50.0,1.80,0.90,0,0,0,1,1,0,1
-Clinton Mola,ENG,Bristol Rovers,23,2001,15.7,,Defender,0,5,3,60.0,0.32,0.19,0,0,0,0,15,54,22
-Lewis Montsma,NED,Lincoln City,26,1998,4.6,,Defender,0,3,1,33.3,0.65,0.22,9.6,15,862,0,3,6,1
-Taylor Moore,ENG,Bristol Rovers,27,1997,11.9,,Defender,0,10,3,30.0,0.84,0.25,3.0,3,270,0,21,22,21
-Albie Morgan,ENG,Blackpool,24,2000,6.2,,Midfielder,1,9,2,22.2,1.46,0.32,14.7,15,1321,0,7,9,5
-Aaron Morley,ENG,Wycombe,24,2000,12.4,,Midfielder,1,15,3,20.0,1.21,0.24,5.4,6,482,0,34,13,7
-Michael Morrison,ENG,Cambridge Utd,36,1988,10.8,,Defender,0,8,2,25.0,0.74,0.18,0,0,0,0,2,15,6
-Callum Morton,ENG,Northampton,24,2000,5.3,,Forward,1,6,2,33.3,1.12,0.37,9.1,16,821,4,2,0,1
-Malik Mothersille,ENG,P'borough Utd,21,2003,13.2,Forward,Midfielder,5,19,14,73.7,1.44,1.06,2.6,11,235,4,15,5,8
-Jack Moylan,IRL,Lincoln City,23,2001,8.9,,Midfielder,2,22,6,27.3,2.48,0.68,11.8,12,1058,0,28,6,7
-Joy Mukena,BEL,Crawley Town,25,1999,13.8,,Defender,0,2,0,0.0,0.15,0.00,0,0,0,0,1,15,11
-Tobias Mullarkey,ENG,Crawley Town,28,1996,17.0,,Defender,0,7,1,14.3,0.41,0.06,0.5,2,46,0,28,9,12
-Paul Mullin,ENG,Wrexham,30,1994,7.1,,Forward,1,28,9,32.1,3.95,1.27,16.3,17,1469,7,5,0,5
-George Nevett,WAL,P'borough Utd,18,2006,2.4,,Defender,0,0,0,0,0.00,0.00,10.7,14,961,0,0,1,2
-Lee Nicholls,ENG,Huddersfield,32,1992,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,6.3,13,563,0,0,0,0
-Tom Nichols,ENG,Mansfield Town,31,1993,0.9,,Midfielder,0,3,0,0.0,3.25,0.00,0.2,1,14,1,2,1,1
-Ilmari Niskanen,FIN,Exeter City,27,1997,14.9,Defender,Midfielder,1,22,3,13.6,1.48,0.20,16.0,16,1440,2,57,14,19
-Brandon Njoku,ENG,Cambridge Utd,19,2005,6.9,,Forward,1,6,3,50.0,0.87,0.43,6.9,9,621,7,1,3,2
-Dan Nlundulu,ENG,Cambridge Utd,25,1999,9.4,,Forward,2,30,7,23.3,3.21,0.75,11.7,13,1056,9,4,1,5
-Sam Nombe,ENG,Rotherham Utd,26,1998,12.3,,Forward,3,29,13,44.8,2.35,1.05,0.7,2,63,14,22,3,14
-Oliver Norburn,GRN,Blackpool,32,1992,5.6,,Midfielder,0,6,1,16.7,1.08,0.18,2.7,12,245,0,1,4,3
+Lewis Montsma,NED,Lincoln City,26,1998,3.6,,Defender,0,2,1,50.0,0.55,0.27,2.5,4,223,0,1,5,1
+Taylor Moore,ENG,Bristol Rovers,27,1997,9.9,,Defender,0,9,3,33.3,0.91,0.30,7.3,14,653,0,16,20,17
+Albie Morgan,ENG,Blackpool,24,2000,6.2,,Midfielder,1,9,2,22.2,1.46,0.32,0,0,0,0,7,9,5
+Aaron Morley,ENG,Wycombe,24,2000,10.4,,Midfielder,1,13,2,15.4,1.25,0.19,0,0,0,0,29,10,4
+Michael Morrison,ENG,Cambridge Utd,36,1988,8.8,,Defender,0,6,2,33.3,0.68,0.23,8.3,13,751,0,2,11,3
+Callum Morton,ENG,Northampton,24,2000,5.3,,Forward,1,6,2,33.3,1.12,0.37,1.0,1,90,4,2,0,1
+Malik Mothersille,ENG,P'borough Utd,21,2003,12.3,Forward,Midfielder,5,19,14,73.7,1.54,1.14,13.9,14,1254,3,14,5,8
+Jack Moylan,IRL,Lincoln City,23,2001,6.9,,Midfielder,2,14,6,42.9,2.02,0.86,5.4,6,482,0,25,5,7
+Joy Mukena,BEL,Crawley Town,25,1999,12.8,,Defender,0,2,0,0.0,0.16,0.00,0,0,0,0,1,13,11
+Tobias Mullarkey,ENG,Crawley Town,28,1996,16.0,,Defender,0,6,1,16.7,0.37,0.06,8.2,14,736,0,22,9,11
+Paul Mullin,ENG,Wrexham,30,1994,6.7,,Forward,1,25,8,32.0,3.75,1.20,2.5,10,221,7,4,0,5
+George Nevett,WAL,P'borough Utd,18,2006,2.4,,Defender,0,0,0,0,0.00,0.00,11.8,12,1058,0,0,1,2
+Lee Nicholls,ENG,Huddersfield,32,1992,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
+Tom Nichols,ENG,Mansfield Town,31,1993,0.9,,Midfielder,0,3,0,0.0,3.25,0.00,0.5,2,46,1,2,1,1
+Ilmari Niskanen,FIN,Exeter City,27,1997,12.9,Defender,Midfielder,1,19,3,15.8,1.48,0.23,14.3,15,1289,1,50,13,18
+Brandon Njoku,ENG,Cambridge Utd,19,2005,5.7,,Forward,1,5,2,40.0,0.87,0.35,9.6,12,864,6,1,3,1
+Dan Nlundulu,ENG,Cambridge Utd,25,1999,8.4,,Forward,2,29,7,24.1,3.47,0.84,4.6,11,412,6,4,1,3
+Sam Nombe,ENG,Rotherham Utd,26,1998,12.3,,Forward,3,29,13,44.8,2.35,1.05,14.0,14,1260,14,22,3,14
+Oliver Norburn,GRN,Blackpool,32,1992,3.7,,Midfielder,0,5,0,0.0,1.35,0.00,6.1,8,547,0,1,3,3
+Oliver Norwood,NIR,Stockport,33,1991,8.6,,Midfielder,0,6,1,16.7,0.70,0.12,10.0,11,899,0,47,15,8
+Aristote Nsiala,COD,Shrewsbury,32,1992,8.6,,Defender,1,8,4,50.0,0.93,0.47,0.5,1,45,0,1,11,10
+George Nurse,ENG,Shrewsbury,25,1999,3.0,Defender,Midfielder,0,2,0,0.0,0.68,0.00,2.6,10,231,1,11,9,5
+Kelechi Nwakali,NGA,Barnsley,26,1998,0.9,,Midfielder,0,2,0,0.0,2.14,0.00,8.3,11,744,0,2,1,4
+Donay O'Brien-Brady,ENG,P'borough Utd,20,2004,6.3,,Midfielder,1,5,2,40.0,0.80,0.32,2.9,9,259,0,4,4,5
+Eoghan O'Connell,IRL,Wrexham,29,1995,12.1,,Defender,0,0,0,0,0.00,0.00,13.8,14,1241,0,1,14,18
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Oliver Norwood,NIR,Stockport,33,1991,9.6,,Midfielder,0,7,1,14.3,0.73,0.10,9.2,13,826,0,52,16,10
-Aristote Nsiala,COD,Shrewsbury,32,1992,9.6,,Defender,1,8,4,50.0,0.84,0.42,2.9,9,259,0,1,13,10
-George Nurse,ENG,Shrewsbury,25,1999,3.0,Defender,Midfielder,0,2,0,0.0,0.67,0.00,15.8,16,1421,1,11,9,6
-Kelechi Nwakali,NGA,Barnsley,26,1998,1.3,,Midfielder,0,3,0,0.0,2.29,0.00,2.9,7,257,0,2,2,5
-Donay O'Brien-Brady,ENG,P'borough Utd,20,2004,6.3,,Midfielder,1,5,2,40.0,0.80,0.32,0.4,2,32,0,4,4,5
-Eoghan O'Connell,IRL,Wrexham,29,1995,14.1,,Defender,0,3,0,0.0,0.21,0.00,0.3,3,23,0,1,18,22
-Paudie O'Connor,IRL,Lincoln City,27,1997,15.5,,Defender,2,18,4,22.2,1.16,0.26,0,0,0,1,1,39,10
-Thomas O'Connor,IRL,Wrexham,25,1999,14.9,,Defender,0,4,1,25.0,0.27,0.07,0.5,1,45,0,49,11,11
-Gatlin O'Donkor,ENG,Bristol Rovers,0,0,2.4,,Forward,1,5,1,20.0,2.05,0.41,11.9,14,1069,2,1,0,1
-Richard O'Donnell,ENG,Blackpool,36,1988,6.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Corey O'Keeffe,IRL,Barnsley,26,1998,11.6,,Midfielder,0,2,0,0.0,0.17,0.00,4.1,6,369,3,77,16,13
-Oliver O'Neill,IRL,Leyton Orient,21,2003,11.8,,Midfielder,0,18,6,33.3,1.53,0.51,15.0,15,1350,6,22,12,20
-Tommi O'Reilly,ENG,Shrewsbury,20,2003,4.5,,Midfielder,0,8,2,25.0,1.79,0.45,0.9,3,85,0,4,2,4
-Connor O'Riordan,IRL,Cambridge Utd,0,0,3.8,,Defender,0,3,0,0.0,0.80,0.00,1.0,1,90,0,1,6,2
-Zech Obiero,KEN,Leyton Orient,19,2005,3.3,,Midfielder,0,2,0,0.0,0.61,0.00,1.1,3,100,0,8,2,4
-Akin Odimayo,ENG,Northampton,24,1999,9.9,,Defender,0,1,0,0.0,0.10,0.00,15.7,17,1417,0,15,12,9
-Hakeem Odoffin,ENG,Rotherham Utd,26,1998,13.7,Defender,Midfielder,1,21,4,19.0,1.53,0.29,4.6,6,418,4,14,15,22
-Abraham Odoh,ENG,P'borough Utd,24,2000,4.9,,Midfielder,0,4,2,50.0,0.81,0.40,11.9,13,1071,4,3,3,2
-Odeluga Offiah,ENG,Blackpool,22,2002,13.0,,Defender,1,3,1,33.3,0.23,0.08,6.2,7,556,1,3,14,19
-Funso Ojo,BEL,Shrewsbury,33,1991,9.9,,Midfielder,0,7,2,28.6,0.70,0.20,12.4,13,1113,0,27,9,19
-Jubril Okedina,MWI,Cambridge Utd,24,2000,11.0,,Defender,0,8,2,25.0,0.73,0.18,0,0,0,0,8,12,11
-Arthur Okonkwo,ENG,Wrexham,23,2001,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.8,12,974,0,0,0,0
-Michael Olakigbe,ENG,Wigan Athletic,20,2004,3.5,,Midfielder,0,7,4,57.1,1.98,1.13,5.3,7,481,2,16,2,1
-Isaac Olaofe,ENG,Stockport,25,1999,5.8,,Forward,2,16,6,37.5,2.74,1.03,13.2,16,1191,6,3,1,3
-Promise Omochere,IRL,Bristol Rovers,24,2000,10.5,,Forward,2,20,6,30.0,1.90,0.57,8.9,17,800,10,5,3,10
+Paudie O'Connor,IRL,Lincoln City,27,1997,13.5,,Defender,2,15,3,20.0,1.11,0.22,2.2,6,196,1,1,36,8
+Thomas O'Connor,IRL,Wrexham,25,1999,14.7,,Defender,0,4,1,25.0,0.27,0.07,0.4,2,32,0,49,11,11
+Gatlin O'Donkor,ENG,Bristol Rovers,0,0,2.0,,Forward,1,4,1,25.0,1.97,0.49,0.3,3,23,2,1,0,1
+Richard O'Donnell,ENG,Blackpool,36,1988,5.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
+Corey O'Keeffe,IRL,Barnsley,26,1998,10.0,Defender,Midfielder,0,2,0,0.0,0.20,0.00,0.5,1,45,2,61,15,12
+Oliver O'Neill,IRL,Leyton Orient,21,2003,10.8,,Midfielder,0,18,6,33.3,1.67,0.56,10.4,12,934,6,22,11,20
+Tommi O'Reilly,ENG,Shrewsbury,20,2003,4.5,,Midfielder,0,8,2,25.0,1.79,0.45,0,0,0,0,4,2,4
+Connor O'Riordan,IRL,Cambridge Utd,0,0,3.8,,Defender,0,3,0,0.0,0.80,0.00,4.1,6,369,0,1,6,2
+Zech Obiero,KEN,Leyton Orient,19,2005,3.3,,Midfielder,0,2,0,0.0,0.61,0.00,13.0,13,1170,0,8,2,4
+Akin Odimayo,ENG,Northampton,24,1999,8.0,,Defender,0,1,0,0.0,0.12,0.00,0.6,2,53,0,11,11,7
+Hakeem Odoffin,ENG,Rotherham Utd,26,1998,12.7,Defender,Midfielder,1,21,4,19.0,1.65,0.31,1.0,1,90,3,8,15,20
+Abraham Odoh,ENG,P'borough Utd,24,2000,4.8,,Midfielder,0,4,2,50.0,0.84,0.42,1.1,3,100,4,3,2,2
+Odeluga Offiah,ENG,Blackpool,22,2002,11.0,,Defender,1,3,1,33.3,0.27,0.09,14.4,15,1297,0,2,13,19
+Funso Ojo,BEL,Shrewsbury,33,1991,9.9,,Midfielder,0,7,2,28.6,0.70,0.20,3.6,5,328,0,27,9,19
+Jubril Okedina,MWI,Cambridge Utd,24,2000,9.5,Midfielder,Defender,0,8,2,25.0,0.84,0.21,9.9,11,891,0,8,10,9
+Arthur Okonkwo,ENG,Wrexham,23,2001,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,6.2,7,556,0,0,0,0
+Michael Olakigbe,ENG,Wigan Athletic,20,2004,3.5,,Midfielder,0,7,4,57.1,1.98,1.13,10.4,11,934,2,16,2,1
+Isaac Olaofe,ENG,Stockport,24,1999,5.6,,Forward,2,15,6,40.0,2.67,1.07,0,0,0,6,3,1,3
+Promise Omochere,IRL,Bristol Rovers,24,2000,10.5,,Forward,2,20,6,30.0,1.90,0.57,8.8,10,794,10,5,3,10
+Josh Onomah,ENG,Blackpool,27,1997,1.3,,Midfielder,0,2,0,0.0,1.50,0.00,5.3,7,481,0,3,2,8
+Tyler Onyango,ENG,Stockport,21,2003,3.8,,Defender,0,2,0,0.0,0.52,0.00,12.3,15,1108,1,2,3,11
+Fred Onyedinma,ENG,Wycombe,27,1996,5.1,,Midfielder,4,6,5,83.3,1.19,0.99,6.9,15,625,1,2,1,0
+Danilo Orsi-Dadamo,ENG,Burton Albion,28,1996,12.0,,Forward,6,11,7,63.6,0.91,0.58,12.8,14,1149,7,4,3,4
+Jordi Osei-Tutu,ENG,Bolton,26,1998,1.5,Midfielder,Defender,0,2,0,0.0,1.37,0.00,16.0,16,1440,0,4,0,3
+Deji Oshilaja,ENG,Mansfield Town,31,1993,13.0,,Defender,1,5,3,60.0,0.38,0.23,6.7,13,600,1,5,29,6
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Josh Onomah,ENG,Blackpool,27,1997,1.4,,Midfielder,0,2,0,0.0,1.42,0.00,13.8,15,1239,0,3,2,8
-Tyler Onyango,ENG,Stockport,21,2003,3.8,,Defender,0,2,0,0.0,0.52,0.00,17.0,17,1530,1,2,3,11
-Fred Onyedinma,ENG,Wycombe,28,1996,6.6,,Midfielder,5,8,7,87.5,1.21,1.06,7.1,15,638,1,3,3,2
-Danilo Orsi-Dadamo,ENG,Burton Albion,28,1996,13.7,,Forward,6,12,7,58.3,0.88,0.51,2.4,5,212,8,6,3,5
-Jordi Osei-Tutu,ENG,Bolton,26,1998,1.8,Midfielder,Defender,0,2,0,0.0,1.11,0.00,7.0,7,630,0,5,0,4
-Deji Oshilaja,ENG,Mansfield Town,31,1993,15.0,,Defender,1,5,3,60.0,0.33,0.20,0.9,5,83,1,10,32,8
-Detlef Osong,ENG,Rotherham Utd,20,2004,1.1,,Forward,0,2,1,50.0,1.80,0.90,14.9,15,1339,1,1,0,0
-Ollie Palmer,ENG,Wrexham,32,1992,13.2,,Forward,3,20,7,35.0,1.51,0.53,6.9,13,624,9,2,3,10
-Jasper Pattenden,ENG,Wycombe,22,2002,4.9,,Defender,0,0,0,0,0.00,0.00,9.4,11,842,0,2,2,6
-Kai Payne,ENG,Wigan Athletic,20,2004,0.4,,Midfielder,0,0,0,0,0.00,0.00,0,0,0,0,0,3,2
-Bailey Peacock-Farrell,NIR,Birmingham City,28,1996,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,12.3,15,1110,0,0,0,0
-Matty Pearson,ENG,Huddersfield,31,1993,7.8,,Defender,4,7,4,57.1,0.90,0.51,5.6,7,501,1,13,8,7
-Matthew Pennington,ENG,Blackpool,30,1994,5.7,,Defender,0,4,0,0.0,0.70,0.00,9.6,14,860,0,1,12,11
-Sonny Perkins,ENG,Leyton Orient,20,2004,3.2,,Midfielder,1,6,2,33.3,1.86,0.62,9.6,10,861,1,2,1,1
-Taylor Perry,ENG,Shrewsbury,23,2001,4.6,,Midfielder,0,0,0,0,0.00,0.00,3.0,7,267,0,7,7,8
-Adam Phillips,ENG,Barnsley,26,1998,12.0,,Midfielder,5,30,11,36.7,2.51,0.92,1.3,3,118,1,31,6,6
-Daniel Phillips,TRI,Stevenage,23,2001,11.9,,Midfielder,0,8,2,25.0,0.67,0.17,6.3,12,566,0,6,13,24
-Dillon Phillips,ENG,Rotherham Utd,29,1995,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,14.1,15,1266,0,0,0,0
-Carl Piergianni,ENG,Stevenage,32,1992,15.0,,Defender,1,18,4,22.2,1.20,0.27,15.5,16,1394,2,1,11,10
-Aaron Pierre,GRN,Shrewsbury,31,1993,7.3,,Defender,1,3,2,66.7,0.41,0.27,14.9,17,1339,1,0,5,9
-Donovan Pines,USA,Barnsley,26,1998,5.6,,Defender,1,2,1,50.0,0.36,0.18,2.4,9,220,0,0,9,7
-Mitchell Pinnock,ENG,Northampton,29,1994,15.7,,Midfielder,2,26,8,30.8,1.66,0.51,6.0,6,540,2,78,15,10
-Kwame Poku,GHA,P'borough Utd,23,2001,15.5,,Midfielder,10,48,20,41.7,3.09,1.29,11.6,14,1043,2,64,1,16
-Dan Potts,ENG,Charlton Ath,30,1994,0.8,,Defender,0,0,0,0,0.00,0.00,11.8,14,1058,0,1,0,0
-Joe Powell,ENG,Rotherham Utd,26,1998,14.2,,Midfielder,0,16,3,18.8,1.13,0.21,4.5,8,402,0,140,15,12
+Detlef Osong,ENG,Rotherham Utd,20,2004,0.3,,Forward,0,1,0,0.0,3.21,0.00,2.4,5,212,0,0,0,0
+Ollie Palmer,ENG,Wrexham,32,1992,11.4,,Forward,2,14,4,28.6,1.23,0.35,7.0,7,630,8,2,3,7
+Jasper Pattenden,ENG,Wycombe,22,2002,2.9,,Defender,0,0,0,0,0.00,0.00,0.9,5,83,0,0,2,3
+Kai Payne,ENG,Wigan Athletic,19,2004,0.4,,Midfielder,0,0,0,0,0.00,0.00,12.9,13,1159,0,0,3,2
+Bailey Peacock-Farrell,NIR,Birmingham City,28,1996,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,5.7,11,517,0,0,0,0
+Matty Pearson,ENG,Huddersfield,31,1993,7.4,,Defender,3,5,3,60.0,0.67,0.40,8.4,10,752,1,10,8,7
+Matthew Pennington,ENG,Blackpool,30,1994,4.7,,Defender,0,4,0,0.0,0.84,0.00,0,0,0,0,1,11,8
+Sonny Perkins,ENG,Leyton Orient,20,2004,2.0,,Midfielder,1,3,2,66.7,1.48,0.98,12.3,15,1110,1,1,1,1
+Taylor Perry,ENG,Shrewsbury,23,2001,3.8,,Midfielder,0,0,0,0,0.00,0.00,3.7,5,334,0,7,6,8
+Adam Phillips,ENG,Barnsley,26,1998,10.3,,Midfielder,5,25,9,36.0,2.42,0.87,8.6,13,770,1,23,6,6
+Daniel Phillips,TRI,Stevenage,23,2001,11.9,,Midfielder,0,8,2,25.0,0.67,0.17,8.6,9,772,0,6,13,24
+Dillon Phillips,ENG,Rotherham Utd,29,1995,7.0,,Goalkeeper,0,0,0,0,0.00,0.00,3.0,6,266,0,0,0,0
+Carl Piergianni,ENG,Stevenage,32,1992,14.0,,Defender,1,18,4,22.2,1.29,0.29,0.9,2,84,2,1,10,9
+Aaron Pierre,GRN,Shrewsbury,31,1993,6.3,,Defender,0,1,1,100.0,0.16,0.16,6.3,12,566,1,0,5,9
+Donovan Pines,USA,Barnsley,26,1998,5.1,,Defender,1,1,1,100.0,0.19,0.19,12.1,13,1086,0,0,8,7
+Mitchell Pinnock,ENG,Northampton,29,1994,13.9,,Midfielder,2,22,7,31.8,1.59,0.50,13.5,14,1214,2,70,15,10
+Kwame Poku,GHA,P'borough Utd,23,2001,14.5,,Midfielder,10,40,19,47.5,2.76,1.31,14.7,15,1325,2,59,1,16
+Dan Potts,ENG,Charlton Ath,30,1994,0.8,,Defender,0,0,0,0,0.00,0.00,2.0,7,183,0,1,0,0
+Joe Powell,ENG,Rotherham Utd,26,1998,13.2,,Midfielder,0,15,3,20.0,1.14,0.23,5.0,5,450,0,133,15,11
+Nick Powell,ENG,Stockport,30,1994,2.1,,Midfielder,0,3,0,0.0,1.40,0.00,10.0,12,902,0,6,1,2
+Darren Pratley,JAM,Leyton Orient,39,1985,3.2,,Midfielder,0,3,1,33.3,0.93,0.31,10.8,13,968,0,0,2,2
+Aaron Pressley,SCO,Stevenage,23,2001,0.9,,Forward,0,1,1,100.0,1.07,1.07,4.5,8,402,2,0,0,0
+Ben Purrington,ENG,Exeter City,28,1996,3.4,,Defender,0,0,0,0,0.00,0.00,3.8,4,339,1,8,3,2
+Ethan Pye,ENG,Stockport,22,2002,15.0,,Defender,1,7,1,14.3,0.47,0.07,0,0,0,0,3,11,18
+Christy Pym,ENG,Mansfield Town,29,1995,12.3,,Goalkeeper,0,0,0,0,0.00,0.00,3.3,7,294,0,0,2,0
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Nick Powell,ENG,Stockport,30,1994,2.1,,Midfielder,0,3,0,0.0,1.40,0.00,3.8,4,339,0,6,1,2
-Darren Pratley,JAM,Leyton Orient,39,1985,4.2,,Midfielder,0,3,1,33.3,0.71,0.24,0,0,0,0,0,2,3
-Aaron Pressley,SCO,Stevenage,23,2001,0.9,,Forward,0,1,1,100.0,1.07,1.07,3.3,7,294,2,0,0,0
-Ben Purrington,ENG,Exeter City,28,1996,3.9,,Defender,0,0,0,0,0.00,0.00,9.9,14,888,1,8,3,2
-Ethan Pye,ENG,Stockport,22,2002,16.0,,Defender,1,7,1,14.3,0.44,0.06,13.7,14,1236,0,3,11,20
-Christy Pym,ENG,Mansfield Town,29,1995,14.3,,Goalkeeper,0,0,0,0,0.00,0.00,4.9,11,445,0,0,2,0
-Ben Quinn,IRL,Mansfield Town,20,2004,0.0,,Forward,0,0,0,0,0.00,0.00,13.0,13,1170,0,0,0,0
-Stephen Quinn,IRL,Mansfield Town,38,1986,7.7,,Midfielder,1,9,3,33.3,1.17,0.39,9.9,11,894,3,43,9,9
-Junior Quitirna,ENG,Crawley Town,24,2000,8.2,,Midfielder,4,21,7,33.3,2.55,0.85,11.0,12,993,5,21,8,7
-Bojan Radulovic,SRB,Huddersfield,24,1999,6.0,,Forward,1,10,5,50.0,1.67,0.83,0,0,0,5,5,2,2
-Joe Rafferty,IRL,Rotherham Utd,31,1993,12.0,,Defender,0,7,1,14.3,0.58,0.08,14.0,14,1260,0,46,9,5
-Sean Raggett,ENG,Rotherham Utd,31,1993,4.0,,Defender,0,2,0,0.0,0.50,0.00,0,0,0,1,0,1,2
-Calvin Ramsay,SCO,Wigan Athletic,21,2003,3.4,,Defender,0,7,0,0.0,2.07,0.00,3.5,7,318,0,13,3,1
-Kayne Ramsey,ENG,Charlton Ath,24,2000,9.3,Defender,Midfielder,0,3,0,0.0,0.32,0.00,5.8,15,525,0,19,12,17
-Joel Randall,ENG,P'borough Utd,25,1999,10.9,,Midfielder,4,21,10,47.6,1.93,0.92,10.5,14,946,0,25,2,6
-Dion Rankine,ENG,Wigan Athletic,22,2002,9.9,,Midfielder,1,10,4,40.0,1.01,0.40,1.4,4,127,2,25,4,8
-Oliver Rathbone,ENG,Wrexham,28,1996,5.9,,Midfielder,1,5,2,40.0,0.84,0.34,3.8,7,343,3,7,3,13
-Franco Ravizzoli,ARG,Wycombe,27,1997,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,6.6,10,597,0,0,0,0
-Louis Reed,ENG,Mansfield Town,27,1997,12.9,,Midfielder,0,12,2,16.7,0.93,0.16,13.7,16,1229,0,6,13,11
-Jamie Reid,NIR,Stevenage,30,1994,10.4,Midfielder,Forward,0,19,5,26.3,1.83,0.48,1.8,7,162,10,5,2,9
-Seb Revan,ENG,Wrexham,21,2003,2.7,,Defender,0,3,0,0.0,1.12,0.00,15.0,15,1350,0,14,3,2
-Vicente Reyes,CHI,Cambridge Utd,21,2003,15.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Jordan Rhodes,SCO,Blackpool,34,1990,4.9,,Forward,0,18,8,44.4,3.71,1.65,1.1,6,100,5,1,0,1
-Amani Richards,ENG,Exeter City,20,2004,2.3,,Forward,1,4,1,25.0,1.77,0.44,13.2,17,1190,0,5,0,2
+Ben Quinn,IRL,Mansfield Town,20,2004,0.0,,Forward,0,0,0,0,0.00,0.00,8.0,12,722,0,0,0,0
+Stephen Quinn,IRL,Mansfield Town,38,1986,7.0,,Midfielder,1,8,3,37.5,1.14,0.43,12.7,13,1146,3,37,8,6
+Junior Quitirna,ENG,Crawley Town,24,2000,8.2,,Midfielder,4,21,7,33.3,2.55,0.85,4.8,10,429,5,21,8,7
+Bojan Radulovic,SRB,Huddersfield,24,1999,4.9,,Forward,1,9,4,44.4,1.85,0.82,11.0,11,990,3,5,2,2
+Joe Rafferty,IRL,Rotherham Utd,31,1993,12.0,,Defender,0,7,1,14.3,0.58,0.08,9.9,11,894,0,46,9,5
+Sean Raggett,ENG,Rotherham Utd,31,1993,3.0,,Defender,0,2,0,0.0,0.67,0.00,9.5,10,855,0,0,0,0
+Calvin Ramsay,SCO,Wigan Athletic,21,2003,3.4,,Defender,0,7,0,0.0,2.07,0.00,0,0,0,0,13,3,1
+Kayne Ramsey,ENG,Charlton Ath,24,2000,9.3,Defender,Midfielder,0,3,0,0.0,0.32,0.00,14.0,14,1260,0,19,12,17
+Joel Randall,ENG,P'borough Utd,25,1999,9.9,,Midfielder,4,19,9,47.4,1.92,0.91,0,0,0,0,18,2,5
+Dion Rankine,ENG,Wigan Athletic,22,2002,8.8,,Midfielder,1,10,4,40.0,1.14,0.46,3.5,7,318,1,21,4,7
+Oliver Rathbone,ENG,Wrexham,28,1996,4.1,,Midfielder,0,4,1,25.0,0.98,0.25,5.6,14,506,2,6,2,9
+Franco Ravizzoli,ARG,Wycombe,27,1997,12.0,,Goalkeeper,0,0,0,0,0.00,0.00,10.5,14,946,0,0,0,0
+Louis Reed,ENG,Mansfield Town,27,1997,11.9,,Midfielder,0,9,2,22.2,0.76,0.17,1.3,3,120,0,5,12,10
+Jamie Reid,NIR,Stevenage,30,1994,9.4,Midfielder,Forward,0,19,5,26.3,2.02,0.53,3.8,7,343,10,5,2,8
+Seb Revan,ENG,Wrexham,21,2003,2.7,,Defender,0,3,0,0.0,1.13,0.00,5.1,8,455,0,14,3,2
+Vicente Reyes,CHI,Cambridge Utd,21,2003,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,12.0,14,1084,0,0,0,0
+Jordan Rhodes,SCO,Blackpool,34,1990,4.8,,Forward,0,17,7,41.2,3.56,1.47,1.5,5,131,5,1,0,1
+Amani Richards,ENG,Exeter City,20,2004,2.0,,Forward,1,4,1,25.0,1.96,0.49,13.0,13,1170,0,5,0,1
 Taylor Richards,ENG,Cambridge Utd,23,2000,0.4,,Midfielder,0,0,0,0,0.00,0.00,0,0,0,0,0,0,1
+Erik Ring,SWE,Lincoln City,22,2002,2.7,,Midfielder,1,7,4,57.1,2.62,1.50,0.3,5,28,0,15,2,2
+Jordan Roberts,ENG,Stevenage,30,1994,12.1,,Midfielder,1,17,5,29.4,1.40,0.41,11.4,15,1022,1,33,12,6
+Marc Roberts,ENG,Barnsley,34,1990,14.1,,Defender,3,9,7,77.8,0.64,0.50,0,0,0,1,8,20,15
+Tyler Roberts,WAL,Northampton,25,1999,7.1,Midfielder,Forward,0,19,8,42.1,2.67,1.12,0,0,0,2,11,2,4
+Luke Robinson,SCO,Wigan Athletic,23,2001,1.2,,Defender,0,1,0,0.0,0.84,0.00,2.9,5,257,0,2,3,2
+Jack Roles,CYP,Crawley Town,25,1999,1.4,,Midfielder,0,4,1,25.0,2.79,0.70,0.4,1,33,0,7,0,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Erik Ring,SWE,Lincoln City,22,2002,3.7,,Midfielder,1,7,4,57.1,1.87,1.07,0,0,0,0,19,2,3
-Jordan Roberts,ENG,Stevenage,30,1994,13.1,,Midfielder,1,17,5,29.4,1.30,0.38,4.9,7,437,1,35,12,6
-Marc Roberts,ENG,Barnsley,34,1990,16.1,,Defender,3,13,8,61.5,0.81,0.50,0.4,1,33,1,16,22,16
-Tyler Roberts,WAL,Northampton,25,1999,8.6,Midfielder,Forward,0,20,8,40.0,2.32,0.93,7.0,7,630,2,14,2,8
-Luke Robinson,SCO,Wigan Athletic,23,2001,1.3,,Defender,0,1,0,0.0,0.74,0.00,7.8,9,701,0,2,3,3
-Jack Roles,CYP,Crawley Town,25,1999,1.6,,Midfielder,0,4,1,25.0,2.57,0.64,5.7,7,517,0,8,0,1
-Oliver Rose,ENG,P'borough Utd,19,2004,0.1,,Forward,0,0,0,0,0.00,0.00,3.2,10,291,0,0,0,0
-Jordan Rossiter,ENG,Shrewsbury,27,1997,7.1,,Midfielder,0,5,2,40.0,0.71,0.28,4.6,11,414,0,5,9,14
-Sean Roughan,IRL,Lincoln City,21,2003,17.0,,Defender,1,6,4,66.7,0.35,0.24,12.0,13,1077,0,87,19,8
-Josh Ruffels,ENG,Huddersfield,31,1993,0.6,Midfielder,Defender,0,1,0,0.0,1.80,0.00,11.9,15,1068,0,1,2,0
-Tivonge Rushesha,WAL,Reading,22,2002,0.2,,Midfielder,0,1,0,0.0,6.00,0.00,8.0,8,720,0,1,0,0
-Jonathan Russell,JAM,Barnsley,24,2000,7.9,,Midfielder,2,9,5,55.6,1.14,0.63,0,0,0,3,1,8,6
-Ryan Rydel,ENG,Stockport,23,2001,3.0,,Midfielder,0,4,2,50.0,1.33,0.67,15.0,15,1350,0,22,1,2
-Kieran Sadlier,IRL,Wycombe,30,1994,4.7,Forward,Midfielder,1,8,4,50.0,1.69,0.85,7.3,10,660,0,20,3,4
-Charles Sagoe Jr,ENG,Shrewsbury,20,2004,3.9,,Midfielder,0,5,2,40.0,1.28,0.51,5.6,11,500,0,10,1,4
-Alfons Sampsted,ISL,Birmingham City,26,1998,1.9,,Defender,0,0,0,0,0.00,0.00,15.7,17,1411,0,13,4,4
-Dion Sanderson,ENG,Birmingham City,24,1999,1.0,,Defender,0,0,0,0,0.00,0.00,15.5,16,1396,0,0,2,0
-Ricardo Santos,POR,Bolton,29,1995,16.0,,Defender,1,8,3,37.5,0.50,0.19,0.8,1,74,2,0,17,11
-Charlie Savage,WAL,Reading,21,2003,9.8,,Midfielder,3,23,6,26.1,2.35,0.61,14.2,16,1276,0,28,8,10
-Toby Savin,GAB,Shrewsbury,24,2000,16.0,,Goalkeeper,0,0,0,0,0.00,0.00,2.1,4,193,0,0,1,0
-Dan Scarr,ENG,Wrexham,29,1994,6.7,,Defender,0,4,1,25.0,0.60,0.15,4.2,9,380,0,0,13,2
-Szabolcs Schön,HUN,Bolton,24,2000,13.8,,Midfielder,1,18,5,27.8,1.31,0.36,0.9,4,84,3,67,16,25
-Josh Scowen,ENG,Wycombe,31,1993,12.5,,Midfielder,0,13,3,23.1,1.04,0.24,3.9,9,354,1,6,16,6
-Joel Senior,JAM,Bristol Rovers,36,1987,0.4,Forward,Defender,0,2,1,50.0,5.00,2.50,16.0,16,1440,0,2,0,0
-Steven Sessegnon,ENG,Wigan Athletic,24,2000,5.0,,Defender,0,3,0,0.0,0.60,0.00,14.3,15,1290,0,4,2,4
+Oliver Rose,ENG,P'borough Utd,19,2004,0.1,,Forward,0,0,0,0,0.00,0.00,7.0,7,630,0,0,0,0
+Jordan Rossiter,ENG,Shrewsbury,27,1997,6.9,,Midfielder,0,5,2,40.0,0.73,0.29,7.4,8,670,0,5,8,13
+Sean Roughan,IRL,Lincoln City,21,2003,15.0,,Defender,1,6,4,66.7,0.40,0.27,4.7,6,427,0,77,19,8
+Josh Ruffels,ENG,Huddersfield,31,1993,0.1,Midfielder,Defender,0,0,0,0,0.00,0.00,2.0,8,183,0,0,0,0
+Tivonge Rushesha,WAL,Reading,22,2002,0.2,,Midfielder,0,1,0,0.0,6.00,0.00,3.8,10,344,0,1,0,0
+Jonathan Russell,JAM,Barnsley,24,2000,6.3,,Midfielder,2,8,5,62.5,1.27,0.80,10.3,11,931,3,1,3,6
+Ryan Rydel,ENG,Stockport,23,2001,2.1,,Midfielder,0,3,1,33.3,1.43,0.48,11.9,15,1068,0,14,0,1
+Kieran Sadlier,IRL,Wycombe,30,1994,4.7,Forward,Midfielder,1,8,4,50.0,1.69,0.85,7.0,7,630,0,20,3,4
+Charles Sagoe Jr,ENG,Shrewsbury,20,2004,3.9,,Midfielder,0,5,2,40.0,1.28,0.51,0,0,0,0,10,1,4
+Alfons Sampsted,ISL,Birmingham City,26,1998,1.9,,Defender,0,0,0,0,0.00,0.00,14.0,14,1260,0,13,4,4
+Dion Sanderson,ENG,Birmingham City,24,1999,1.0,,Defender,0,0,0,0,0.00,0.00,6.3,9,570,0,0,2,0
+Ricardo Santos,POR,Bolton,29,1995,14.0,,Defender,1,8,3,37.5,0.57,0.21,5.1,9,462,1,0,15,10
+Charlie Savage,WAL,Reading,21,2003,7.9,,Midfielder,3,20,6,30.0,2.53,0.76,13.9,15,1248,0,24,7,8
+Toby Savin,GAB,Shrewsbury,24,2000,15.0,,Goalkeeper,0,0,0,0,0.00,0.00,14.5,15,1306,0,0,1,0
+Dan Scarr,ENG,Wrexham,29,1994,6.7,,Defender,0,4,1,25.0,0.60,0.15,0.8,1,74,0,0,13,2
+Szabolcs Schön,HUN,Bolton,24,2000,12.8,,Midfielder,1,17,5,29.4,1.33,0.39,13.2,15,1186,3,66,13,24
+Josh Scowen,ENG,Wycombe,31,1993,12.5,,Midfielder,0,13,3,23.1,1.04,0.24,2.1,4,193,1,6,16,6
+Joel Senior,JAM,Bristol Rovers,36,1987,0.4,Forward,Defender,0,2,1,50.0,5.00,2.50,3.2,8,290,0,2,0,0
+Steven Sessegnon,ENG,Wigan Athletic,24,2000,3.3,,Defender,0,3,0,0.0,0.90,0.00,0.9,4,84,0,2,2,2
+Paik Seung-ho,KOR,Birmingham City,27,1997,12.9,,Midfielder,0,13,2,15.4,1.01,0.15,3.4,8,309,0,62,11,14
+Kofi Shaw,,Bristol Rovers,0,0,0.8,,Midfielder,0,1,0,0.0,1.25,0.00,15.0,15,1350,0,2,0,3
+Josh Sheehan,WAL,Bolton,29,1995,12.0,,Midfielder,1,14,6,42.9,1.17,0.50,12.3,13,1110,0,41,9,11
+Jordan Shipley,IRL,Shrewsbury,27,1997,6.2,,Midfielder,1,6,1,16.7,0.97,0.16,0.0,1,1,1,25,4,3
+Tola Showunmi,ENG,Crawley Town,24,2000,1.1,,Forward,0,4,2,50.0,3.50,1.75,7.0,12,632,1,2,0,0
+Toby Sibbick,UGA,Wigan Athletic,25,1999,2.5,,Defender,0,0,0,0,0.00,0.00,8.2,11,742,0,7,0,3
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Paik Seung-ho,KOR,Birmingham City,27,1997,14.9,,Midfielder,0,14,2,14.3,0.94,0.13,0.0,1,1,0,73,12,14
-Kofi Shaw,,Bristol Rovers,0,0,0.8,,Midfielder,0,1,0,0.0,1.25,0.00,7.7,13,693,0,2,0,3
-Josh Sheehan,WAL,Bolton,29,1995,14.0,,Midfielder,1,16,6,37.5,1.15,0.43,8.2,11,742,0,43,10,13
-Jordan Shipley,IRL,Shrewsbury,27,1997,6.3,,Midfielder,1,6,1,16.7,0.95,0.16,6.0,11,540,1,25,5,3
-Tola Showunmi,ENG,Crawley Town,24,2000,1.8,,Forward,0,5,2,40.0,2.71,1.08,12.0,12,1080,2,2,0,0
-Toby Sibbick,UGA,Wigan Athletic,25,1999,4.5,,Defender,0,0,0,0,0.00,0.00,4.0,4,360,0,12,1,4
-Jack Simpson,ENG,Leyton Orient,27,1996,3.8,,Defender,0,3,1,33.3,0.80,0.27,3.4,8,304,0,4,3,3
-Tyreece Simpson,ENG,Stevenage,22,2002,5.5,,Forward,0,2,1,50.0,0.36,0.18,9.3,11,840,3,2,0,2
-Scott Sinclair,ENG,Bristol Rovers,35,1989,7.4,Forward,Midfielder,3,22,6,27.3,2.99,0.82,10.9,13,979,7,4,1,3
-Declan Skura,ENG,Wycombe,22,2002,1.7,,Defender,0,0,0,0,0.00,0.00,9.9,15,893,0,1,3,4
-Gaga Slonina,USA,Barnsley,20,2004,11.0,,Goalkeeper,0,0,0,0,0.00,0.00,5.9,12,533,0,0,0,0
-Thierry Small,ENG,Charlton Ath,20,2004,6.7,Defender,Midfielder,0,5,2,40.0,0.75,0.30,14.0,14,1260,0,39,2,8
-Jonny Smith,ENG,Wigan Athletic,27,1997,3.0,,Midfielder,1,10,4,40.0,3.36,1.34,12.9,13,1161,0,34,1,2
-Kane Smith,ENG,Stevenage,28,1996,6.6,,Defender,0,1,1,100.0,0.15,0.15,10.4,12,933,0,18,10,8
-Korey Smith,ENG,Cambridge Utd,33,1991,15.6,,Midfielder,1,13,6,46.2,0.83,0.38,0,0,0,1,4,15,25
-Matthew Smith,ENG,Wigan Athletic,24,2000,11.4,,Midfielder,1,10,1,10.0,0.87,0.09,2.7,11,241,0,4,12,19
-Sam Smith,ENG,Reading,26,1998,12.9,,Forward,7,34,17,50.0,2.64,1.32,15.0,15,1350,9,4,4,1
-Scott Smith,WAL,Wigan Athletic,23,2001,5.1,,Midfielder,0,3,1,33.3,0.59,0.20,4.9,13,437,0,3,7,6
-Ruel Sotiriou,CYP,Bristol Rovers,24,2000,8.4,Forward,Midfielder,1,12,1,8.3,1.43,0.12,2.3,6,203,0,2,3,2
-Lino Sousa,ENG,Bristol Rovers,19,2005,3.6,Defender,Midfielder,0,3,0,0.0,0.83,0.00,0,0,0,2,23,3,4
-Macauley Southam-Hales,WAL,Stockport,28,1996,3.0,,Midfielder,0,1,0,0.0,0.33,0.00,0.4,2,37,0,10,3,6
-Luke Southwood,NIR,Bolton,26,1997,5.0,,Goalkeeper,0,1,0,0.0,0.20,0.00,3.7,10,336,0,0,0,0
-Jack Sowerby,ENG,Northampton,29,1995,6.8,,Midfielder,0,0,0,0,0.00,0.00,13.1,14,1181,0,1,5,8
-Jack Sparkes,ENG,P'borough Utd,24,2000,14.1,,Defender,0,7,3,42.9,0.50,0.21,16.1,17,1451,1,61,16,10
-Shay Spencer,,Reading,0,0,0.1,,Midfielder,0,0,0,0,0.00,0.00,8.6,12,776,0,0,0,0
+Jack Simpson,ENG,Leyton Orient,27,1996,3.3,,Defender,0,2,1,50.0,0.61,0.31,4.9,9,439,0,3,3,1
+Tyreece Simpson,ENG,Stevenage,22,2002,5.5,,Forward,0,2,1,50.0,0.37,0.18,12.0,12,1080,3,2,0,2
+Scott Sinclair,ENG,Bristol Rovers,35,1989,7.0,Forward,Midfielder,3,22,6,27.3,3.14,0.86,3.0,3,270,7,4,1,3
+Declan Skura,ENG,Wycombe,22,2002,1.7,,Defender,0,0,0,0,0.00,0.00,3.4,8,304,0,1,3,4
+Gaga Slonina,USA,Barnsley,20,2004,11.0,,Goalkeeper,0,0,0,0,0.00,0.00,9.3,11,840,0,0,0,0
+Thierry Small,ENG,Charlton Ath,20,2004,5.6,,Midfielder,0,4,1,25.0,0.71,0.18,9.9,12,889,0,35,2,5
+Jonny Smith,ENG,Wigan Athletic,27,1997,2.1,,Midfielder,0,7,2,28.6,3.28,0.94,8.8,13,789,0,23,0,2
+Kane Smith,ENG,Stevenage,28,1996,6.6,,Defender,0,1,1,100.0,0.15,0.15,4.1,10,367,0,18,10,8
+Korey Smith,ENG,Cambridge Utd,33,1991,13.6,,Midfielder,1,12,6,50.0,0.88,0.44,12.0,12,1080,1,3,15,24
+Matthew Smith,ENG,Wigan Athletic,24,2000,10.4,,Midfielder,1,9,1,11.1,0.86,0.10,11.9,12,1071,0,4,11,18
+Sam Smith,ENG,Reading,26,1998,11.0,,Forward,5,25,12,48.0,2.26,1.09,9.4,11,847,9,4,3,1
+Scott Smith,WAL,Wigan Athletic,23,2001,4.4,,Midfielder,0,3,1,33.3,0.68,0.23,0,0,0,0,3,7,5
+Ruel Sotiriou,CYP,Bristol Rovers,24,2000,8.4,Forward,Midfielder,1,12,1,8.3,1.43,0.12,2.7,10,240,0,2,3,2
+Lino Sousa,ENG,Bristol Rovers,19,2005,3.6,Defender,Midfielder,0,3,0,0.0,0.83,0.00,13.0,13,1170,2,23,3,4
+Macauley Southam-Hales,WAL,Stockport,28,1996,2.1,,Midfielder,0,1,0,0.0,0.48,0.00,4.8,12,430,0,3,2,3
+Luke Southwood,NIR,Bolton,26,1997,5.0,,Goalkeeper,0,1,0,0.0,0.20,0.00,2.0,5,184,0,0,0,0
+Jack Sowerby,ENG,Northampton,29,1995,6.8,,Midfielder,0,0,0,0,0.00,0.00,0,0,0,0,1,5,8
+Jack Sparkes,ENG,P'borough Utd,24,2000,13.1,,Defender,0,7,3,42.9,0.53,0.23,0.4,2,37,1,56,14,10
+Shay Spencer,,Reading,0,0,0.1,,Midfielder,0,0,0,0,0.00,0.00,2.7,8,240,0,0,0,0
+Jason Sraha,ENG,Burton Albion,22,2002,1.0,,Defender,0,0,0,0,0.00,0.00,12.1,13,1091,0,0,3,3
+Jay Stansfield,ENG,Birmingham City,21,2002,6.4,Midfielder,Forward,5,26,7,26.9,4.06,1.09,14.1,15,1271,1,5,1,9
+Jed Steer,ENG,P'borough Utd,32,1992,12.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.1,10,641,0,0,0,0
+Jack Stevens,ENG,Cambridge Utd,27,1997,1.0,,Goalkeeper,0,0,0,0,0.00,0.00,1.2,2,107,0,0,0,0
+Joshua Stokes,,Cambridge Utd,0,0,2.5,Forward,Midfielder,0,5,2,40.0,2.00,0.80,1.4,7,129,0,10,2,5
+Josh Stones,ENG,Wigan Athletic,21,2003,0.8,,Forward,0,3,2,66.7,3.55,2.37,0.1,1,5,0,0,0,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Jason Sraha,ENG,Burton Albion,22,2002,1.0,,Defender,0,0,0,0,0.00,0.00,1.3,4,121,0,0,3,3
-Jay Stansfield,ENG,Birmingham City,22,2002,8.4,Midfielder,Forward,7,35,10,28.6,4.17,1.19,1.6,8,140,1,7,1,12
-Jed Steer,ENG,P'borough Utd,32,1992,12.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.1,1,5,0,0,0,0
-Jack Stevens,ENG,Cambridge Utd,27,1997,1.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.1,9,638,0,0,0,0
-Joshua Stokes,,Cambridge Utd,0,0,2.5,Forward,Midfielder,0,5,2,40.0,2.00,0.80,17.0,17,1530,0,10,2,5
-Josh Stones,ENG,Wigan Athletic,21,2003,0.8,,Forward,0,3,2,66.7,3.55,2.37,0,0,0,0,0,0,1
-Robert Street,ENG,Lincoln City,23,2001,0.4,,Forward,0,2,0,0.0,4.74,0.00,0.6,2,50,0,3,0,0
-Ronnie Stutter,ENG,Burton Albion,19,2005,0.2,,Forward,0,1,1,100.0,4.74,4.74,0.2,1,15,0,1,0,0
-Ibrahim Suaib,ENG,Leyton Orient,25,1999,2.9,,Defender,0,0,0,0,0.00,0.00,7.9,11,711,0,12,4,5
-Mahamadou Susoho,ESP,P'borough Utd,19,2005,0.7,,Midfielder,0,0,0,0,0.00,0.00,3.0,4,270,0,0,0,2
-Will Swan,ENG,Crawley Town,24,2000,10.8,,Forward,3,13,9,69.2,1.20,0.83,4.7,7,425,9,1,1,3
-Will Swan,ENG,Mansfield Town,24,2000,0.2,,Forward,0,0,0,0,0.00,0.00,3.9,10,351,0,1,0,1
-Dan Sweeney,ENG,Stevenage,30,1994,3.2,,Defender,0,3,1,33.3,0.93,0.31,1.9,8,170,0,3,4,2
-Pierce Sweeney,IRL,Exeter City,30,1994,15.9,,Defender,0,9,2,22.2,0.57,0.13,1.0,2,93,0,24,20,12
-Ryan Sweeney,IRL,Burton Albion,27,1997,15.0,,Defender,0,10,0,0.0,0.67,0.00,16.0,16,1440,1,2,22,13
-Chris Sze,ENG,Wigan Athletic,20,2003,1.1,,Midfielder,0,0,0,0,0.00,0.00,0,0,0,0,1,1,0
-Lasse Sørensen,DEN,Huddersfield,25,1999,8.7,Defender,Midfielder,0,3,0,0.0,0.35,0.00,9.8,15,880,3,32,0,9
-Ryan Tafazolli,ENG,Wycombe,33,1991,0.6,,Defender,0,0,0,0,0.00,0.00,16.0,16,1440,0,0,2,0
-Benjamin Tanimu,NGA,Crawley Town,22,2002,0.4,,Defender,0,0,0,0,0.00,0.00,6.7,8,605,0,1,3,1
-Caleb Taylor,ENG,Wycombe,21,2003,11.3,,Defender,0,9,2,22.2,0.80,0.18,13.8,15,1240,1,0,19,9
-Connor Taylor,ENG,Bristol Rovers,23,2001,11.1,,Defender,0,7,1,14.3,0.63,0.09,12.5,13,1123,0,0,23,14
-Dale Taylor,NIR,Wigan Athletic,20,2003,9.2,,Forward,2,13,4,30.8,1.41,0.44,0.4,2,36,2,0,2,4
-Terry Taylor,SCO,Charlton Ath,23,2001,3.1,,Midfielder,0,4,1,25.0,1.30,0.33,5.0,7,453,1,31,6,1
-Luke Thomas,ENG,Bristol Rovers,25,1999,7.6,,Midfielder,0,4,1,25.0,0.52,0.13,14.9,15,1337,0,22,6,15
-Silko-Amari Thomas,ENG,Wigan Athletic,20,2004,11.1,,Midfielder,0,13,3,23.1,1.17,0.27,0,0,0,5,69,3,14
+Robert Street,ENG,Lincoln City,23,2001,0.3,,Forward,0,1,0,0.0,3.75,0.00,6.9,8,618,0,2,0,0
+Ronnie Stutter,ENG,Burton Albion,19,2005,0.2,,Forward,0,1,1,100.0,4.74,4.74,15.0,15,1350,0,1,0,0
+Ibrahim Suaib,ENG,Leyton Orient,25,1999,2.9,,Defender,0,0,0,0,0.00,0.00,0,0,0,0,12,4,5
+Mahamadou Susoho,ESP,P'borough Utd,19,2005,0.7,,Midfielder,0,0,0,0,0.00,0.00,0.1,1,5,0,0,0,2
+Will Swan,ENG,Crawley Town,24,2000,9.9,,Forward,2,12,8,66.7,1.21,0.80,0.2,1,15,9,0,1,2
+Will Swan,ENG,Mansfield Town,24,2000,0.2,,Forward,0,0,0,0,0.00,0.00,6.3,9,565,0,1,0,1
+Dan Sweeney,ENG,Stevenage,30,1994,3.2,,Defender,0,3,1,33.3,0.93,0.31,2.1,3,189,0,3,4,2
+Pierce Sweeney,IRL,Exeter City,30,1994,13.9,,Defender,0,9,2,22.2,0.65,0.14,4.7,7,425,0,19,20,10
+Ryan Sweeney,IRL,Burton Albion,27,1997,13.0,,Defender,0,10,0,0.0,0.77,0.00,3.9,10,351,1,1,19,9
+Chris Sze,ENG,Wigan Athletic,20,2003,1.1,,Midfielder,0,0,0,0,0.00,0.00,1.9,8,170,0,1,1,0
+Lasse Sørensen,DEN,Huddersfield,25,1999,8.7,Defender,Midfielder,0,3,0,0.0,0.35,0.00,1.0,2,93,3,32,0,9
+Ryan Tafazolli,ENG,Wycombe,33,1991,0.6,,Defender,0,0,0,0,0.00,0.00,14.0,14,1260,0,0,2,0
+Benjamin Tanimu,NGA,Crawley Town,22,2002,0.2,,Defender,0,0,0,0,0.00,0.00,0,0,0,0,0,1,1
+Caleb Taylor,ENG,Wycombe,21,2003,9.3,,Defender,0,9,2,22.2,0.97,0.22,7.9,13,712,1,0,17,7
+Connor Taylor,ENG,Bristol Rovers,23,2001,9.1,,Defender,0,6,1,16.7,0.66,0.11,15.0,15,1350,0,0,17,13
+Dale Taylor,NIR,Wigan Athletic,20,2003,7.2,,Forward,2,11,4,36.4,1.53,0.56,6.7,8,605,2,0,2,3
+Terry Taylor,SCO,Charlton Ath,23,2001,2.7,,Midfielder,0,4,1,25.0,1.47,0.37,12.8,14,1150,0,29,6,1
+Luke Thomas,ENG,Bristol Rovers,25,1999,7.4,,Midfielder,0,4,1,25.0,0.54,0.14,12.5,13,1123,0,22,6,15
+Silko-Amari Thomas,ENG,Wigan Athletic,20,2004,9.2,,Midfielder,0,10,3,30.0,1.08,0.32,0.4,2,36,3,56,2,13
+George Thomason,ENG,Bolton,22,2002,8.5,,Midfielder,1,9,1,11.1,1.06,0.12,3.3,5,299,1,9,10,9
+Ben Thompson,ENG,Stevenage,29,1995,0.0,,Midfielder,0,1,0,0.0,90.00,0.00,12.9,13,1163,0,0,0,0
+Dominic Thompson,ENG,Blackpool,24,2000,0.1,Midfielder,Defender,0,0,0,0,0.00,0.00,0,0,0,0,0,0,1
+Louis Thompson,WAL,Stevenage,29,1994,10.3,,Midfielder,2,10,2,20.0,0.97,0.19,0,0,0,0,3,9,14
+Nathan Thompson,ENG,Stevenage,34,1990,4.3,,Defender,0,1,0,0.0,0.23,0.00,0.8,2,72,0,0,2,5
+Sam Tickle,ENG,Wigan Athletic,22,2002,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,12.0,14,1076,0,0,0,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-George Thomason,ENG,Bolton,22,2002,10.0,,Midfielder,2,13,3,23.1,1.30,0.30,0,0,0,1,14,12,10
-Ben Thompson,ENG,Stevenage,29,1995,0.0,,Midfielder,0,1,0,0.0,90.00,0.00,0.8,2,72,0,0,0,0
-Dominic Thompson,ENG,Blackpool,24,2000,0.3,Midfielder,Defender,0,0,0,0,0.00,0.00,14.0,16,1256,0,1,0,1
-Louis Thompson,WAL,Stevenage,29,1994,11.3,,Midfielder,2,12,3,25.0,1.06,0.26,0,0,0,0,5,9,16
-Nathan Thompson,ENG,Stevenage,34,1990,5.3,,Defender,0,2,0,0.0,0.38,0.00,6.3,10,568,0,0,3,6
-Sam Tickle,ENG,Wigan Athletic,22,2002,16.0,,Goalkeeper,0,0,0,0,0.00,0.00,1.8,8,166,0,0,0,1
-Christ Tiéhi,CIV,Rotherham Utd,26,1998,10.9,,Midfielder,0,9,1,11.1,0.83,0.09,4.5,8,405,0,11,6,10
-Eoin Toal,NIR,Bolton,25,1999,9.3,,Defender,1,5,3,60.0,0.54,0.32,3.8,7,339,0,4,9,12
-Ibou Touray,GAM,Stockport,29,1994,13.2,Midfielder,Defender,0,3,0,0.0,0.23,0.00,5.5,13,497,0,40,13,10
-Connal Trueman,ENG,Crawley Town,28,1996,4.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.4,15,662,0,0,0,0
-Basil Tuma,MLT,Reading,18,2006,0.5,,Forward,0,0,0,0,0.00,0.00,1.7,3,153,1,2,0,1
-Oliver Turton,ENG,Huddersfield,31,1992,2.8,,Midfielder,0,0,0,0,0.00,0.00,11.0,11,990,1,8,1,1
-Harry Tyrer,ENG,Blackpool,22,2001,9.0,,Goalkeeper,0,0,0,0,0.00,0.00,6.7,11,603,0,0,0,0
-Nik Tzanev,NZL,Northampton,27,1996,0.2,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-Daniel Udoh,NGA,Wycombe,28,1996,10.2,Midfielder,Forward,4,22,11,50.0,2.15,1.08,3.0,7,268,4,3,5,8
-Terence Vancooten,GUY,Burton Albion,26,1997,12.4,,Defender,0,7,0,0.0,0.56,0.00,6.6,8,595,1,3,20,10
-Sam Vokes,WAL,Wycombe,35,1989,0.3,,Forward,2,3,2,66.7,11.25,7.50,15.6,16,1406,0,0,0,0
-Martyn Waghorn,ENG,Northampton,34,1990,0.8,Midfielder,Forward,0,1,0,0.0,1.25,0.00,11.4,15,1030,0,0,1,1
-Ben Waine,NZL,Mansfield Town,23,2001,3.3,,Forward,1,5,2,40.0,1.50,0.60,12.9,14,1159,3,3,1,1
-Oscar Wallin,SWE,P'borough Utd,23,2001,14.0,,Defender,0,3,0,0.0,0.21,0.00,5.1,13,456,0,0,23,19
-Danny Ward,ENG,Huddersfield,32,1991,3.2,,Forward,0,9,4,44.4,2.83,1.26,8.4,13,756,1,7,0,3
-Grant Ward,ENG,Bristol Rovers,29,1994,7.8,,Midfielder,1,7,2,28.6,0.89,0.25,3.6,7,327,0,6,7,8
-Jayden Wareham,ENG,Reading,21,2003,2.7,,Forward,1,5,2,40.0,1.84,0.74,3.0,4,270,3,0,1,5
-Lewis Warrington,ENG,Leyton Orient,22,2002,2.8,,Midfielder,0,2,0,0.0,0.73,0.00,5.0,5,450,0,3,2,2
-Tennai Watson,ENG,Charlton Ath,27,1997,1.4,Defender,Midfielder,0,0,0,0,0.00,0.00,6.8,10,610,0,1,2,1
+Christ Tiéhi,CIV,Rotherham Utd,26,1998,10.4,,Midfielder,0,9,1,11.1,0.87,0.10,0,0,0,0,10,5,10
+Eoin Toal,NIR,Bolton,25,1999,9.3,,Defender,1,5,3,60.0,0.54,0.32,6.2,9,558,0,4,9,12
+Ibou Touray,GAM,Stockport,29,1994,13.1,Midfielder,Defender,0,3,0,0.0,0.23,0.00,1.1,7,103,0,40,12,10
+Connal Trueman,ENG,Crawley Town,28,1996,4.0,,Goalkeeper,0,0,0,0,0.00,0.00,2.5,6,225,0,0,0,0
+Basil Tuma,MLT,Reading,18,2006,0.5,,Forward,0,0,0,0,0.00,0.00,3.3,6,294,1,2,0,1
+Oliver Turton,ENG,Huddersfield,31,1992,1.7,,Midfielder,0,0,0,0,0.00,0.00,5.5,12,493,0,6,1,0
+Harry Tyrer,ENG,Blackpool,22,2001,8.0,,Goalkeeper,0,0,0,0,0.00,0.00,7.0,13,631,0,0,0,0
+Nik Tzanev,NZL,Northampton,27,1996,0.2,,Goalkeeper,0,0,0,0,0.00,0.00,1.7,3,153,0,0,0,0
+Daniel Udoh,NGA,Wycombe,28,1996,8.9,Midfielder,Forward,4,20,11,55.0,2.25,1.24,11.0,11,990,4,3,3,6
+Terence Vancooten,GUY,Burton Albion,26,1997,10.4,,Defender,0,5,0,0.0,0.48,0.00,5.6,9,504,1,3,19,10
+Sam Vokes,WAL,Wycombe,35,1989,0.3,,Forward,2,3,2,66.7,11.25,7.50,0,0,0,0,0,0,0
+Martyn Waghorn,ENG,Northampton,34,1990,0.4,Midfielder,Forward,0,0,0,0,0.00,0.00,2.1,5,192,0,0,0,1
+Ben Waine,NZL,Mansfield Town,23,2001,2.9,,Forward,1,4,2,50.0,1.37,0.69,6.6,8,595,1,3,1,1
+Oscar Wallin,SWE,P'borough Utd,23,2001,13.0,,Defender,0,3,0,0.0,0.23,0.00,13.6,14,1226,0,0,21,17
+Danny Ward,ENG,Huddersfield,32,1991,3.2,,Forward,0,9,4,44.4,2.83,1.26,10.4,14,940,1,7,0,3
+Grant Ward,ENG,Bristol Rovers,29,1994,7.5,,Midfielder,1,6,2,33.3,0.80,0.27,11.0,12,994,0,6,7,8
+Jayden Wareham,ENG,Reading,21,2003,2.5,,Forward,1,4,2,50.0,1.57,0.79,4.4,11,398,3,0,1,5
+Lewis Warrington,ENG,Leyton Orient,22,2002,1.6,,Midfielder,0,1,0,0.0,0.62,0.00,8.4,13,756,0,3,1,1
+Tennai Watson,ENG,Charlton Ath,27,1997,1.4,Defender,Midfielder,0,0,0,0,0.00,0.00,3.6,7,327,0,1,2,1
+Elliot Watt,SCO,Burton Albion,24,2000,14.0,,Midfielder,0,14,5,35.7,1.00,0.36,2.1,3,189,0,66,12,17
+Max Watters,ENG,Barnsley,25,1999,4.4,,Forward,3,12,8,66.7,2.75,1.83,5.0,5,450,3,3,0,1
+Caleb Watts,AUS,Exeter City,22,2002,1.1,,Midfielder,1,4,1,25.0,3.79,0.95,6.8,10,610,1,3,0,1
+Kelland Watts,ENG,Cambridge Utd,25,1999,0.9,,Defender,0,2,0,0.0,2.12,0.00,13.1,15,1182,0,1,1,1
+Charlie Webster,ENG,Burton Albion,20,2004,3.6,,Midfielder,1,9,3,33.3,2.48,0.83,0.1,1,11,2,6,4,6
+Jensen Weir,SCO,Wigan Athletic,22,2002,4.9,,Midfielder,0,6,1,16.7,1.23,0.21,1.0,3,94,1,3,0,3
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Elliot Watt,SCO,Burton Albion,24,2000,15.0,,Midfielder,0,14,5,35.7,0.93,0.33,14.1,16,1266,0,69,13,19
-Max Watters,ENG,Barnsley,25,1999,4.4,,Forward,3,12,8,66.7,2.75,1.83,0.1,1,11,3,3,0,1
-Caleb Watts,AUS,Exeter City,22,2002,1.7,,Midfielder,1,5,1,20.0,2.88,0.58,1.0,3,94,4,4,0,1
-Kelland Watts,ENG,Cambridge Utd,25,1999,1.0,,Defender,0,2,0,0.0,2.09,0.00,8.4,10,755,0,1,1,1
-Charlie Webster,ENG,Burton Albion,20,2004,5.4,,Midfielder,1,12,4,33.3,2.23,0.74,12.0,12,1080,2,9,4,11
-Jensen Weir,SCO,Wigan Athletic,22,2002,6.0,,Midfielder,0,8,2,25.0,1.34,0.34,1.0,1,90,1,4,0,4
-David Wheeler,ENG,Wycombe,34,1990,1.1,,Midfielder,0,2,1,50.0,1.89,0.95,2.5,3,225,1,0,1,4
-Harvey White,ENG,Stevenage,23,2001,10.3,,Midfielder,1,11,2,18.2,1.06,0.19,0.8,3,76,1,86,9,20
-Ben Whitfield,ENG,Burton Albion,28,1996,11.6,,Midfielder,1,24,8,33.3,2.06,0.69,0.4,5,38,7,34,5,4
-Joseph Whitworth,ENG,Exeter City,20,2004,16.0,,Goalkeeper,0,0,0,0,0.00,0.00,0,0,0,0,0,0,0
-George Wickens,ENG,Lincoln City,23,2001,15.8,,Goalkeeper,0,0,0,0,0.00,0.00,0.2,1,19,0,0,0,0
-Luther Wildin,ATG,Stevenage,26,1997,12.0,,Defender,0,1,0,0.0,0.08,0.00,2.9,5,263,0,14,20,16
-Ben Wiles,ENG,Huddersfield,25,1999,14.7,,Midfielder,5,30,11,36.7,2.03,0.75,0.7,1,65,1,53,3,9
-Mallik Wilks,ENG,Rotherham Utd,25,1998,11.4,Forward,Midfielder,3,39,13,33.3,3.42,1.14,10.8,14,974,8,32,1,6
-Dylan Williams,ENG,Burton Albion,21,2003,7.6,Defender,Midfielder,0,2,0,0.0,0.26,0.00,0.2,1,16,6,26,4,10
-George Williams,ENG,Mansfield Town,31,1993,2.1,,Defender,0,0,0,0,0.00,0.00,3.2,4,290,0,0,1,6
-Jay Williams,SKN,Crawley Town,24,2000,11.4,,Midfielder,0,10,2,20.0,0.87,0.17,15.9,16,1428,1,0,11,4
-Randell Williams,ENG,Bolton,27,1996,3.4,,Midfielder,1,6,2,33.3,1.76,0.59,15.0,15,1350,0,23,5,3
-Jordan Willis,ENG,Northampton,30,1994,2.1,,Defender,0,0,0,0,0.00,0.00,1.1,3,103,0,0,6,1
-James Wilson,WAL,Bristol Rovers,35,1989,17.0,,Defender,1,7,2,28.6,0.41,0.12,8.7,11,779,2,10,51,19
-James Wilson,ENG,Northampton,28,1995,0.3,Midfielder,Forward,0,0,0,0,0.00,0.00,0.6,1,57,0,0,0,0
-Carl Winchester,NIR,Shrewsbury,31,1993,8.6,Defender,Midfielder,1,7,2,28.6,0.82,0.23,0.4,3,38,0,3,15,23
-Lewis Wing,ENG,Reading,29,1995,16.0,,Midfielder,2,28,6,21.4,1.75,0.37,11.3,12,1015,0,73,18,23
-Jojo Wollacott,GHA,Crawley Town,28,1996,13.0,,Goalkeeper,0,0,0,0,0.00,0.00,11.1,14,1001,0,0,0,1
-Ryan Woods,ENG,Exeter City,30,1993,12.5,,Midfielder,1,2,1,50.0,0.16,0.08,9.2,13,827,0,19,10,8
+David Wheeler,ENG,Wycombe,34,1990,1.0,,Midfielder,0,2,1,50.0,2.09,1.05,6.4,8,576,1,0,1,3
+Harvey White,ENG,Stevenage,23,2001,9.3,,Midfielder,1,11,2,18.2,1.18,0.21,12.0,12,1080,0,80,9,19
+Ben Whitfield,ENG,Burton Albion,28,1996,10.5,,Midfielder,1,23,8,34.8,2.19,0.76,1.0,1,90,7,32,5,4
+Joseph Whitworth,ENG,Exeter City,20,2004,14.0,,Goalkeeper,0,0,0,0,0.00,0.00,2.5,3,225,0,0,0,0
+George Wickens,ENG,Lincoln City,23,2001,13.8,,Goalkeeper,0,0,0,0,0.00,0.00,0.8,3,76,0,0,0,0
+Luther Wildin,ATG,Stevenage,26,1997,11.0,,Defender,0,1,0,0.0,0.09,0.00,0.3,3,24,0,12,18,14
+Ben Wiles,ENG,Huddersfield,25,1999,12.9,,Midfielder,5,25,8,32.0,1.94,0.62,0,0,0,1,44,3,9
+Mallik Wilks,ENG,Rotherham Utd,25,1998,11.4,Forward,Midfielder,3,39,13,33.3,3.42,1.14,0.2,1,19,8,32,1,6
+Dylan Williams,ENG,Burton Albion,21,2003,7.6,Defender,Midfielder,0,2,0,0.0,0.26,0.00,2.9,5,263,6,26,4,10
+George Williams,ENG,Mansfield Town,31,1993,2.1,,Defender,0,0,0,0,0.00,0.00,0.7,1,65,0,0,1,6
+Jay Williams,SKN,Crawley Town,24,2000,11.4,,Midfielder,0,10,2,20.0,0.87,0.17,9.9,13,895,1,0,11,4
+Randell Williams,ENG,Bolton,27,1996,2.4,,Midfielder,1,5,1,20.0,2.07,0.41,0.2,1,16,0,17,4,1
+Jordan Willis,ENG,Northampton,30,1994,2.1,,Defender,0,0,0,0,0.00,0.00,3.2,4,290,0,0,6,1
+James Wilson,WAL,Bristol Rovers,35,1989,15.0,,Defender,1,7,2,28.6,0.47,0.13,13.9,14,1248,2,10,50,16
+James Wilson,ENG,Northampton,28,1995,0.3,Midfielder,Forward,0,0,0,0,0.00,0.00,13.0,13,1170,0,0,0,0
+Carl Winchester,NIR,Shrewsbury,31,1993,7.7,Defender,Midfielder,1,7,2,28.6,0.91,0.26,1.1,3,103,0,3,14,22
+Lewis Wing,ENG,Reading,29,1995,14.0,,Midfielder,2,25,6,24.0,1.79,0.43,8.7,11,779,0,69,12,16
+Jojo Wollacott,GHA,Crawley Town,28,1996,12.0,,Goalkeeper,0,0,0,0,0.00,0.00,0.6,1,57,0,0,0,1
+Ryan Woods,ENG,Exeter City,30,1993,11.7,,Midfielder,1,2,1,50.0,0.17,0.09,0.2,2,20,0,14,9,6
+Kyle Wootton,ENG,Stockport,28,1996,13.3,,Forward,6,32,16,50.0,2.41,1.21,9.3,10,835,6,2,3,5
+Scott Wright,SCO,Birmingham City,27,1997,2.0,Midfielder,Forward,1,8,1,12.5,3.98,0.50,9.1,12,821,0,7,0,0
+Gassan Yahyai,MAR,Charlton Ath,24,2000,6.2,,Forward,1,6,3,50.0,0.97,0.48,7.2,11,648,5,0,0,2
+Johnly Yfeko,ENG,Exeter City,21,2003,11.0,,Defender,0,5,0,0.0,0.46,0.00,2.7,4,245,0,8,13,16
+Vimal Yoganathan,WAL,Barnsley,18,2006,1.2,,Midfielder,0,3,0,0.0,2.48,0.00,7.4,10,664,0,0,1,2
+Ayumu Yokoyama,JPN,Birmingham City,21,2003,1.5,,Forward,0,5,2,40.0,3.26,1.30,9.2,12,832,2,8,0,1
 Player,,Squad,Ag,Born,90s,,Po,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,90s,MP,Min,Off,Crs,Int,TklW
-Kyle Wootton,ENG,Stockport,28,1996,14.0,,Forward,6,33,17,51.5,2.35,1.21,3.1,5,276,6,2,3,5
-Scott Wright,SCO,Birmingham City,27,1997,2.0,Midfielder,Forward,1,8,1,12.5,3.98,0.50,7.6,11,686,0,7,0,0
-Gassan Yahyai,MAR,Charlton Ath,24,2000,7.0,,Forward,1,9,5,55.6,1.28,0.71,11.1,14,998,5,0,0,2
-Johnly Yfeko,ENG,Exeter City,21,2003,11.0,,Defender,0,5,0,0.0,0.46,0.00,10.0,11,902,0,8,13,16
-Vimal Yoganathan,WAL,Barnsley,18,2006,1.2,,Midfielder,0,3,0,0.0,2.48,0.00,0.0,1,1,0,0,1,2
-Ayumu Yokoyama,JPN,Birmingham City,21,2003,1.6,,Forward,0,5,2,40.0,3.21,1.29,0.3,2,26,2,9,0,1
-Jake Young,ENG,Stevenage,23,2001,4.3,Midfielder,Forward,1,8,5,62.5,1.88,1.17,11.3,13,1020,1,2,0,1
-Willum Þór Willumsson,ISL,Birmingham City,26,1998,12.9,,Midfielder,4,33,13,39.4,2.56,1.01,5.3,7,476,1,18,7,11
-,,,,,,,,,,,,,,16.0,16,1440,,,,
-,,,,,,,,,,,,,,10.9,14,978,,,,
+Jake Young,ENG,Stevenage,23,2001,4.3,Midfielder,Forward,1,8,5,62.5,1.88,1.17,8.5,9,767,1,2,0,1
+Willum Þór Willumsson,ISL,Birmingham City,26,1998,10.9,,Midfielder,4,28,13,46.4,2.57,1.20,0.0,1,1,1,9,5,9
+,,,,,,,,,,,,,,0.1,1,10,,,,
+,,,,,,,,,,,,,,10.3,12,930,,,,
+,,,,,,,,,,,,,,4.3,6,386,,,,
+,,,,,,,,,,,,,,14.0,14,1260,,,,
+,,,,,,,,,,,,,,10.4,13,933,,,,
 ,,,,,,,,,,,,,,9.3,10,840,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
-,,,,,,,,,,,,,,13.2,16,1187,,,,
+,,,,,,,,,,,,,,13.1,15,1178,,,,
 ,,,,,,,,,,,,,,4.0,4,360,,,,
 ,,,,,,,,,,,,,,0.5,4,42,,,,
-,,,,,,,,,,,,,,2.8,5,254,,,,
-,,,,,,,,,,,,,,9.0,9,810,,,,
+,,,,,,,,,,,,,,1.7,3,151,,,,
+,,,,,,,,,,,,,,8.0,8,720,,,,
 ,,,,,,,,,,,,,,0.2,1,19,,,,
-,,,,,,,,,,,,,,10.2,15,919,,,,
-,,,,,,,,,,,,,,12.4,14,1118,,,,
+,,,,,,,,,,,,,,8.9,13,801,,,,
+,,,,,,,,,,,,,,10.4,12,938,,,,
 ,,,,,,,,,,,,,,0.3,2,24,,,,
-,,,,,,,,,,,,,,0.8,4,72,,,,
-,,,,,,,,,,,,,,3.3,11,300,,,,
-,,,,,,,,,,,,,,14.0,15,1259,,,,
+,,,,,,,,,,,,,,0.4,2,33,,,,
+,,,,,,,,,,,,,,2.9,9,262,,,,
+,,,,,,,,,,,,,,13.0,14,1169,,,,
 ,,,,,,,,,,,,,,3.2,7,286,,,,
+,,,,,,,,,,,,,,7.5,13,677,,,,
+,,,,,,,,,,,,,,2.5,9,229,,,,
+,,,,,,,,,,,,,,1.6,6,144,,,,
 ,,,,,,,,,,,,,,90s,MP,Min,,,,
-,,,,,,,,,,,,,,7.8,15,706,,,,
-,,,,,,,,,,,,,,2.7,10,244,,,,
-,,,,,,,,,,,,,,2.8,8,248,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
 ,,,,,,,,,,,,,,1.4,5,128,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
-,,,,,,,,,,,,,,15.0,15,1350,,,,
+,,,,,,,,,,,,,,14.0,14,1260,,,,
 ,,,,,,,,,,,,,,4.4,9,393,,,,
-,,,,,,,,,,,,,,1.7,5,156,,,,
+,,,,,,,,,,,,,,1.1,3,95,,,,
+,,,,,,,,,,,,,,0.9,2,85,,,,
+,,,,,,,,,,,,,,3.6,6,327,,,,
+,,,,,,,,,,,,,,4.9,8,439,,,,
 ,,,,,,,,,,,,,,1.0,3,86,,,,
-,,,,,,,,,,,,,,5.4,8,484,,,,
-,,,,,,,,,,,,,,6.0,10,537,,,,
-,,,,,,,,,,,,,,1.1,4,95,,,,
-,,,,,,,,,,,,,,10.3,16,930,,,,
-,,,,,,,,,,,,,,11.6,16,1047,,,,
-,,,,,,,,,,,,,,16.0,16,1440,,,,
-,,,,,,,,,,,,,,15.8,16,1424,,,,
-,,,,,,,,,,,,,,12.0,12,1080,,,,
-,,,,,,,,,,,,,,14.7,16,1327,,,,
+,,,,,,,,,,,,,,9.3,15,840,,,,
+,,,,,,,,,,,,,,10.5,14,944,,,,
+,,,,,,,,,,,,,,14.0,14,1260,,,,
+,,,,,,,,,,,,,,13.8,14,1244,,,,
+,,,,,,,,,,,,,,11.0,11,990,,,,
+,,,,,,,,,,,,,,12.9,14,1162,,,,
 ,,,,,,,,,,,,,,11.4,13,1025,,,,
 ,,,,,,,,,,,,,,7.6,11,688,,,,
 ,,,,,,,,,,,,,,2.1,3,191,,,,
 ,,,,,,,,,,,,,,11.4,12,1030,,,,
-,,,,,,,,,,,,,,3.4,8,307,,,,
+,,,,,,,,,,,,,,2.4,7,217,,,,
 ,,,,,,,,,,,,,,2.1,5,187,,,,
-,,,,,,,,,,,,,,90s,MP,Min,,,,
-,,,,,,,,,,,,,,17.0,17,1530,,,,
+,,,,,,,,,,,,,,15.0,15,1350,,,,
 ,,,,,,,,,,,,,,0.3,3,26,,,,
-,,,,,,,,,,,,,,8.6,10,773,,,,
-,,,,,,,,,,,,,,16.0,16,1440,,,,
-,,,,,,,,,,,,,,13.0,13,1170,,,,
+,,,,,,,,,,,,,,7.7,9,693,,,,
+,,,,,,,,,,,,,,90s,MP,Min,,,,
+,,,,,,,,,,,,,,14.0,14,1260,,,,
+,,,,,,,,,,,,,,12.0,12,1080,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
-,,,,,,,,,,,,,,12.5,13,1127,,,,
-,,,,,,,,,,,,,,14.0,17,1264,,,,
+,,,,,,,,,,,,,,11.7,12,1056,,,,
+,,,,,,,,,,,,,,13.3,16,1193,,,,
 ,,,,,,,,,,,,,,2.0,5,181,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
-,,,,,,,,,,,,,,7.0,11,633,,,,
+,,,,,,,,,,,,,,6.2,9,557,,,,
 ,,,,,,,,,,,,,,11.0,11,987,,,,
 ,,,,,,,,,,,,,,1.2,3,109,,,,
-,,,,,,,,,,,,,,1.6,8,140,,,,
+,,,,,,,,,,,,,,1.5,7,138,,,,
 ,,,,,,,,,,,,,,4.3,8,383,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,
-,,,,,,,,,,,,,,12.9,15,1159,,,,
+,,,,,,,,,,,,,,10.9,13,979,,,,
 ,,,,,,,,,,,,,,0,0,0,,,,

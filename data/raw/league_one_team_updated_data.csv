@@ -22,7 +22,7 @@ Emil Hansson,26.0,"Sweden, Norway",€1.50m,Left Winger,2024,birmingham-city
 Ayumu Yokoyama,21.0,Japan,€600k,Left Winger,2024,birmingham-city
 Keshi Anderson,29.0,"England, Nigeria",€300k,Left Winger,2024,birmingham-city
 Scott Wright,27.0,Scotland,€1.20m,Right Winger,2024,birmingham-city
-Jay Stansfield,22.0,England,€3.50m,Centre-Forward,2024,birmingham-city
+Jay Stansfield,21.0,England,€3.50m,Centre-Forward,2024,birmingham-city
 Lyndon Dykes,29.0,"Scotland, Australia",€2.00m,Centre-Forward,2024,birmingham-city
 Alfie May,31.0,England,€300k,Centre-Forward,2024,birmingham-city
 Lukas Jutkiewicz,35.0,England,€250k,Centre-Forward,2024,birmingham-city
@@ -42,7 +42,7 @@ Ollie Turton,31.0,England,€500k,Right-Back,2024,huddersfield-town
 Joe Hodge,22.0,"Ireland, England",€1.50m,Defensive Midfield,2024,huddersfield-town
 Jonathan Hogg,35.0,England,€200k,Defensive Midfield,2024,huddersfield-town
 Ben Wiles,25.0,England,€2.20m,Central Midfield,2024,huddersfield-town
-Herbie Kane,26.0,England,€1.20m,Central Midfield,2024,huddersfield-town
+Herbie Kane,25.0,England,€1.20m,Central Midfield,2024,huddersfield-town
 David Kasumu,25.0,"England, Nigeria",€1.00m,Central Midfield,2024,huddersfield-town
 Scott High,23.0,"Scotland, England",€700k,Central Midfield,2024,huddersfield-town
 Tom Iorpenda,19.0,"England, Nigeria",€0,Central Midfield,2024,huddersfield-town
@@ -65,7 +65,7 @@ Jason Kerr,27.0,Scotland,€600k,Centre-Back,2024,wigan-athletic
 Will Aimson,30.0,England,€225k,Centre-Back,2024,wigan-athletic
 James Carragher,22.0,England,€0,Centre-Back,2024,wigan-athletic
 Paul Dummett,33.0,"Wales, England",€700k,Left-Back,2024,wigan-athletic
-Luke Robinson,23.0,Scotland,€175k,Left-Back,2024,wigan-athletic
+Luke Robinson,22.0,Scotland,€175k,Left-Back,2024,wigan-athletic
 Calvin Ramsay,21.0,Scotland,€4.00m,Right-Back,2024,wigan-athletic
 Steven Sessegnon,24.0,England,€375k,Right-Back,2024,wigan-athletic
 Tyrese Francois,24.0,"Australia, England",€600k,Central Midfield,2024,wigan-athletic
@@ -74,7 +74,7 @@ Jensen Weir,22.0,"England, Scotland",€300k,Central Midfield,2024,wigan-athleti
 Matt Smith,24.0,England,€300k,Central Midfield,2024,wigan-athletic
 Scott Smith,23.0,"Wales, England",€200k,Central Midfield,2024,wigan-athletic
 Harry McHugh,22.0,England,€50k,Central Midfield,2024,wigan-athletic
-Kai Payne,20.0,England,€0,Central Midfield,2024,wigan-athletic
+Kai Payne,19.0,England,€0,Central Midfield,2024,wigan-athletic
 Dion Rankine,22.0,"England, Jamaica",€300k,Right Midfield,2024,wigan-athletic
 Thelo Aasgaard,22.0,"Norway, England",€700k,Attacking Midfield,2024,wigan-athletic
 Chris Sze,20.0,England,€100k,Attacking Midfield,2024,wigan-athletic
@@ -87,7 +87,7 @@ Dale Taylor,20.0,Northern Ireland,€750k,Centre-Forward,2024,wigan-athletic
 Joe Hugill,21.0,England,€200k,Centre-Forward,2024,wigan-athletic
 Gabriel Slonina,20.0,"United States, Poland",€4.00m,Goalkeeper,2024,fc-barnsley
 Jackson Smith,23.0,England,€200k,Goalkeeper,2024,fc-barnsley
-Ben Killip,29.0,England,€125k,Goalkeeper,2024,fc-barnsley
+Ben Killip,28.0,England,€125k,Goalkeeper,2024,fc-barnsley
 Adam Hayton,20.0,England,€50k,Goalkeeper,2024,fc-barnsley
 Donovan Pines,26.0,United States,€1.70m,Centre-Back,2024,fc-barnsley
 Josh Earl,26.0,England,€750k,Centre-Back,2024,fc-barnsley
@@ -108,7 +108,7 @@ Conor Hourihane,33.0,Ireland,€250k,Central Midfield,2024,fc-barnsley
 Matty Wolfe,24.0,England,€125k,Central Midfield,2024,fc-barnsley
 Vimal Yoganathan,18.0,"Wales, Sri Lanka",€0,Central Midfield,2024,fc-barnsley
 Davis Keillor-Dunn,27.0,"England, Scotland",€750k,Attacking Midfield,2024,fc-barnsley
-Fábio Jaló,19.0,Portugal,€150k,Left Winger,2024,fc-barnsley
+Fábio Jaló,18.0,Portugal,€150k,Left Winger,2024,fc-barnsley
 Stephen Humphrys,27.0,England,€500k,Centre-Forward,2024,fc-barnsley
 Sam Cosgrove,27.0,England,€450k,Centre-Forward,2024,fc-barnsley
 Max Watters,25.0,England,€400k,Centre-Forward,2024,fc-barnsley
@@ -118,7 +118,7 @@ Will Mannion,26.0,England,€150k,Goalkeeper,2024,charlton-athletic
 Dan Potts,30.0,England,€900k,Centre-Back,2024,charlton-athletic
 Alex Mitchell,23.0,England,€450k,Centre-Back,2024,charlton-athletic
 Rarmani Edmonds-Green,25.0,England,€400k,Centre-Back,2024,charlton-athletic
-Macaulay Gillesphey,29.0,England,€350k,Centre-Back,2024,charlton-athletic
+Macaulay Gillesphey,28.0,England,€350k,Centre-Back,2024,charlton-athletic
 Lloyd Jones,29.0,"England, Wales",€250k,Centre-Back,2024,charlton-athletic
 Zach Mitchell,19.0,England,€250k,Centre-Back,2024,charlton-athletic
 Thierry Small,20.0,"England, Panama",€600k,Left-Back,2024,charlton-athletic
@@ -137,7 +137,7 @@ Tyreece Campbell,21.0,"England, Jamaica",€400k,Left Winger,2024,charlton-athle
 Kaheim Dixon,20.0,Jamaica,€100k,Right Winger,2024,charlton-athletic
 Miles Leaburn,20.0,England,€600k,Centre-Forward,2024,charlton-athletic
 Matty Godden,33.0,England,€400k,Centre-Forward,2024,charlton-athletic
-Gassan Ahadme,24.0,"Morocco, Spain",€325k,Centre-Forward,2024,charlton-athletic
+Gassan Ahadme,23.0,"Morocco, Spain",€325k,Centre-Forward,2024,charlton-athletic
 Chuks Aneke,31.0,"England, Nigeria",€200k,Centre-Forward,2024,charlton-athletic
 Daniel Kanu,20.0,"Sierra Leone, England",€200k,Centre-Forward,2024,charlton-athletic
 Danny Hylton,35.0,England,€50k,Centre-Forward,2024,charlton-athletic
@@ -190,7 +190,7 @@ Nick Powell,30.0,England,€300k,Attacking Midfield,2024,stockport-county
 Louie Barry,21.0,"England, Ireland",€800k,Left Winger,2024,stockport-county
 Jack Diamond,24.0,England,€350k,Left Winger,2024,stockport-county
 Jayden Fevrier,21.0,"England, France",€300k,Right Winger,2024,stockport-county
-Isaac Olaofe,25.0,"England, Ghana",€450k,Centre-Forward,2024,stockport-county
+Isaac Olaofe,24.0,"England, Ghana",€450k,Centre-Forward,2024,stockport-county
 Kyle Wootton,28.0,England,€300k,Centre-Forward,2024,stockport-county
 Michael Mellon,20.0,Scotland,€300k,Centre-Forward,2024,stockport-county
 Arthur Okonkwo,23.0,"England, Nigeria",€1.80m,Goalkeeper,2024,afc-wrexham
@@ -274,7 +274,7 @@ Ben Fox,26.0,England,€125k,Defensive Midfield,2024,northampton-town
 Matt Dibley-Dias,21.0,"New Zealand, Brazil",€500k,Central Midfield,2024,northampton-town
 Cameron McGeehan,29.0,"Northern Ireland, England",€375k,Central Midfield,2024,northampton-town
 Samy Chouchane,21.0,"Tunisia, France",€250k,Central Midfield,2024,northampton-town
-William Hondermarck,24.0,"Congo, Ireland",€200k,Central Midfield,2024,northampton-town
+William Hondermarck,23.0,"Congo, Ireland",€200k,Central Midfield,2024,northampton-town
 Tyler Roberts,25.0,"Wales, England",€2.80m,Attacking Midfield,2024,northampton-town
 Tariqe Fosu,29.0,"Ghana, England",€900k,Left Winger,2024,northampton-town
 Mitch Pinnock,29.0,England,€300k,Left Winger,2024,northampton-town
@@ -308,7 +308,6 @@ Sam Nombe,26.0,England,€600k,Centre-Forward,2024,rotherham-united
 Jordan Hugill,32.0,England,€400k,Centre-Forward,2024,rotherham-united
 Detlef Esapa Osong,20.0,"England, Cameroon",€150k,Centre-Forward,2024,rotherham-united
 Ciaran McGuckin,20.0,Northern Ireland,€75k,Centre-Forward,2024,rotherham-united
-Josh Ayres,19.0,England,€0,Centre-Forward,2024,rotherham-united
 Josh Griffiths,23.0,England,€1.00m,Goalkeeper,2024,bristol-rovers
 Matt Hall,21.0,England,€50k,Goalkeeper,2024,bristol-rovers
 Michael Forbes,20.0,Northern Ireland,€600k,Centre-Back,2024,bristol-rovers
@@ -367,7 +366,7 @@ Jed Steer,32.0,"England, Scotland",€300k,Goalkeeper,2024,peterborough-united
 Will Blackmore,23.0,England,€100k,Goalkeeper,2024,peterborough-united
 Jadel Katongo,20.0,"England, Zambia",€500k,Centre-Back,2024,peterborough-united
 Oscar Wallin,23.0,Sweden,€200k,Centre-Back,2024,peterborough-united
-Emmanuel Fernandez,23.0,"England, Nigeria",€75k,Centre-Back,2024,peterborough-united
+Emmanuel Fernandez,22.0,"England, Nigeria",€75k,Centre-Back,2024,peterborough-united
 George Nevett,18.0,"Wales, England",€0,Centre-Back,2024,peterborough-united
 Jack Sparkes,24.0,England,€400k,Left-Back,2024,peterborough-united
 Rio Adebisi,24.0,"England, Nigeria",€300k,Left-Back,2024,peterborough-united
@@ -380,7 +379,7 @@ Archie Collins,25.0,England,€800k,Central Midfield,2024,peterborough-united
 Ryan De Havilland,23.0,England,€125k,Central Midfield,2024,peterborough-united
 Donay O'Brien-Brady,20.0,England,€0,Central Midfield,2024,peterborough-united
 Joel Randall,25.0,England,€600k,Attacking Midfield,2024,peterborough-united
-Chris Conn-Clarke,23.0,Northern Ireland,€0,Attacking Midfield,2024,peterborough-united
+Chris Conn-Clarke,22.0,Northern Ireland,€0,Attacking Midfield,2024,peterborough-united
 Abraham Odoh,24.0,England,€275k,Left Winger,2024,peterborough-united
 Kwame Poku,23.0,"Ghana, England",€1.50m,Right Winger,2024,peterborough-united
 Cian Hayes,21.0,"Ireland, England",€300k,Right Winger,2024,peterborough-united
@@ -429,9 +428,9 @@ Matt Butcher,27.0,England,€400k,Defensive Midfield,2024,wycombe-wanderers
 Aaron Morley,24.0,England,€900k,Central Midfield,2024,wycombe-wanderers
 Cameron Humphreys,21.0,England,€400k,Central Midfield,2024,wycombe-wanderers
 Josh Scowen,31.0,England,€275k,Central Midfield,2024,wycombe-wanderers
-Luke Leahy,32.0,"England, Scotland",€200k,Central Midfield,2024,wycombe-wanderers
+Luke Leahy,31.0,"England, Scotland",€200k,Central Midfield,2024,wycombe-wanderers
 David Wheeler,34.0,England,€100k,Right Midfield,2024,wycombe-wanderers
-Fred Onyedinma,28.0,"Nigeria, England",€500k,Attacking Midfield,2024,wycombe-wanderers
+Fred Onyedinma,27.0,"Nigeria, England",€500k,Attacking Midfield,2024,wycombe-wanderers
 Christie Ward,21.0,England,€75k,Attacking Midfield,2024,wycombe-wanderers
 Kieran Sadlier,30.0,"Ireland, England",€225k,Left Winger,2024,wycombe-wanderers
 Bez Lubala,26.0,"DR Congo, England",€225k,Left Winger,2024,wycombe-wanderers
@@ -495,10 +494,10 @@ Patrick Jones,21.0,"Wales, Ireland",€250k,Left Winger,2024,exeter-city
 Mustapha Carayol,36.0,"The Gambia, England",€75k,Left Winger,2024,exeter-city
 Amani Richards,20.0,"England, Jamaica",€0,Right Winger,2024,exeter-city
 Sonny Cox,20.0,England,€700k,Centre-Forward,2024,exeter-city
-Millenic Alli,24.0,"Ireland, Nigeria",€150k,Centre-Forward,2024,exeter-city
+Millenic Alli,24.0,Ireland,€150k,Centre-Forward,2024,exeter-city
 Josh Magennis,34.0,Northern Ireland,€150k,Centre-Forward,2024,exeter-city
 Jay Bird,23.0,England,€125k,Centre-Forward,2024,exeter-city
-Vicente Reyes,21.0,"Chile, Spain",€200k,Goalkeeper,2024,cambridge-united
+Vicente Reyes,20.0,"Chile, Spain",€200k,Goalkeeper,2024,cambridge-united
 Jack Stevens,27.0,England,€175k,Goalkeeper,2024,cambridge-united
 Louis Chadwick,21.0,England,€50k,Goalkeeper,2024,cambridge-united
 JJ Briggs,,England,€0,Goalkeeper,2024,cambridge-united
@@ -519,6 +518,7 @@ Korey Smith,33.0,"England, Jamaica",€250k,Central Midfield,2024,cambridge-unit
 Jordan Cousins,30.0,"Jamaica, England",€250k,Central Midfield,2024,cambridge-united
 James Brophy,30.0,England,€400k,Left Midfield,2024,cambridge-united
 George Thomas,27.0,"Wales, England",€225k,Attacking Midfield,2024,cambridge-united
+Glenn McConnell,19.0,"Ireland, Brazil",€75k,Attacking Midfield,2024,cambridge-united
 Josh Stokes,20.0,England,€0,Attacking Midfield,2024,cambridge-united
 Sullay Kaikai,29.0,"Sierra Leone, England",€250k,Left Winger,2024,cambridge-united
 Shayne Lavery,25.0,Northern Ireland,€450k,Centre-Forward,2024,cambridge-united
@@ -534,7 +534,7 @@ Kamil Dudek,18.0,Poland,€0,Goalkeeper,2024,burton-albion
 Ryan Sweeney,27.0,"Ireland, England",€350k,Centre-Back,2024,burton-albion
 Udoka Godwin-Malife,24.0,"England, Nigeria",€325k,Centre-Back,2024,burton-albion
 Terence Vancooten,26.0,"Guyana, England",€225k,Centre-Back,2024,burton-albion
-Jason Sraha,22.0,"England, Nigeria",€150k,Centre-Back,2024,burton-albion
+Jason Sraha,21.0,"England, Nigeria",€150k,Centre-Back,2024,burton-albion
 Geraldo Bajrami,25.0,"Albania, England",€100k,Centre-Back,2024,burton-albion
 Finn Delap,19.0,"England, Ireland",€50k,Centre-Back,2024,burton-albion
 Cameron Gilbert,,England,€0,Centre-Back,2024,burton-albion
@@ -549,7 +549,7 @@ Ben Whitfield,28.0,England,€200k,Central Midfield,2024,burton-albion
 Kgaogelo Chauke,21.0,"South Africa, England",€175k,Central Midfield,2024,burton-albion
 Alex Bannon,21.0,Scotland,€125k,Central Midfield,2024,burton-albion
 Ciaran Gilligan,22.0,"Ireland, England",€125k,Central Midfield,2024,burton-albion
-Jack Hazlehurst,25.0,England,€0,Attacking Midfield,2024,burton-albion
+Jack Hazlehurst,24.0,England,€0,Attacking Midfield,2024,burton-albion
 Mason Bennett,28.0,"England, Barbados",€375k,Left Winger,2024,burton-albion
 Tomas Kalinauskas,24.0,Lithuania,€125k,Left Winger,2024,burton-albion
 Jakub Niemczyk,20.0,Poland,€50k,Left Winger,2024,burton-albion
@@ -588,10 +588,10 @@ Jamie Reid,30.0,"Northern Ireland, England",€300k,Centre-Forward,2024,fc-steve
 Jake Young,23.0,England,€300k,Centre-Forward,2024,fc-stevenage
 Tyreece Simpson,22.0,England,€250k,Centre-Forward,2024,fc-stevenage
 Aaron Pressley,23.0,Scotland,€175k,Centre-Forward,2024,fc-stevenage
+Makise Evans,18.0,England,€0,Centre-Forward,2024,fc-stevenage
 Ken Aboh,20.0,"England, United States",€0,Centre-Forward,2024,fc-stevenage
 Christy Pym,29.0,"Northern Ireland, England",€450k,Goalkeeper,2024,mansfield-town
 Scott Flinders,38.0,England,€25k,Goalkeeper,2024,mansfield-town
-Anthony Núñez,19.0,Dominican Republic,€0,Goalkeeper,2024,mansfield-town
 Baily Cargill,29.0,England,€250k,Centre-Back,2024,mansfield-town
 Frazer Blake-Tracy,29.0,England,€200k,Centre-Back,2024,mansfield-town
 Alfie Kilgour,26.0,England,€125k,Centre-Back,2024,mansfield-town

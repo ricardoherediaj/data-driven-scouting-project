@@ -1,3 +1,5 @@
+# fbref_data_cleaning_pipeline.py
+
 import pandas as pd
 from paths import TRANSFORMED_DATA_DIR
 from constants import METRICS, COLUMNS_TO_NORMALIZE  # Import global configurations
