@@ -3,8 +3,8 @@
 #========================# Transfermarkt & FBRef URLs #========================#
 # Transfermarkt URLs
 championship_url = "https://www.transfermarkt.co.uk/championship/startseite/wettbewerb/GB2/plus/?saison_id=2024"
-league_one_url = "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3/plus/?saison_id=2024"
-league_two_url = "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4/plus/?saison_id=2024"
+# league_one_url = "https://www.transfermarkt.co.uk/league-one/startseite/wettbewerb/GB3/plus/?saison_id=2024"
+# league_two_url = "https://www.transfermarkt.co.uk/league-two/startseite/wettbewerb/GB4/plus/?saison_id=2024"
 
 
 # FBRef URLs and IDs dof tables for Championship, League One, and League Two
@@ -19,19 +19,19 @@ tables_info = {
         ('https://fbref.com/en/comps/10/possession/Championship-Stats', 'stats_possession'),
         ('https://fbref.com/en/comps/10/playingtime/Championship-Stats', 'stats_playing_time'),
         ('https://fbref.com/en/comps/10/misc/Championship-Stats', 'stats_misc')
-    ],
-    'league_one': [
-        ('https://fbref.com/en/comps/15/stats/League-One-Stats', 'stats_standard'),
-        ('https://fbref.com/en/comps/15/shooting/League-One-Stats', 'stats_shooting'),
-        ('https://fbref.com/en/comps/15/playingtime/League-One-Stats', 'stats_playing_time'),
-        ('https://fbref.com/en/comps/15/misc/League-One-Stats', 'stats_misc')
-    ],
-    'league_two': [
-        ('https://fbref.com/en/comps/16/stats/League-Two-Stats', 'stats_standard'),
-        ('https://fbref.com/en/comps/16/shooting/League-Two-Stats', 'stats_shooting'),
-        ('https://fbref.com/en/comps/16/playingtime/League-Two-Stats', 'stats_playing_time'),
-        ('https://fbref.com/en/comps/16/misc/League-Two-Stats', 'stats_misc')
     ]
+    # 'league_one': [
+    #     ('https://fbref.com/en/comps/15/stats/League-One-Stats', 'stats_standard'),
+    #     ('https://fbref.com/en/comps/15/shooting/League-One-Stats', 'stats_shooting'),
+    #     ('https://fbref.com/en/comps/15/playingtime/League-One-Stats', 'stats_playing_time'),
+    #     ('https://fbref.com/en/comps/15/misc/League-One-Stats', 'stats_misc')
+    # ],
+    # 'league_two': [
+    #     ('https://fbref.com/en/comps/16/stats/League-Two-Stats', 'stats_standard'),
+    #     ('https://fbref.com/en/comps/16/shooting/League-Two-Stats', 'stats_shooting'),
+    #     ('https://fbref.com/en/comps/16/playingtime/League-Two-Stats', 'stats_playing_time'),
+    #     ('https://fbref.com/en/comps/16/misc/League-Two-Stats', 'stats_misc')
+    # ]
 }
 
 #========================# FBRef Columns to Scrape #========================#
@@ -54,18 +54,18 @@ columns_to_retain_championship = {
 }
 
 # Columnas a extraer para League One y League Two
-columns_to_retain_league_one_two = {
-    'stats_standard': ['Player', 'Nation', 'Squad', 'Age', 'Born', 'Playing Time 90s', 'Position_2', 'Position'],
-    'stats_playing_time': ['Player', 'Squad', 'Playing Time 90s', 'Playing Time MP', 'Playing Time Min'],
-    'stats_shooting': ['Player', 'Squad', 'Standard Gls', 'Standard Sh', 'Standard SoT', 'Standard SoT%', 'Standard Sh/90', 'Standard SoT/90'],
-    'stats_misc': ['Player', 'Squad', 'Performance Off', 'Performance Crs', 'Performance Int', 'Performance TklW',
-                   'Performance Recov', 'Aerial Duels Won', 'Aerial Duels Lost', 'Aerial Duels Won%']
-}
+# columns_to_retain_league_one_two = {
+#     'stats_standard': ['Player', 'Nation', 'Squad', 'Age', 'Born', 'Playing Time 90s', 'Position_2', 'Position'],
+#     'stats_playing_time': ['Player', 'Squad', 'Playing Time 90s', 'Playing Time MP', 'Playing Time Min'],
+#     'stats_shooting': ['Player', 'Squad', 'Standard Gls', 'Standard Sh', 'Standard SoT', 'Standard SoT%', 'Standard Sh/90', 'Standard SoT/90'],
+#     'stats_misc': ['Player', 'Squad', 'Performance Off', 'Performance Crs', 'Performance Int', 'Performance TklW',
+#                    'Performance Recov', 'Aerial Duels Won', 'Aerial Duels Lost', 'Aerial Duels Won%']
+# }
 
 columns_to_retain = {
     'championship': columns_to_retain_championship,
-    'league_one': columns_to_retain_league_one_two,
-    'league_two': columns_to_retain_league_one_two
+    # 'league_one': columns_to_retain_league_one_two,
+    # 'league_two': columns_to_retain_league_one_two
 }
 
 # Columns for Championship
@@ -94,16 +94,16 @@ FBREF_COLUMNS_CHAMPIONSHIP = [
 ]
 
 # Columns for League One and League Two
-FBREF_COLUMNS_OTHER_LEAGUES = [
-    'player', 'nation_stats_standard', 'squad', 'age_stats_standard', 'born_stats_standard',
-    'playing_time_90s_stats_standard', 'position_2_stats_standard', 'position_stats_standard',
-    '90s_stats_shooting', 'standard_gls_stats_shooting', 'standard_sh_stats_shooting',
-    'standard_sot_stats_shooting', 'standard_sot%_stats_shooting', 'standard_sh_90_stats_shooting',
-    'standard_sot_90_stats_shooting', 'playing_time_90s_stats_playing_time',
-    'playing_time_mp_stats_playing_time', 'playing_time_min_stats_playing_time',
-    '90s_stats_misc', 'performance_off_stats_misc', 'performance_crs_stats_misc',
-    'performance_int_stats_misc', 'performance_tklw_stats_misc'
-]
+# FBREF_COLUMNS_OTHER_LEAGUES = [
+#     'player', 'nation_stats_standard', 'squad', 'age_stats_standard', 'born_stats_standard',
+#     'playing_time_90s_stats_standard', 'position_2_stats_standard', 'position_stats_standard',
+#     '90s_stats_shooting', 'standard_gls_stats_shooting', 'standard_sh_stats_shooting',
+#     'standard_sot_stats_shooting', 'standard_sot%_stats_shooting', 'standard_sh_90_stats_shooting',
+#     'standard_sot_90_stats_shooting', 'playing_time_90s_stats_playing_time',
+#     'playing_time_mp_stats_playing_time', 'playing_time_min_stats_playing_time',
+#     '90s_stats_misc', 'performance_off_stats_misc', 'performance_crs_stats_misc',
+#     'performance_int_stats_misc', 'performance_tklw_stats_misc'
+# ]
 
 #========================# FBRef columns to clean on data cleaning script #========================#
 # Relevant metrics to build dataframes

@@ -53,19 +53,19 @@ def save_dataset(df, file_path):
 if __name__ == "__main__":
     # Transfermarkt file list
     transfermarkt_files = [
-        'championship_team_updated_data.csv',
-        'league_one_team_updated_data.csv',
-        'league_two_team_updated_data.csv'
+        'championship_league_updated_data.csv'
+        #'league_one_team_updated_data.csv',
+        #'league_two_team_updated_data.csv'
     ]
 
     # Load data
     df_transfermarkt = load_transfermarkt_data(transfermarkt_files)
     df_cleaned_transfermarkt = clean_transfermarkt_data(df_transfermarkt)
-    df_fbref = load_fbref_data(TRANSFORMED_DATA_DIR / 'df_combined_fbref_leagues.csv')
+    df_fbref = load_fbref_data(TRANSFORMED_DATA_DIR / 'df_championship_league_cleaned.csv')
 
     # Merge datasets
     df_training = merge_datasets(df_fbref, df_cleaned_transfermarkt)
 
     # Save final dataset
-    save_dataset(df_training, TRANSFORMED_DATA_DIR / 'df_training.csv')
-    print(f"Dataset saved to {TRANSFORMED_DATA_DIR / 'df_training.csv'}")
+    save_dataset(df_training, TRANSFORMED_DATA_DIR / 'df_training_championship.csv')
+    print(f"Dataset saved to {TRANSFORMED_DATA_DIR / 'df_training_championship.csv'}")

@@ -60,14 +60,14 @@ def clean_dataset(file_path, columns_to_normalize, metrics, filter_positions=Non
 
 def main():
     """
-    Main function to clean datasets for Championship, League One, and League Two,
-    and combine them into a single dataset.
+    Main function to clean datasets for Championship. It was previosly focused to also clean League One + League Two,
+    and combine them into a single dataset, though I decided to only focus on the Championship League for now.
     """
     # Define file paths for the datasets
     paths = {
-        'championship': TRANSFORMED_DATA_DIR / 'merged_dataframe_championship.csv',
-        'league_one': TRANSFORMED_DATA_DIR / 'merged_dataframe_league_one.csv',
-        'league_two': TRANSFORMED_DATA_DIR / 'merged_dataframe_league_two.csv'
+        'championship': TRANSFORMED_DATA_DIR / 'merged_dataframe_championship_updated.csv'
+        #'league_one': TRANSFORMED_DATA_DIR / 'merged_dataframe_league_one.csv',
+        #'league_two': TRANSFORMED_DATA_DIR / 'merged_dataframe_league_two.csv'
     }
     
     # Clean each league dataset
@@ -78,58 +78,58 @@ def main():
         filter_positions=['Midfielder', 'Forward'], 
         exclude_team='Sheffield Utd'
     )
-    df_league_one_cleaned = clean_dataset(
-        paths['league_one'], 
-        columns_to_normalize=[
-            'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
-            'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
-            'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting',
-            'performance_off_stats_misc', 'performance_crs_stats_misc',
-            'performance_int_stats_misc', 'performance_tklw_stats_misc'
-        ], 
-        metrics=[
-            'player', 'nation_stats_standard', 'squad', 'age_stats_standard',
-            'position_stats_standard', 'playing_time_min_stats_playing_time',
-            'playing_time_90s_stats_playing_time'
-        ] + [f"{col}_per_90" for col in [
-            'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
-            'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
-            'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting',
-            'performance_off_stats_misc', 'performance_crs_stats_misc',
-            'performance_int_stats_misc', 'performance_tklw_stats_misc'
-        ]],
-        filter_positions=['Midfielder', 'Forward']
-    )
-    df_league_two_cleaned = clean_dataset(
-        paths['league_two'], 
-        columns_to_normalize=[
-            'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
-            'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
-            'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting'
-        ], 
-        metrics=[
-            'player', 'nation_stats_standard', 'squad', 'age_stats_standard',
-            'position_stats_standard', 'playing_time_min_stats_playing_time',
-            'playing_time_90s'
-        ] + [f"{col}_per_90" for col in [
-            'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
-            'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
-            'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting'
-        ]],
-        filter_positions=['Midfielder', 'Forward']
-    )
+    # df_league_one_cleaned = clean_dataset(
+    #     paths['league_one'], 
+    #     columns_to_normalize=[
+    #         'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
+    #         'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
+    #         'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting',
+    #         'performance_off_stats_misc', 'performance_crs_stats_misc',
+    #         'performance_int_stats_misc', 'performance_tklw_stats_misc'
+    #     ], 
+    #     metrics=[
+    #         'player', 'nation_stats_standard', 'squad', 'age_stats_standard',
+    #         'position_stats_standard', 'playing_time_min_stats_playing_time',
+    #         'playing_time_90s_stats_playing_time'
+    #     ] + [f"{col}_per_90" for col in [
+    #         'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
+    #         'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
+    #         'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting',
+    #         'performance_off_stats_misc', 'performance_crs_stats_misc',
+    #         'performance_int_stats_misc', 'performance_tklw_stats_misc'
+    #     ]],
+    #     filter_positions=['Midfielder', 'Forward']
+    # )
+    # df_league_two_cleaned = clean_dataset(
+    #     paths['league_two'], 
+    #     columns_to_normalize=[
+    #         'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
+    #         'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
+    #         'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting'
+    #     ], 
+    #     metrics=[
+    #         'player', 'nation_stats_standard', 'squad', 'age_stats_standard',
+    #         'position_stats_standard', 'playing_time_min_stats_playing_time',
+    #         'playing_time_90s'
+    #     ] + [f"{col}_per_90" for col in [
+    #         'standard_gls_stats_shooting', 'standard_sh_stats_shooting', 
+    #         'standard_sot_stats_shooting', 'standard_sot%_stats_shooting',
+    #         'standard_sh_90_stats_shooting', 'standard_sot_90_stats_shooting'
+    #     ]],
+    #     filter_positions=['Midfielder', 'Forward']
+    # )
 
     # Combine cleaned datasets
-    df_combined_fbref_leagues = (
-        pd.concat([df_championship_cleaned, df_league_one_cleaned, df_league_two_cleaned], ignore_index=True)
+    df_championship_league_cleaned = (
+        pd.concat([df_championship_cleaned], ignore_index=True) #df_league_one_cleaned, df_league_two_cleaned
         .reindex(columns=df_championship_cleaned.columns, fill_value=0)
         .fillna(0)
     )
     
-    # Save combined dataset
-    output_path = TRANSFORMED_DATA_DIR / "df_combined_fbref_leagues.csv"
-    df_combined_fbref_leagues.to_csv(output_path, index=False)
-    print(f"Combined dataset saved at: {output_path}")
+    # Save Cleaned Championship dataset
+    output_path = TRANSFORMED_DATA_DIR / "df_championship_league_cleaned.csv"
+    df_championship_league_cleaned.to_csv(output_path, index=False)
+    print(f"Cleaned Championship dataset saved at: {output_path}")
 
 
 if __name__ == "__main__":

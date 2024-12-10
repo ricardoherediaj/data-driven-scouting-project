@@ -11,7 +11,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("kmeans_pipeline.log"),
+        logging.FileHandler("kmeans_pipeline_championship_data.log"),
         logging.StreamHandler()
     ]
 )
@@ -19,10 +19,10 @@ logging.basicConfig(
 # Main function to execute the K-Means pipeline
 def main():
     # Define paths
-    input_path = TRANSFORMED_DATA_DIR / 'df_training.csv'
-    model_save_path = MODELS_DIR / 'kmeans_model_3_clusters_updated.pkl'
-    labeled_results_path = TRANSFORMED_DATA_DIR / 'df_training_scaled_labeled.csv'
-    unscaled_results_path = TRANSFORMED_DATA_DIR / 'df_training_unscaled_labeled.csv'
+    input_path = TRANSFORMED_DATA_DIR / 'df_training_championship.csv'
+    model_save_path = MODELS_DIR / 'kmeans_model_updated_championship_data.pkl'
+    labeled_results_path = TRANSFORMED_DATA_DIR / 'df_training_championship_scaled_labeled.csv'
+    unscaled_results_path = TRANSFORMED_DATA_DIR / 'df_training_championship_unscaled_labeled.csv'
 
     try:
         # Step 1: Load dataset

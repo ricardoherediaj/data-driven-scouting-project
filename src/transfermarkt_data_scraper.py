@@ -48,4 +48,4 @@ class Scraper:
 if __name__ == "__main__":
     from constants import championship_url, league_one_url, league_two_url
     championship_teams = get_teams_from_league(championship_url)
-    scrape(championship_teams, "data/championship_updated_data.csv", 2024)
+    scrape(championship_teams, "data/championship_league_updated_data.csv", 2024)

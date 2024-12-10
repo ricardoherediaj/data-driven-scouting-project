@@ -73,7 +73,7 @@ def merge_dataframes(dataframes_dict, columns_dict):
 
 def save_dataframe(df, league_name):
     """ Save merged dataframe to CSV. """
-    save_path = TRANSFORMED_DATA_DIR / f"merged_dataframe_{league_name}.csv"
+    save_path = TRANSFORMED_DATA_DIR / f"merged_dataframe_{league_name}_updated.csv"
     df.to_csv(save_path, index=False)
     print(f"Data for {league_name} saved successfully at {save_path}")
 

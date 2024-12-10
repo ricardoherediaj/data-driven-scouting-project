@@ -5,7 +5,7 @@ sys.path.append('../../src')
 from fbref_data_scraper import scrape_league, save_dataframe
 
 def main():
-    leagues = ['championship', 'league_one', 'league_two']
+    leagues = ['championship'] #'league_one', 'league_two'
     
     for league in leagues:
         print(f"Scraping data for {league}...")
