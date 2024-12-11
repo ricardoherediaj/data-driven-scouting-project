@@ -103,11 +103,11 @@ def generate_custom_radar_chart(player_df, metrics, renamed_metrics, player_name
 
 # ---------------- EXECUTION EXAMPLE ----------------
 if __name__ == "__main__":
-    path = LABELED_DATA_DIR / 'df_training_unscaled_labeled.csv'
+    path = LABELED_DATA_DIR / 'df_training_championship_unscaled_labeled.csv'
     df = pd.read_csv(path)
 
     # Drop unnecessary columns
-    columns_to_drop = ['nation_stats_standard', 'playing_time_90s', 'playing_time_min_stats_playing_time']
+    columns_to_drop = ['playing_time_min_stats_playing_time'] #'nation_stats_standard', 'playing_time_90s'
     df_cleaned = df.drop(columns=columns_to_drop)
 
     # Load fonts
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 
     # Calculate percentiles
     midfielders_percentiles = calculate_percentiles_by_position(
-        df_cleaned[df_cleaned['cluster'] == 1], metrics_midfielders, 'Midfielder'
+        df_cleaned[df_cleaned['cluster'] == 0], metrics_midfielders, 'Midfielder'
     )
     forwards_percentiles = calculate_percentiles_by_position(
         df_cleaned[df_cleaned['cluster'] == 2], metrics_forwards, 'Forward'
