@@ -117,9 +117,11 @@ I'll focus on solving the scraping issue in the future to include up-to-date dat
 
 There are some improvements in the mid-long term that aims to enhance the project's scalability: 
 
-- Focus on players from the Championship while solving scraping issue.
+- Focus on using data from players from the Championship rather than League One or Two.
 - Create an automated pipeline to obtain events data from WhoScored and create relevant plots for the shortlisted players such as heat maps, pass maps and shooting maps.
 - Build automated reports using these plots and the radar charts, adding a brief description of the scouted player.
+- Use GitHub Actions to automate scripts (data pipelines, model training, charts generation).
+- Reimplement the project with Metaflow for a smoother data flow.
 
 ## Contact
 
