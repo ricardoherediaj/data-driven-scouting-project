@@ -115,11 +115,11 @@ I'll focus on solving the scraping issue in the future to include up-to-date dat
 
 ## Roadmap 
 
-There are some improvements in the mid-long term that aims to enhance the project's scalability, making it adaptable to other teams, leagues, and players. These are: 
+There are some improvements in the mid-long term that aims to enhance the project's scalability: 
 
-- Solve the scraping issue.
-- Create an automated pipeline to obtain events data from WhoScored and create relevant plots for the players such as heat maps, pass maps and shooting maps.
-- Build automated reports using these plots and the radar charts, adding a brief description of the scouted player in order to build a professional report.
+- Focus on players from the Championship while solving scraping issue.
+- Create an automated pipeline to obtain events data from WhoScored and create relevant plots for the shortlisted players such as heat maps, pass maps and shooting maps.
+- Build automated reports using these plots and the radar charts, adding a brief description of the scouted player.
 
 ## Contact
 
@@ -143,7 +143,7 @@ I'd like to mention a couple or persons who inspired me to give it a try to this
 
 - Pol Marin, who's project made me want to replicate the clustering idea and extend his approach: https://towardsdatascience.com/using-clustering-algorithms-for-player-recruitment-98208d3a6cb4
 
-- Conal Henderson who made a great job showing how to automate the Transfermarkt scraping for Premier League. Check it out in this article: https://medium.com/@conalhenderson/how-to-build-a-custom-web-scraper-to-extract-premier-league-player-market-data-3b8e5378cca2
+- Conal Henderson who did a great job automating the Transfermarkt scraping for the Premier League, it helped replicate it for the other three leagues. Check it out in this article: https://medium.com/@conalhenderson/how-to-build-a-custom-web-scraper-to-extract-premier-league-player-market-data-3b8e5378cca2
 
 ## License
 
