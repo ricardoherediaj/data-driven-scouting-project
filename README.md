@@ -109,15 +109,13 @@ The scrapers were functional at the time of development. However, due to potenti
 
 This issue will be addressed in future updates to ensure compatibility of the pipelines workflow.
 
-For the purposes of the Streamlit demo, the app was built using data collected up until match day 16 from the three leagues, which was enough to demonstrate the end-to-end functionality of the project. 
-
-I'll focus on solving the scraping issue in the future to include up-to-date data for all leagues.
+For the purposes of the Streamlit demo, the app was built using data collected up until match day 19 from the Championship (previously on the three leagues), which was enough to demonstrate the end-to-end functionality of the project. 
 
 ## Roadmap 
 
 There are some improvements in the mid-long term that aims to enhance the project's scalability: 
 
-- Focus on using data from players from the Championship rather than League One or Two.
+- Focus on using data from players from the Championship rather than League One or Two. Still, I'll try to solve the scraping issue. 
 - Create an automated pipeline to obtain events data from WhoScored and create relevant plots for the shortlisted players such as heat maps, pass maps and shooting maps.
 - Build automated reports using these plots and the radar charts, adding a brief description of the scouted player.
 - Use GitHub Actions to automate scripts (data pipelines, model training, charts generation).
